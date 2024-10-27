@@ -1,3 +1,6 @@
+---
+finished: false
+---
 #epoka/antyk
 
 Obowiązują fragmenty tych ksiąg. Przypowieści nie obowiązują.

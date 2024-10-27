@@ -3,7 +3,7 @@ finished: true
 ---
 #autor
 
-- **Epoka**: #epoka/antyk 
+- **Epoka**: [[Antyk]] #epoka/antyk 
 - **Lata życia**: VIII w. p.n.e.
 - Napisał:
 	- [Iliadę](Iliada)
