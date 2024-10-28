@@ -1,6 +1,12 @@
+---
+finished: true
+---
 #gatunek
 
 Najważniejszy antyczny gatunek literacki. Ma on pewne ściśle określone reguły, z których wyłamywano się przy pisaniu dramatów dopiero w późniejszych epokach.
+Tragizm bohatera wynika z tego, że
+- stoi przed wyborem bez dobrej opcji (konflikt równorzędnych racji, np. [[Antygona]])
+- jest skazany na niepowodzenie ([fatum](Tragedia%20antyczna#^fatum), np. [[Król Edyp]])
 
 ## Cechy tragedii antycznej
 ### Budowa i styl

@@ -40,3 +40,6 @@ Antyk, czyli starożytność klasyczna, to dorobek kultur greckiej i rzymskiej. 
 
 ### Poziom rozszerzony
 1. Odyseja, [[Homer]] (fragmenty)
+
+### Dodatkowo
+1. Król Edyp, Sofokles
