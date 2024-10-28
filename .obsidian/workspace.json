@@ -15,12 +15,22 @@
               "type": "markdown",
               "state": {
                 "file": "Antyk.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
               "title": "Antyk"
+            }
+          },
+          {
+            "id": "2b8e46b1070ef016",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -167,11 +177,12 @@
   },
   "active": "5a632d226f979104",
   "lastOpenFiles": [
-    "Epos homerycki.md",
     "Antyk.md",
+    "Mit.md",
     "Tragedia antyczna.md",
-    "Filozofia starożytna.md",
+    "Epos homerycki.md",
     "Biblia.md",
+    "Filozofia starożytna.md",
     "Tragedia.md",
     "().md",
     "Homer.md",

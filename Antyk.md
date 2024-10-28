@@ -10,9 +10,11 @@ Antyk, czyli starożytność klasyczna, to dorobek kultur greckiej i rzymskiej. 
 ## Kluczowe pojęcia
 - [[Filozofia starożytna]]
 ### Gatunki
+#### Klasycystyczne
 - [[Tragedia antyczna]]
 - [[Epos homerycki]]
-- Mit
+- [[Mit]]
+#### Biblijne
 - Psalm
 - Przypowieść (parabola)
 - Apokalipsa
