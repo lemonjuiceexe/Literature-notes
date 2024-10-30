@@ -1,7 +1,7 @@
 ---
 finished: false
 ---
-#epoka 
+#epoka #epoka/renesans 
 ## Informacje ogólne
 Renesans, czyli z fr. **odrodzenie**, rozpoczął się we Włoszech. Umownie napływ bizantyjskich uczonych po upadku Konstantynopola, przywożących starożytne teksty, wzbudził fascynację kulturą antyczną.
 - **Charakterystyka**: apollińska (racjonalna)
@@ -37,7 +37,7 @@ Renesans, czyli z fr. **odrodzenie**, rozpoczął się we Włoszech. Umownie nap
 	1. Tren IX 
 	2. Tren X
 	3. Tren XI
-3. Makbet, William Szekspir
+3. [[Makbet]], William Szekspir
 ### Poziom rozszerzony
 1. Treny, Jan Kochanowski *(jako cykl poetycki)*
 2. Hamlet, William Szekspir
@@ -50,7 +50,8 @@ Renesans, czyli z fr. **odrodzenie**, rozpoczął się we Włoszech. Umownie nap
 2. Treny, Jan Kochanowski
 	6. I, III, VI, XIX
 	   
-	   
+---
+
 3. Odprawa posłów greckich, Jan Kochanowski
 4. Żywot człowieka poczciwego, Mikołaj Rej
 5. Romeo i Julia, William Szekspir

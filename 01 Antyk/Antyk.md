@@ -1,7 +1,7 @@
 ---
 finished: false
 ---
-#epoka 
+#epoka #epoka/antyk 
 ## Informacje ogólne
 Antyk, czyli starożytność klasyczna, to dorobek kultur greckiej i rzymskiej. Razem z Biblią stanowią one podstawy kultury europejskiej.
 - **Charakterystyka**: apollińska (racjonalna)
