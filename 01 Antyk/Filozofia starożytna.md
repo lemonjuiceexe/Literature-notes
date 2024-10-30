@@ -1,7 +1,7 @@
 ---
 finished: true
 ---
-#epoka/antyk #filozofia
+#filozofia #epoka/antyk 
 ## Platon
 Najwybitniejszy uczeń Sokratesa, najważniejszy zachodni filozof w ogóle.
 **Idealizm platoński** to pogląd, według którego świat dostępny ludzkim zmysłom nie jest całością rzeczywistości. Wszystko w rzeczywistości materialnej pochodzi od idealnych **form**, jest ich niedoskonałą imitacją. 

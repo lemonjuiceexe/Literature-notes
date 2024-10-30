@@ -2,6 +2,7 @@
 finished: true
 ---
 #gatunek 
+**Rodzaj**: epika
 
 Przekazywana ustnie opowieść, wyrażająca wierzenia społeczności. Zbiorem mitów jest mitologia.
 

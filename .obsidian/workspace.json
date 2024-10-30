@@ -4,33 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d768e3b976436714",
+        "id": "19b5ddbadb7b5490",
         "type": "tabs",
         "children": [
           {
-            "id": "5a632d226f979104",
+            "id": "175a519829bc52a1",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Antyk.md",
+                "file": "02 Renesans/Renesans.md",
                 "mode": "preview",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Antyk"
-            }
-          },
-          {
-            "id": "2b8e46b1070ef016",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Renesans"
             }
           }
         ]
@@ -151,18 +141,18 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Antyk.md"
+                "file": "02 Renesans/Renesans.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Antyk"
+              "title": "Outline of Renesans"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,20 +165,27 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "5a632d226f979104",
+  "active": "175a519829bc52a1",
   "lastOpenFiles": [
-    "Antyk.md",
-    "Mit.md",
-    "Tragedia antyczna.md",
-    "Epos homerycki.md",
-    "Biblia.md",
-    "Filozofia starożytna.md",
+    "02 Renesans/Filozofia renesansu.md",
+    "02 Renesans/Renesans.md",
+    "02 Renesans/Pieśń.md",
+    "02 Renesans/Fraszka.md",
+    "02 Renesans/Tren.md",
+    "01 Antyk/Antyk.md",
+    "01 Antyk/Filozofia starożytna.md",
+    "01 Antyk/Mit.md",
+    "01 Antyk/Epos homerycki.md",
+    "01 Antyk/Tragedia antyczna.md",
+    "Język polski matura 2025.md",
+    "02 Renesans",
+    "01 Antyk/Homer.md",
+    "01 Antyk",
+    "Excalidraw/Jaskinia Platona.png",
+    "01 Antyk/Biblia.md",
     "Tragedia.md",
     "().md",
-    "Homer.md",
-    "Język polski matura 2025.md",
     "Filozofia.md",
-    "Excalidraw/Jaskinia Platona.png",
     "Excalidraw",
     "Excalidraw/Filozofia starożytna 2024-10-27 02.21.33.excalidraw.md",
     "Excalidraw",
