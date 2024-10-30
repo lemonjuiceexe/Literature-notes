@@ -30,7 +30,7 @@ Renesans, czyli z fr. **odrodzenie**, rozpoczął się we Włoszech. Umownie nap
 
 ## Lektury
 ### Poziom podstawowy
-1. Pieśni, Jan Kochanowski
+1. [[Pieśni]], Jan Kochanowski
 	1. Chcemy sobie być radzi (Pieśń IX ks. I)
 	2. Pieśń o spustoszeniu Podola (Pieśń V ks. II)
 2. Treny, Jan Kochanowski

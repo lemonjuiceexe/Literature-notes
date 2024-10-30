@@ -13,6 +13,9 @@ finished: false
 
 
 ##### Klasycyzm renesansowy
+
+^e63fbd
+
 światopogląd oraz styl w sztuce. Dostrzegano **w świecie ład i harmonię** co uznawano za znaki **działania Boga - doskonałego artysty**. 
 W sztuce:
 - inspiracje czerpane z kultury antycznej
