@@ -55,3 +55,4 @@ Renesans, czyli z fr. **odrodzenie**, rozpoczął się we Włoszech. Umownie nap
 3. Odprawa posłów greckich, Jan Kochanowski
 4. Żywot człowieka poczciwego, Mikołaj Rej
 5. Romeo i Julia, William Szekspir
+6. Kazania sejmowe, Piotr Skarga
