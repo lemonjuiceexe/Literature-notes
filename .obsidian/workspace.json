@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "04 Barok/Barok.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true,
@@ -43,30 +43,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Barok/Sztuka baroku.md",
+                "file": "03 Renesans/Filozofia renesansu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sztuka baroku"
-            }
-          },
-          {
-            "id": "df7efde2fffbaf20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Barok/Barok.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Barok"
+              "title": "Filozofia renesansu"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,24 +197,24 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "df7efde2fffbaf20",
+  "active": "ccfa24c4ca7a3daf",
   "lastOpenFiles": [
     "04 Barok/Filozofia baroku.md",
-    "04 Barok/Sztuka baroku.md",
-    "04 Barok/Barok.md",
-    "03 Renesans/Renesans.md",
     "03 Renesans/Filozofia renesansu.md",
-    "01 Antyk/Antyk.md",
+    "04 Barok/Barok.md",
+    "04 Barok/Sztuka baroku.md",
     "03 Renesans/Fraszka.md",
+    "01 Antyk/Antyk.md",
+    "01 Antyk/Mit.md",
+    "01 Antyk/Biblia.md",
+    "03 Renesans/Renesans.md",
     "03 Renesans/Pieśni.md",
     "01 Antyk/Filozofia starożytna.md",
     "01 Antyk/Tragedia antyczna.md",
     "03 Renesans/Makbet.md",
-    "01 Antyk/Biblia.md",
     "04 Barok",
     "01 Antyk/Epos homerycki.md",
     "01 Antyk/Homer.md",
-    "01 Antyk/Mit.md",
     "03 Renesans/Tren.md",
     "Język polski matura 2025.md",
     "Excalidraw/Jaskinia Platona.png",

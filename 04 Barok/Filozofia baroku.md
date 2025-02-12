@@ -1,1 +1,1 @@
-**Kontrreformacja** - 
+**Kontrreformacja** - zapoczątkowany przez sobór trydencki ruch w Kościele katolickim odpowiadający na [reformację](../Renesans/Filozofia%20renesansu#^reformacja). Zmierzał do odzyskania przez Kościół wpływów, utraconych wskutek reformacji. W ramach uzdrowienia Kościoła przebudowano struktury, wzmocniono dyscyplinę i unormowano liturgię. Pod względem doktrynalnym nie zgodzono się jednak z żadnymi postulatami reformacji i zwalczano protestantyzm. ^kontrreformacja
