@@ -27,7 +27,7 @@ Utwór traktuje o zagrożeniu ze strony Turków, którzy najechali Podole. Nawo�
 Parafraza z [Horacego](Horacy). Poeta mówi o własnej twórczości i jej nieśmiertelności, podkreśla swój talent. Mówi, że pamięć o jego dziełach przetrwa dłużej niż on sam. #motyw/exegi-monumentum 
 
 ### Czego chcesz od nas, Panie
-Hymn pochwalny skierowany do Boga. Podmiot liryczny dziękuje za stworzenie świata i hojność Stwórcy. Podkreśla **ład, harmonię i piękno natury** (patrz [klasycyzm renesansowy](Filozofia%20renesansu#Klasycyzm%20renesansowy)). Ukazuje Boga jako miłosiernego opiekuna oraz twórcę doskonałego świata (motyw *deus artifex*). 
+Hymn pochwalny skierowany do Boga. Podmiot liryczny dziękuje za stworzenie świata i hojność Stwórcy. Podkreśla **ład, harmonię i piękno natury** (patrz [klasycyzm renesansowy](Filozofia%20renesansu.md#Klasycyzm%20renesansowy)). Ukazuje Boga jako miłosiernego opiekuna oraz twórcę doskonałego świata (motyw *deus artifex*). 
 ### Nie porzucaj nadzieje
 Pieśń również odwołuje się do motywów [stoickich](Filozofia%20starożytna#^stoicyzm). Podmiot liryczny przestrzega nas przed utratą nadziei, przypominając, że zawsze po złych chwilach przychodzą lepsze.
 ### Wy, którzy Pospolitą Rzeczą władacie

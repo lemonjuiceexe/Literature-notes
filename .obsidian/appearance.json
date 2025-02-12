@@ -1,4 +1,5 @@
 {
   "interfaceFontFamily": "Consolas",
-  "textFontFamily": "Consolas"
+  "textFontFamily": "Consolas",
+  "showRibbon": true
 }

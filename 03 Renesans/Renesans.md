@@ -19,11 +19,11 @@ Renesans, czyli z fr. **odrodzenie**, rozpoczął się we Włoszech. Umownie nap
 - [[Fraszka]]
 - [[Pieśń]]
 ### Inne
-- [Humanizm](Filozofia%20renesansu#^humanizm)
-- [Antropocentryzm](Filozofia%20renesansu#^antropocentryzm)
-- [Klasycyzm renesansowy](Filozofia%20renesansu#Klasycyzm%20renesansowy)
-- [Reformacja](Filozofia%20renesansu#^reformacja)
-- [Horacjanizm](Filozofia%20renesansu#^horacjanizm)
+- [Humanizm](Filozofia%20renesansu.md#^humanizm)
+- [Antropocentryzm](Filozofia%20renesansu.md#^antropocentryzm)
+- [Klasycyzm renesansowy](Filozofia%20renesansu.md#Klasycyzm%20renesansowy)
+- [Reformacja](Filozofia%20renesansu.md#^reformacja)
+- [Horacjanizm](Filozofia%20renesansu.md#^horacjanizm)
 - Makiawelizm
 - Donkiszoteria
 - Deus artifex
