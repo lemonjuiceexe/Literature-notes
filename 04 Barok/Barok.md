@@ -13,20 +13,26 @@ Barok to epoka wyrastająca z kontrreformacji. Odrzuca renesansowe antropocentry
 ### Gatunki
 - [[Pamiętnik]]
 ### Pojęcia teoretycznoliterackie
-- Konceptyzm
-- Marinizm
-- Antyteza
-- Oksymoron
-- Figura sumacji
-- Kompozycja łańcuchowa
-- Przerzutnia
+- [Marinizm](./Sztuka%20baroku#^marinizm)
+- [Konceptyzm](./Sztuka%20baroku#^konceptyzm)
+- [Antyteza](./Sztuka%20baroku#^antyteza)
+- [Oksymoron](./Sztuka%20baroku#^oksymoron)
+- [Peryfraza](./Sztuka%20baroku#^peryfraza)
+- [Anafora](./Sztuka%20baroku#^anafora)
+- [Figura sumacji](./Sztuka%20baroku#^figurasumacji)
+- [Kompozycja łańcuchowa](./Sztuka%20baroku#^kompozycjalancuchowa)
+- [Gradacja](./Sztuka%20baroku#^gradacja)
+- [Przerzutnia](./Sztuka%20baroku#^elipsa)
 ### Inne
 - [Kontrreformacja](./Filozofia%20baroku#^kontrreformacja)
-- Sarmatyzm
+- [Sarmatyzm](./Filozofia%20baroku#^sarmatyzm)
 - Światłocień
 ## Lektury
 
 ### Poziom podstawowy
 1. Skąpiec, Molier
 ### Dodatkowo
-2. Pamiętniki, Jan Chryzostom Pasek
+1. Pamiętniki, Jan Chryzostom Pasek
+2. [Poezja Daniela Naborowskiego](Poezja%20baroku.md#Daniel%20Naborowski) 
+3. [Poezja Mikołaja Sępa Szarzyńskiego](Poezja%20baroku.md#Mikołaj%20Sęp%20Szarzyński)
+4. [Poezja Jana Andrzeja Morsztyna](Poezja%20baroku.md#Jan%20Andrzej%20Morsztyn)
