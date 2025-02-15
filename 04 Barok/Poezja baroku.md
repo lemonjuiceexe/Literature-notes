@@ -1,3 +1,6 @@
+---
+finished: false
+---
 ## Mikołaj Sęp Szarzyński
 ### Sonet IV (O wojnie naszej, którą wiedziemy z szatanem, światem i ciałem)
 Opisuje rozdarcie, zagubienie i niepokój człowieka baroku. Skazany na walkę z szatanem, ziemskimi pokusami i ciałem. Potrzebuje wsparcia w walce w postaci Boga.

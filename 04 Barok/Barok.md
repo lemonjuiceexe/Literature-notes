@@ -30,9 +30,9 @@ Barok to epoka wyrastająca z kontrreformacji. Odrzuca renesansowe antropocentry
 ## Lektury
 
 ### Poziom podstawowy
-1. Skąpiec, Molier
+1. [[Skąpiec]], Molier
 ### Dodatkowo
-1. Pamiętniki, Jan Chryzostom Pasek
-2. [Poezja Daniela Naborowskiego](Poezja%20baroku.md#Daniel%20Naborowski) 
-3. [Poezja Mikołaja Sępa Szarzyńskiego](Poezja%20baroku.md#Mikołaj%20Sęp%20Szarzyński)
-4. [Poezja Jana Andrzeja Morsztyna](Poezja%20baroku.md#Jan%20Andrzej%20Morsztyn)
+2. Pamiętniki, Jan Chryzostom Pasek
+3. [Poezja Daniela Naborowskiego](Poezja%20baroku.md#Daniel%20Naborowski) 
+4. [Poezja Mikołaja Sępa Szarzyńskiego](Poezja%20baroku.md#Mikołaj%20Sęp%20Szarzyński)
+5. [Poezja Jana Andrzeja Morsztyna](Poezja%20baroku.md#Jan%20Andrzej%20Morsztyn)
