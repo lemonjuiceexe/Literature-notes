@@ -1,5 +1,5 @@
 ---
-finished: false
+finished: true
 ---
 #lektura 
 - **Autor**: Molier
@@ -15,12 +15,15 @@ finished: false
 **Komizm słowny** - komizm oparty na grach słów, żartach słownych.
 
 ## Świat przedstawiony
+„Rzecz dzieje się w Paryżu, w domu Harpagona"
 ### Bohaterowie
 - **Harpagon** - tytułowy skąpiec. Około sześćdziesięcioletni, ojciec Elizy i Kleanta.
 - **Eliza** - córka Harpagona. Zakochana w Walerym, ojciec nakazuje jej wyjście za bogatego Anzelma, nie umie mu się sprzeciwić.
 - **Kleant** - syn Harpagona, zakochany w Mariannie. Ojciec nie daje mu pieniędzy, często się kłócą, dąży do uniezależnienia się.
 - **Marianna** - uboga dziewczyna utrzymująca matkę. Zakochana w Kleancie, decyduje się wyjść za Harpagona żeby zapewnić sobie utrzymanie i matce. Okazuje się być córką Anzelma.
 - **Walery** - zakochany w Elizie, zatrudnia się u Harpagona jako zarządca domu by zyskać jego względy. Okazuje się być synem Anzelma.
-- 
+- **Strzałka** - służący Kleanta, Harpagon oskarża go o kradzież, choć sam nie wie czego.
+- **Jakub** - kucharz i woźnica Harpagona (oszczędza na służacych, 2w1)
 ## Problematyka
 ### Rodzina
+Skąpstwo Harpagona niszczy jego relacje rodzinne. Zależni od ojca Eliza i Kleant padają ofiarami przemocy ekonomicznej, ojciec nie liczy się z ich potrzebami ani uczuciami. Brak miłości i zrozumienia prowadzi do konflików.
