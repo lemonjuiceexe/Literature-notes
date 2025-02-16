@@ -26,7 +26,7 @@ Barok to epoka wyrastająca z kontrreformacji. Odrzuca renesansowe antropocentry
 ### Inne
 - [Kontrreformacja](./Filozofia%20baroku#^kontrreformacja)
 - [Sarmatyzm](./Filozofia%20baroku#^sarmatyzm)
-- Światłocień
+- [Światłocień](./Sztuka%20baroku#^chiaroscuro)
 ## Lektury
 
 ### Poziom podstawowy

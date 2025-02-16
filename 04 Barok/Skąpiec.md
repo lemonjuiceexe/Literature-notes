@@ -26,4 +26,6 @@ finished: true
 - **Jakub** - kucharz i woźnica Harpagona (oszczędza na służacych, 2w1)
 ## Problematyka
 ### Rodzina
-Skąpstwo Harpagona niszczy jego relacje rodzinne. Zależni od ojca Eliza i Kleant padają ofiarami przemocy ekonomicznej, ojciec nie liczy się z ich potrzebami ani uczuciami. Brak miłości i zrozumienia prowadzi do konflików.
+Skąpstwo Harpagona niszczy jego relacje rodzinne. Zależni od ojca Eliza i Kleant padają ofiarami przemocy ekonomicznej, ojciec nie liczy się z ich potrzebami ani uczuciami. Brak miłości i zrozumienia prowadzi do konflików. #motyw/rodzina
+### Miłość
+Dla Harpagona małżeństwo jest narzędziem biznesowym. Chce ożenić się z Marianną, naiwnie licząc na posag. Zmusza Elizę do wyjścia za Anzelma, ponieważ zgodził się on na ślub bez posagu. #motyw/miłość

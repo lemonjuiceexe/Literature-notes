@@ -7,7 +7,7 @@ finished: false
 
 **Antropocentryzm** - **pogląd filozoficzny** i religijny, według którego człowiek stanowi centrum i cel wszechświata. ^antropocentryzm
 
-**Reformacja** - zapoczątkowany w 1517 przez Marcina Lutra ruch, mający na celu naprawę kościoła katolickiego. Efektem reformacji były lata wojen religijnych i rozpad kościoła katolickiego. ^reformacja
+**Reformacja** - zapoczątkowany w 1517 przez Marcina Lutra ruch, mający na celu naprawę Kościoła katolickiego. Efektem reformacji były lata wojen religijnych i rozpad Kościoła katolickiego. ^reformacja
 
 **Horacjanizm** - stworzona przez [Horacego](../Antyk/Horacy) postawa filozoficzna, poszukująca **złotego środka** poprzez połączenie [epikureizmu](../Antyk/Filozofia%20starożytna#^epikureizm) i [stoicyzmu](../Antyk/Filozofia%20starożytna#^stoicyzm). W poezji zjawisko naśladowania liryki Horacego. ^horacjanizm
 
