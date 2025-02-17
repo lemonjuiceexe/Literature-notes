@@ -1,6 +1,7 @@
 ---
 finished: true
 ---
+#epoka/barok 
 ## Nurty
 **Marinizm** - styl poetycki w baroku, dążący do olśnienia, zaskoczenia czytelnika bogactwem formy. Nazwa od twórcy - Giambattisty Marina. ^marinizm
 
