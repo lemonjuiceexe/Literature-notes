@@ -8,6 +8,9 @@ finished: false
 - **Data**: I połowa XVII w. (1623 r.)
 
 ## Problematyka
+#motyw/przemiana Przemiana Makbeta
+### Cytaty
+
 ## Świat przedstawiony
 ### Czas i miejsce akcji
 - **Czas**: średniowiecze, XI w.

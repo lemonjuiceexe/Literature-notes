@@ -17,6 +17,9 @@ Romantyzm wywodzi się z oświeceniowego sentymentalizmu, jest „epoką **czuci
 - Mesjanizm
 - Winkelriedyzm
 - Prowidencjalizm
+- Bohater romantyczny
+- Bohater werteryczny
+- Weltschmerz
 ## Lektury
 
 ### Poziom podstawowy
@@ -27,12 +30,12 @@ Romantyzm wywodzi się z oświeceniowego sentymentalizmu, jest „epoką **czuci
 5. Testament mój, Juliusz Słowacki
 
 ### Poziom rozszerzony
-6. Kordian, Juliusz Słowacki
+1. [[Kordian]], Juliusz Słowacki
 
 ### Dodatkowo
-1. Poezja Juliusza Słowackiego
-2. Poezja Cypriana Kamila Norwida
-3. Nie-Boska komedia, Zygmunt Krasiński
-4. Król olch, Johann Wolfgang von Goethe
-5. Cierpienia młodego Wertera, Johann Wolfgang von Goethe
-6. Faust (fragmenty), Johann Wolfgang von Goethe
+2. Poezja Juliusza Słowackiego
+3. Poezja Cypriana Kamila Norwida
+4. Nie-Boska komedia, Zygmunt Krasiński
+5. [[Król olch]], Johann Wolfgang von Goethe
+6. [[Cierpienia młodego Wertera]], Johann Wolfgang von Goethe
+7. Faust (fragmenty), Johann Wolfgang von Goethe
