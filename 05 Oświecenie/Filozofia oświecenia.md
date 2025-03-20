@@ -1,3 +1,6 @@
+---
+finished: true
+---
 **Naturalizm** - przeciwstawia się istocie nadprzyrodzonej, głosi istnienie jedynie rzeczywistości materialnej. Wszystkie zjawiska są wytłumaczalne działaniem praw przyrody.
 
 **Racjonalizm** - uznaje jedynie to co można udowodnić rozumem. W miejsce chrześcijaństwa stawiany [deizm](#^deizm).
