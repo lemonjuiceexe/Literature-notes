@@ -10,3 +10,5 @@ finished: true
 **Optymizm** - wiara w naturalną dobroć i nieograniczone możliwości człowieka. 
 
 **Reformizm** - społeczny, religijny, państwowy, polityczny.
+
+**Sentymentalizm** - nurt literacki, kładący nacisk na indywidualizm i uczucia. Poeci czynili bohaterem prostego człowieka o czułym sercu. W Europie jest to okres przejściowy między oświeceniem a romantyzmem.  ^sentymentalizm

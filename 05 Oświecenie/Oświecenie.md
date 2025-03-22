@@ -20,4 +20,4 @@ Oświecenie to wiek rozumu i filozofów. **Cogito ergo sum** (łac. *Myślę, wi
 ### Dodatkowo
 2. [[Hymn do miłości Ojczyzny]], Ignacy Krasicki
 3. [[Bajki]], Ignacy Krasicki
-4. [[Sielanki]], Franciszek Karpiński
+4. [[Poezja Franciszka Karpińskiego]]
