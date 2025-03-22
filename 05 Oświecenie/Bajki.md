@@ -3,7 +3,7 @@ finished: false
 ---
 #lektura
 - **Autor**: Ignacy Krasicki
-- **Gatunek**: [[Bajki]]
+- **Gatunek**: [[Bajka]]
 - **Epoka**: [[Oświecenie]] #epoka/oświecenie 
 - **Data**: II połowa XVIII w.
 
