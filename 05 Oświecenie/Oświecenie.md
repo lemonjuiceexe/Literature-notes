@@ -18,6 +18,6 @@ Oświecenie to wiek rozumu i filozofów. **Cogito ergo sum** (łac. *Myślę, wi
 ### Poziom podstawowy
 1. [Wybrana satyra](Satyry.md), Ignacy Krasicki
 ### Dodatkowo
-2. [[Hymn do miłości ojczyzny]], Ignacy Krasicki
+2. [[Hymn do miłości Ojczyzny]], Ignacy Krasicki
 3. [[Bajki]], Ignacy Krasicki
 4. [[Sielanki]], Franciszek Karpiński
