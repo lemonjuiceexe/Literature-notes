@@ -25,7 +25,7 @@ Romantyzm wywodzi się z oświeceniowego sentymentalizmu, jest „epoką **czuci
 ### Poziom podstawowy
 1. [[Oda do młodości]], Adam Mickiewicz
 2. Dziady cz. III, Adam Mickiewicz
-3. Wybrane ballady (w tym Romantyczność), Adam Mickiewicz
+3. [Wybrane ballady](Ballady.md) (w tym Romantyczność), Adam Mickiewicz
 4. Testament mój, Juliusz Słowacki
 #### Z poziomu szkoły podstawowej
 5. Dziady cz. II, Adam Mickiewicz
@@ -38,9 +38,10 @@ Romantyzm wywodzi się z oświeceniowego sentymentalizmu, jest „epoką **czuci
 
 ### Dodatkowo
 10. Sonety krymskie, Adam Mickiewicz
-11. Poezja Juliusza Słowackiego
-12. Poezja Cypriana Kamila Norwida
-13. Nie-Boska komedia, Zygmunt Krasiński
-14. [[Król olch]], Johann Wolfgang von Goethe
-15. [[Cierpienia młodego Wertera]], Johann Wolfgang von Goethe
-16. Faust (fragmenty), Johann Wolfgang von Goethe
+11. Konrad Wallenrod, Adam Mickiewicz
+12. Poezja Juliusza Słowackiego
+13. Poezja Cypriana Kamila Norwida
+14. Nie-Boska komedia, Zygmunt Krasiński
+15. [[Król olch]], Johann Wolfgang von Goethe
+16. [[Cierpienia młodego Wertera]], Johann Wolfgang von Goethe
+17. Faust (fragmenty), Johann Wolfgang von Goethe
