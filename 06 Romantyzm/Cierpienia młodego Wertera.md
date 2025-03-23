@@ -10,7 +10,7 @@ finished: false
 ## Świat przedstawiony
 ## Problematyka
 ### Miłość
-Werter jest w Lotcie beznadziejnie zakochany. #motyw/miłość Jest to właściwie jedyny wątek powieści oraz jedyny sens życia Wertera.
+Werter jest w Lotcie beznadziejnie zakochany. #motyw/miłość Jest to właściwie jedyny wątek powieści oraz jedyny sens życia Wertera. Powieść przynosi przełomowe przedstawienie miłości, ukazując ją jako najważniejszą wartość w życiu.
 ### Dziecinność
 Dziecko nie przejmuje się ograniczeniami, normami społecznymi, robi to, na co ma ochotę. Niekoniecznie możliwe od fantazji.
 Werter uważa, że najszczęśliwsi są ci, którzy, jak dzieci, żyją chwilą. Utożsamia dziecinność z siłą i szczerością pragnień, nieskrzywionych przez oczekiwania świata zewnętrznego. „O jakimże jestem dzieckiem!" - mówi. #motyw/dziecko 
