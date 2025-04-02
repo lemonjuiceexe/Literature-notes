@@ -1,5 +1,5 @@
 ---
-finished: false
+finished: true
 ---
 #lektura 
 - **Autor**: Stefan Żeromski
@@ -31,7 +31,7 @@ Przedwiośnie to okres przejściowy między zimą i wiosną, kiedy mimo niskich 
 
 ### Powieść polityczna - wizje Polski
 W Przedwiośniu ścierają się dwie różne wizje odbudowy Polski:
-- **Ewolucja** Szymona Gajowca - stopniowe reformy, oparte na stabilizacji gospodarczej, wprowadzeniu polskiego złotego, rozwoju edukacji i budowie instytucji państwowych. Gajowiec wierzy w nowoczesną Polskę, opartą na sprawiedliwości społecznej, bez przemocy. Jego poglądy przypominają pozytywistyczne [hasła pracy organicznej i u podstaw](../07%20Pozytywizm/Pozytywizm) 
+- **Ewolucja** Szymona Gajowca - stopniowe reformy, oparte na stabilizacji gospodarczej, wprowadzeniu polskiego złotego, rozwoju edukacji i budowie instytucji państwowych. Gajowiec wierzy w nowoczesną Polskę, opartą na sprawiedliwości społecznej, bez przemocy. Jego poglądy przypominają pozytywistyczne [hasła pracy organicznej i u podstaw](../07%20Pozytywizm/Pozytywizm). 
 - **Rewolucja** Antoniego Lulka - komunistyczna rewolucja, obalenie porządku społecznego, zniesienie nierówności społecznych, nacjonalizacja przemysłu i ziemi, dyktatura proletariatu. Cezary pozostaje w sporze z tymi poglądami, sprzecznymi z jego tragicznymi doświadczeniami rewolucji bolszewickiej.
 
 W powieści przedstawiona jest też utopijna wizja **szklanych domów**, o której Seweryn Baryka opowiada synowi. Jest to wyidealizowana opowieść o Polsce w której panują powszechna równość, sprawiedliwość i dobre warunki życiowe.
@@ -42,4 +42,8 @@ Przedwiośnie jest historią przemianie i dojrzewaniu Cezarego, które można po
 - **Podróż do Polski** - Cezary rozczarowuje się prawdziwym obrazem Polski, sprzecznym z opowieściami ojca o szklanych domach. Trafia do kraju wyniszczonego, pełnego nierówności. Zaciąga się do wojska - nie chce być biernym obserwatorem wydarzeń oraz fascynuje go entuzjazm Polaków w obronie ojczyzny.
 - **Nawłoć** - pierwsze doświadczenia miłosne obnażają niedojrzałość emocjonalną Cezarego, który instrumentalnie traktuje Karolinę oraz zachowuje się biernie wobec Wandy. Pobyt na wsi jest też dla niego okazją do obserwacji nierówności społecznych - kontrast warunków życia arystokracji i chłopów budzi w nim sprzeciw.
 - **Warszawa** - Cezary formuje swoje poglądy polityczne, nie odnajdując się w pełni ani w szkole reform Gajowca, ani w komunistycznej rewolucji Lulka. Finałowa scena - marsz na Belweder, w którym Cezary odłącza się od tłumu robotników - symbolizuje jego indywidualizm. Bohater pozostaje w fazie przejściowej, między rewolucją a reformą - metafora przedwiośnia.
-### Obraz arystokracji
+### Obraz ziemiaństwa
+Żeromski krytykuje ziemiaństwo, przedstawiając je jako warstwę społeczną oderwaną od rzeczywistości, osadzoną w przeszłości oraz pełną marazmu i obojętną na nierówności społeczne.
+Mieszkańcy dworku spędzają czas na próżnych rozrywkach, traktując służbę z feudalną wyższością. Podczas gdy dwór pławi się w luksusie, mieszkańcy wsi Chłodek przymierają głodem. #motyw/społeczeństwo
+Dworek w Nawłoci nawiązuje do [Soplicowa](../06%20Romantyzm/Pan%20Tadeusz), stanowiąc jego antytezę. Arystokracja pielęgnuje obyczaje, ale są one puste, nie służą budowaniu wspólnoty. Podczas gdy dwór Sopliców stanowił postępowy ośrodek patriotyzmu, Nawłoć jest zacofana i ignoruje zagrożenia oraz nierówności społeczne.
+Żeromski piętnuje arystokrację jako warstwę niezdolną do przewodzenia narodowi.
