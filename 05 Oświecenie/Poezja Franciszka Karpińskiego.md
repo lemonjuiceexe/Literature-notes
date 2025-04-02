@@ -1,3 +1,6 @@
+---
+finished: true
+---
 #lektura
 - **Autor**: Franciszek Karpiński
 - **Gatunek**: [[Sielanka]], wiersz
