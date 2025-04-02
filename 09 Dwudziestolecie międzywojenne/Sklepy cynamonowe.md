@@ -13,7 +13,7 @@ finished: false
 - **Miejsce akcji**: miasteczko, utożsamiane z Drohobyczem
 
 ### Bohaterowie
-- **Józef** - główny bohater i narrator. Młody nastolatek o bogatym życiu wewnętrznym i wyobraźni. Patrzy na świat oczami dziecka lecz ma świadomość dorosłego.
+- **Józef** - główny bohater i narrator. Młody nastolatek o bogatym życiu wewnętrznym i wyobraźni. Patrzy na świat oczami dziecka lecz ma świadomość dorosłego. #motyw/dziecko
 - **Ojciec** - porównywany do lisa, funkcjonuje na pograniczu świata realnego i nierzeczywistego. 
 
 Matka, jako osoba przyziemna i praktyczna, nie obchodzi narratora.

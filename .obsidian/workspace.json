@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "Dwudziestolecie międzywojenne"
             }
+          },
+          {
+            "id": "cd3890cdca3a92fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "09 Dwudziestolecie międzywojenne/Poezja dwudziestolecia międzywojennego.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Poezja dwudziestolecia międzywojennego"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 Dwudziestolecie międzywojenne/Dwudziestolecie międzywojenne.md",
+                "file": "09 Dwudziestolecie międzywojenne/Poezja dwudziestolecia międzywojennego.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dwudziestolecie międzywojenne"
+              "title": "Outline of Poezja dwudziestolecia międzywojennego"
             }
           }
         ],
@@ -168,28 +183,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "47006b49ab6346c1",
+  "active": "cd3890cdca3a92fd",
   "lastOpenFiles": [
+    "09 Dwudziestolecie międzywojenne/Przedwiośnie.md",
     "09 Dwudziestolecie międzywojenne/Sklepy cynamonowe.md",
+    "09 Dwudziestolecie międzywojenne/Dwudziestolecie międzywojenne.md",
+    "06 Romantyzm/Oda do młodości.md",
+    "09 Dwudziestolecie międzywojenne/Poezja dwudziestolecia międzywojennego.md",
+    "05 Oświecenie/Poezja Franciszka Karpińskiego.md",
+    "04 Barok/Poezja baroku.md",
+    "09 Dwudziestolecie międzywojenne/Ferdydurke.md",
     "06 Romantyzm/Filozofia romantyzmu.md",
     "06 Romantyzm/Romantyzm.md",
-    "09 Dwudziestolecie międzywojenne/Dwudziestolecie międzywojenne.md",
-    "09 Dwudziestolecie międzywojenne/Przedwiośnie.md",
-    "09 Dwudziestolecie międzywojenne/Ferdydurke.md",
-    "06 Romantyzm/Oda do młodości.md",
     "03 Renesans/Makbet.md",
     "05 Oświecenie/Hymn do miłości Ojczyzny.md",
     "06 Romantyzm/Kordian.md",
     "06 Romantyzm/Ballady.md",
     "04 Barok/Skąpiec.md",
-    "09 Dwudziestolecie międzywojenne/Poezja dwudziestolecia międzywojennego.md",
-    "04 Barok/Poezja baroku.md",
     "01 Antyk/Antyk.md",
     "03 Renesans/Renesans.md",
     "04 Barok/Barok.md",
     "05 Oświecenie/Oświecenie.md",
     "09 Dwudziestolecie międzywojenne",
-    "05 Oświecenie/Poezja Franciszka Karpińskiego.md",
     "05 Oświecenie/Bajki.md",
     "05 Oświecenie/Satyry.md",
     "05 Oświecenie/Sielanka.md",

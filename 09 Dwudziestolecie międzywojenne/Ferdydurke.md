@@ -20,9 +20,14 @@ finished: false
 - **Parobek Walek** - parobek z Bolimowa, całkowicie naturalny. Miał chłopską gębę, bez żadnej sztucznej miny. Bratał się z Miętusem. 
 
 ## Problematyka
+Jest to powieść paraboliczna - fabuła służy jedynie przekazaniu pewnych idei i nie jest istotna jako taka. 
+Jest to również powieść awangardowa - zrywa z kanonem powieści klasycystycznej. Fabuła pozornie jest realistyczna, ale tak naprawdę jest surrealistyczna. Wydarzenia są nielogiczne i absurdalne, brakuje ciągów przyczynowo-skutkowych. Całość balansuje pomiędzy snem a jawą. #motyw/oniryzm 
 ### Forma - maska, gęba
 Gombrowiczowska Forma jest jednym z głównych zagadnień poruszanych w powieści. Autor ukazuje, że Forma otacza i ogranicza każdego człowieka. Społecznie narzucone normy i konwencje tłumią autentyczność jednostki i wymuszają pewne zachowania. Przed Formą nie da się uczyć, gdyż brak Formy również byłby Formą („Nie ma ucieczki przed gębą, jak tylko w inną gębę"). Przykładem jest Miętus, który myślał, że propagując prostactwo buntuje się przeciwko upupiającemu schematowi narzuconemu przez Pimkę. W ten sposób stworzył jednak nowy schemat, czyli wpadł w nową Formę.
 W tym sensie utwór jest również satyrą na relacje międzyludzkie, z natury skrzywione przez narzucone Formy, a przez to sztuczne.
+### Słowniczek
+#### Pupa
+#motyw/dziecko 
 ### Groteska
 
 
