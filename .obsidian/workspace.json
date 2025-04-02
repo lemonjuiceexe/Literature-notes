@@ -24,19 +24,19 @@
             }
           },
           {
-            "id": "7531c23eadb7c2e0",
+            "id": "651dde5f04df8a1f",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 Dwudziestolecie międzywojenne/Przedwiośnie.md",
-                "mode": "preview",
+                "file": "09 Dwudziestolecie międzywojenne/Ferdydurke.md",
+                "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Przedwiośnie"
+              "title": "Ferdydurke"
             }
           }
         ],
@@ -159,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 Dwudziestolecie międzywojenne/Przedwiośnie.md",
+                "file": "Sklepy cynamonowe.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Przedwiośnie"
+              "title": "Outline of Sklepy cynamonowe"
             }
           }
         ],
@@ -185,13 +185,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7531c23eadb7c2e0",
+  "active": "5afa3828c65b85e6",
   "lastOpenFiles": [
-    "09 Dwudziestolecie międzywojenne/Przedwiośnie.md",
-    "04 Barok/Skąpiec.md",
+    "09 Dwudziestolecie międzywojenne/Ferdydurke.md",
+    "Sklepy cynamonowe.md",
     "09 Dwudziestolecie międzywojenne/Dwudziestolecie międzywojenne.md",
-    "06 Romantyzm/Kordian.md",
+    "09 Dwudziestolecie międzywojenne/Przedwiośnie.md",
+    "06 Romantyzm/Oda do młodości.md",
     "03 Renesans/Makbet.md",
+    "05 Oświecenie/Hymn do miłości Ojczyzny.md",
+    "06 Romantyzm/Kordian.md",
+    "06 Romantyzm/Ballady.md",
+    "04 Barok/Skąpiec.md",
     "09 Dwudziestolecie międzywojenne/Poezja dwudziestolecia międzywojennego.md",
     "04 Barok/Poezja baroku.md",
     "01 Antyk/Antyk.md",
@@ -202,18 +207,13 @@
     "09 Dwudziestolecie międzywojenne",
     "05 Oświecenie/Poezja Franciszka Karpińskiego.md",
     "05 Oświecenie/Bajki.md",
-    "05 Oświecenie/Hymn do miłości Ojczyzny.md",
     "05 Oświecenie/Satyry.md",
     "05 Oświecenie/Sielanka.md",
     "05 Oświecenie/Satyra.md",
     "05 Oświecenie/Bajka.md",
     "05 Oświecenie/Filozofia oświecenia.md",
-    "06 Romantyzm/Ballady.md",
     "Untitled 1.md",
     "Untitled.md",
-    "03 Renesans/Pieśni.md",
-    "06 Romantyzm/Oda do młodości.md",
-    "06 Romantyzm/Cierpienia młodego Wertera.md",
     "05 Oświecenie",
     "Sztuka/Barok/Jan Vermeer - Dziewczyna z perłą.png",
     "06 Romantyzm",

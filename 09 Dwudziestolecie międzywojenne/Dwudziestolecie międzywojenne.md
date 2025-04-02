@@ -8,9 +8,7 @@ Sorry for the brief depressing era, we're back to our regularly scheduled goofin
 - **Ramy czasowe:** 1890 (debiut Przerwy-Tetmajera) - 1918 (wolna Polska)
 - **Założenia:** 
 ## Kluczowe pojęcia
-- [[Filozofia romantyzmu]]
-### Gatunki
-- Powieść inicjacyjna
+- [[Filozofia dwudziestolecia międzywojennego]]
 ### Pojęcia teoretycznoliterackie
 - Freudyzm
 - Surrealizm
