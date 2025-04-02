@@ -9,8 +9,8 @@ Sorry for the brief depressing era, we're back to our regularly scheduled goofin
 - **Założenia:** 
 ## Kluczowe pojęcia
 - [[Filozofia dwudziestolecia międzywojennego]]
-### Pojęcia teoretycznoliterackie
 - Freudyzm
+### Pojęcia teoretycznoliterackie
 - Surrealizm
 - Kubizm
 - Realizm magiczny

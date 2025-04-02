@@ -9,9 +9,8 @@ finished: false
 
 ## Świat przedstawiony
 ### Czas i miejsce akcji
-- **Miejsce akcji**: Warszawa, Bolimowo
 - **Czas akcji**: nieokreślony, raczej lata 30-te
-
+- **Miejsce akcji**: Warszawa, Bolimowo
 ### Bohaterowie
 - **Józio Kowalski** - główny bohater, 30-letni początkujący literat, cofnięty przez Pimkę do wieku gimnazjalnego. Jego próby ucieczki od narzucanych mu Form (ucznia, kochanka) kończą się uwikłaniem w nowe Formy. Jego wędrówka nawiązuje do [Boskiej komedii](../02%20Średniowiecze/Boska%20komedia).
 - **Syfon Pylaszczkiewicz** - uczeń idealista, broni czystości i niewinności - przywódca stronnictwa chłopiąt. Po wygranym pojedynku na miny z Miętusem zostaje przez niego zgwałcony przez uszy, czyli uświadomiony, i ostatecznie wiesza się na wieszaku.

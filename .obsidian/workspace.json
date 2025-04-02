@@ -22,25 +22,8 @@
               "icon": "lucide-file",
               "title": "Dwudziestolecie międzywojenne"
             }
-          },
-          {
-            "id": "651dde5f04df8a1f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09 Dwudziestolecie międzywojenne/Ferdydurke.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Ferdydurke"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sklepy cynamonowe.md",
+                "file": "09 Dwudziestolecie międzywojenne/Dwudziestolecie międzywojenne.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sklepy cynamonowe"
+              "title": "Outline of Dwudziestolecie międzywojenne"
             }
           }
         ],
@@ -185,12 +168,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5afa3828c65b85e6",
+  "active": "47006b49ab6346c1",
   "lastOpenFiles": [
-    "09 Dwudziestolecie międzywojenne/Ferdydurke.md",
-    "Sklepy cynamonowe.md",
+    "09 Dwudziestolecie międzywojenne/Sklepy cynamonowe.md",
+    "06 Romantyzm/Filozofia romantyzmu.md",
+    "06 Romantyzm/Romantyzm.md",
     "09 Dwudziestolecie międzywojenne/Dwudziestolecie międzywojenne.md",
     "09 Dwudziestolecie międzywojenne/Przedwiośnie.md",
+    "09 Dwudziestolecie międzywojenne/Ferdydurke.md",
     "06 Romantyzm/Oda do młodości.md",
     "03 Renesans/Makbet.md",
     "05 Oświecenie/Hymn do miłości Ojczyzny.md",
@@ -203,7 +188,6 @@
     "03 Renesans/Renesans.md",
     "04 Barok/Barok.md",
     "05 Oświecenie/Oświecenie.md",
-    "06 Romantyzm/Romantyzm.md",
     "09 Dwudziestolecie międzywojenne",
     "05 Oświecenie/Poezja Franciszka Karpińskiego.md",
     "05 Oświecenie/Bajki.md",
@@ -213,7 +197,6 @@
     "05 Oświecenie/Bajka.md",
     "05 Oświecenie/Filozofia oświecenia.md",
     "Untitled 1.md",
-    "Untitled.md",
     "05 Oświecenie",
     "Sztuka/Barok/Jan Vermeer - Dziewczyna z perłą.png",
     "06 Romantyzm",
