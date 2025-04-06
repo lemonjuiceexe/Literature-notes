@@ -11,7 +11,7 @@ Krasicki piętnuje głęboko zakorzenione w ludzkiej naturze wady. Uniwersalnoś
 ### Ptaszki w klatce
 Dwa czyżyki symbolizują pokolenia Polaków - stary tęskni za poznaną kiedyś wolnością, młodemu odpowiadają wygody klatki, bo nie zaznał nigdy wolności. #motyw/wolność 
 ### Jagnię i wilcy
-Dwa wilki spotkały w lesie samotne jagnię. Chciało ono upomnieć się o swoje prawa, ale silniejsze wilki po prostu je zjadły. Bajka ukazuje przewagę siły nad wartościami czy moralnością.
+Dwa wilki spotkały w lesie samotne jagnię. Chciało ono upomnieć się o swoje prawa, ale silniejsze wilki po prostu je zjadły. Bajka ukazuje przewagę siły nad wartościami czy moralnością. #motyw/siła
 ### Dewotka
 Kobieta, mimo ostentacyjnej pobożności, prosząc Boga o przebaczenie win, bije służącą. Bajka ukazuje hipokryzję 
 ### Szczur i kot

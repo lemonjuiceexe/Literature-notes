@@ -27,7 +27,7 @@ finished: false
 ### Fabuła
 Po zwycięskiej bitwie Makbet i Banko spotykają trzy wiedźmy. Pozdrawiają one bohaterów, nazywając Makbeta tanem Kawdoru i przyszłym królem, Banka zaś „ojcem królów" - dziwi to przyjaciół nieposiadających tych tytułów. Chwilę po zniknięciu czarownic pojawiają się królewscy posłańcy, informujący Makbeta, że za zasługi w bitwie mianowano go tanem Kawdoru. Makbet zaczyna traktować słowa wiedźm serio, Banko traktuje je jako halucynacje. #motyw/przeznaczenie #motyw/ambicja 
 
-Mimo oporów Makbet, pod wpływem Lady Makbet, zabija Dunkana #motyw/morderstwo #motyw/zdrada i wrabia w zbrodnię strażników, których też zabija. Malkolm oraz tanowie Makduf i Lennox podejrzewają podstęp i uciekają za granicę. Odbywa się koronacja Makbeta.
+Mimo oporów Makbet, pod wpływem Lady Makbet, zabija Dunkana #motyw/morderstwo #motyw/śmierć #motyw/zdrada i wrabia w zbrodnię strażników, których też zabija. Malkolm oraz tanowie Makduf i Lennox podejrzewają podstęp i uciekają za granicę. Odbywa się koronacja Makbeta.
 
 Tracący rozum Makbet zleca zabójstwo Banka i Fleance'a. Banko ginie, Fleance ucieka. Makbet widzi ducha Banka, idzie prosić czarownice o dalsze przepowiednie. Przestrzegają go przed Makdufem, jednak przepowiadają mu, że *nie zginie z ręki człowieka zrodzonego z kobiecego łona* oraz, że nikt go nie tknie dopóki sam las Birnam nie ruszy na jego fortecę. #motyw/przepowiednia
 Makbet nasyła morderców na rodzinę Makdufa, zabijają oni syna, Lady Makduf ucieka.

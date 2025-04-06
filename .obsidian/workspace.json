@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "07 Pozytywizm/Pozytywizm.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true,
@@ -130,7 +130,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -152,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -170,33 +172,33 @@
   },
   "active": "1643bc3c7dc75649",
   "lastOpenFiles": [
+    "07 Pozytywizm/Nowele.md",
+    "07 Pozytywizm/Pozytywizm.md",
+    "03 Renesans/Renesans.md",
+    "Gloria victis.md",
+    "06 Romantyzm/Król olch.md",
+    "06 Romantyzm/Kordian.md",
+    "04 Barok/Poezja baroku.md",
+    "05 Oświecenie/Bajki.md",
+    "04 Barok/Filozofia baroku.md",
+    "04 Barok/Skąpiec.md",
+    "03 Renesans/Pieśni.md",
+    "03 Renesans/Makbet.md",
+    "03 Renesans/Fraszka.md",
+    "01 Antyk/Homer.md",
+    "01 Antyk/Filozofia starożytna.md",
+    "01 Antyk/Biblia.md",
     "07 Pozytywizm/Nowela.md",
+    "06 Romantyzm/Ballady.md",
+    "07 Pozytywizm/Filozofia pozytywizmu.md",
+    "03 Renesans/Pieśń.md",
     "01 Antyk/Mit.md",
     "05 Oświecenie/Bajka.md",
-    "03 Renesans/Pieśń.md",
-    "07 Pozytywizm/Filozofia pozytywizmu.md",
-    "07 Pozytywizm/Pozytywizm.md",
-    "03 Renesans/Fraszka.md",
     "06 Romantyzm/Ballada.md",
     "05 Oświecenie/Oświecenie.md",
-    "03 Renesans/Renesans.md",
     "04 Barok/Barok.md",
     "05 Oświecenie/Poezja Franciszka Karpińskiego.md",
-    "01 Antyk/Tragedia antyczna.md",
-    "01 Antyk/Antyk.md",
-    "01 Antyk/Filozofia starożytna.md",
-    "03 Renesans/Filozofia renesansu.md",
-    "05 Oświecenie/Filozofia oświecenia.md",
-    "04 Barok/Filozofia baroku.md",
-    "04 Barok/Poezja baroku.md",
-    "06 Romantyzm/Filozofia romantyzmu.md",
-    "09 Dwudziestolecie międzywojenne/Dwudziestolecie międzywojenne.md",
     "07 Pozytywizm",
-    "09 Dwudziestolecie międzywojenne/Przedwiośnie.md",
-    "09 Dwudziestolecie międzywojenne/Poezja dwudziestolecia międzywojennego.md",
-    "09 Dwudziestolecie międzywojenne/Sklepy cynamonowe.md",
-    "06 Romantyzm/Oda do młodości.md",
-    "09 Dwudziestolecie międzywojenne/Ferdydurke.md",
     "09 Dwudziestolecie międzywojenne",
     "05 Oświecenie",
     "Sztuka/Barok/Jan Vermeer - Dziewczyna z perłą.png",

@@ -44,11 +44,11 @@ Panegiryk wychwalający urodę oczu królewny. Typowo barokowe bogactwo formy, s
 
 ### Jan Andrzej Morsztyn
 #### Do trupa
-Przykład poezji konceptystycznej. Poeta porównuje stan nieszczęśliwie zakochanego do trupa - obydwu brakuje krwi, nie kontrolują własnego losu. Zaskakującym wnioskiem jest przewaga sytuacji trupa nad zakochanym - ten pierwszy przynajmniej już nie cierpi. 
+Przykład poezji konceptystycznej. Poeta porównuje stan nieszczęśliwie zakochanego do trupa - obydwu brakuje krwi, nie kontrolują własnego losu. Zaskakującym wnioskiem jest przewaga sytuacji trupa nad zakochanym - ten pierwszy przynajmniej już nie cierpi. #motyw/śmierć #motyw/miłość
 
 #### Niestatek
 Dwa wiersze o tym tytule, obydwa podobnie humorystyczne.
 
-W pierwszym podmiot liryczny zapewnia ukochaną o jej urodzie, co trwa dopóki żyją w zgodzie. Gdy się pokłócą, kochanek podkreśla szpetność tych samych cech.
+W pierwszym podmiot liryczny zapewnia ukochaną o jej urodzie, co trwa dopóki żyją w zgodzie. Gdy się pokłócą, kochanek podkreśla szpetność tych samych cech. #motyw/miłość
 
 W drugim przez 15 wersów podmiot liryczny wymienia różne nieprawdopodobne sytuacje (*Prędzej kto wiatr w wór zamknie*), po to aby w 16. stwierdzić, że wszystko to jest bardziej prawdopodobne niż istnienie statecznej kobiety.
