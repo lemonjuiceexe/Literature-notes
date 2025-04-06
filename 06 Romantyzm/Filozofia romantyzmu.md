@@ -1,3 +1,6 @@
+---
+finished: false
+---
 #filozofia #epoka/romantyzm 
 ## Historiozofia
 W polskiej literaturze romantycznej koncepcje historiozoficzne miały tłumaczyć aktualną sytuację polski.

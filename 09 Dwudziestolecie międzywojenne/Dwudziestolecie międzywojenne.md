@@ -5,7 +5,7 @@ finished: false
 ## Informacje ogólne
 Sorry for the brief depressing era, we're back to our regularly scheduled goofiness. Epoka dzieli się na tzw. **jasne i ciemne dziesięciolecie** - lata 20. charakteryzują się optymizmem i radością z odzyskanej niepodległości, zaś 30. nastrojami katastroficznymi, wynikającymi ze zbliżającej się wojny.
 - **Charakterystyka**: apollińska (racjonalna)
-- **Ramy czasowe:** 1890 (debiut Przerwy-Tetmajera) - 1918 (wolna Polska)
+- **Ramy czasowe:** 1918 - 1939
 - **Założenia:** 
 ## Kluczowe pojęcia
 - [[Filozofia dwudziestolecia międzywojennego]]
