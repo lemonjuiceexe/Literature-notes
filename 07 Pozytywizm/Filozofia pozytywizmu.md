@@ -6,7 +6,7 @@ finished: true
 ## Program polskich pozytywistów
 Po upadku powstania styczniowego nastąpiła utrata wiary w hasła romantyczne i wywiązał się nowy spór młodego i starego pokolenia. #motyw/konflikt-pokoleń  Pozytywiści, choć szanowali powstańców, postulowali niezbrojne metody działania na rzecz Polski:
 1. **Praca organiczna** - działania na rzecz rozwoju gospodarczego i wzmocnienia więzi społecznych, upowszechnienia i podniesienia poziomu oświaty i nauki. Wzrost zamożności jednostek jako źródło bogactwa narodowego. ^pracaorganiczna
-2. **Praca u podstaw** - działania na rzecz najbiedniejszych warstw społeczeństwa, w szczególności szerzenie oświaty.
+2. **Praca u podstaw** - działania na rzecz najbiedniejszych warstw społeczeństwa, w szczególności szerzenie oświaty. ^pracaupodstaw
 3. **Asymilacja Żydów**
 4. **Emancypacja kobiet**
 5. **Filantropia**
