@@ -15,6 +15,7 @@ Termin wprowadzony przez Augusta Comte'a. Rozwój jest możliwy tylko dzięki wi
 ### Pojęcia teoretycznoliterackie
 - [Realizm](./Filozofia%20pozytywizmu#^realizm)
 - [Naturalizm](./Filozofia%20pozytywizmu#^naturalizm)
+- Język ezopowy
 ## Lektury
 ### Poziom podstawowy
 1. [[Lalka]], Bolesław Prus

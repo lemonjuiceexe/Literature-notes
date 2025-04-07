@@ -34,6 +34,7 @@ Woland przybył do Moskwy na bal, a trafił do piekła stalinowskiej rzeczywisto
 - Ludzie znikali
 - U prezesa spółdzielni znajduje się waluta
 - Wysyłanie ludzi do szpitala psychiatrycznego
+Wysłanie Lichodiejewa do Jałty symbolizuje zesłania, znikanie ludzi.
 Czyli działania diabła są metaforą i krytykują absurd radzieckiej codzienności. 
 Woland jest ludzki i właściwie sympatyczny. *Spiritus movens* - duch sprawczy akcji. Diabeł tragiczny - buntownik, *non serviam* - nie będę służył. Ciężki absurd - diabeł jest bardziej ludzki od radzieckiego systemu.
 Świta Wolanda nie sprowadza do Moskwy zła, tylko wyciągają z mieszkańców Moskwy to, co w nich złe - demaskują zło, a nie je czynią.
@@ -44,7 +45,7 @@ Cechy reżimu totalitarnego:
 - zniknięcia ludzi
 - donosicielstwo
 - zapieczętowane mieszkanie
-Wysłanie Lichodiejewa do Jałty symbolizuje zesłania, znikanie ludzi.
+
 Komunałka - sposób mieszkania w ZSRR. Mieszkanie w kilka rodzin w kilkupokojowych mieszkaniach. Prowokowało to donosicielstwo. 
 
 *Homo sovieticus* - wprowadzone przez Aleksandra Zinowjewa. 

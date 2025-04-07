@@ -3,7 +3,7 @@ finished: true
 ---
 #lektura 
 - **Autor**: Stefan Żeromski
-- **Gatunek**: powieść
+- **Gatunek**: Powieść
 - **Epoka**: [[Dwudziestolecie międzywojenne]] #epoka/dwudziestolecie 
 - **Data**: 1924 r.
 
@@ -31,12 +31,12 @@ Przedwiośnie to okres przejściowy między zimą i wiosną, kiedy mimo niskich 
 
 ### Powieść polityczna - wizje Polski
 W Przedwiośniu ścierają się dwie różne wizje odbudowy Polski:
-- **Ewolucja** Szymona Gajowca - stopniowe reformy, oparte na stabilizacji gospodarczej, wprowadzeniu polskiego złotego, rozwoju edukacji i budowie instytucji państwowych. Gajowiec wierzy w nowoczesną Polskę, opartą na sprawiedliwości społecznej, bez przemocy. Jego poglądy przypominają pozytywistyczne [hasła pracy organicznej i u podstaw](../07%20Pozytywizm/Pozytywizm). 
+- **Ewolucja** Szymona Gajowca - stopniowe reformy, oparte na stabilizacji gospodarczej, wprowadzeniu polskiego złotego, rozwoju edukacji i budowie instytucji państwowych. Gajowiec wierzy w nowoczesną Polskę, opartą na sprawiedliwości społecznej, bez przemocy. Jego poglądy przypominają pozytywistyczne [hasła pracy organicznej i u podstaw](../07%20Pozytywizm/Filozofia%20pozytywizmu#Program%20polskich%20pozytywistów). 
 - **Rewolucja** Antoniego Lulka - komunistyczna rewolucja, obalenie porządku społecznego, zniesienie nierówności społecznych, nacjonalizacja przemysłu i ziemi, dyktatura proletariatu. Cezary pozostaje w sporze z tymi poglądami, sprzecznymi z jego tragicznymi doświadczeniami rewolucji bolszewickiej.
 
 W powieści przedstawiona jest też utopijna wizja **szklanych domów**, o której Seweryn Baryka opowiada synowi. Jest to wyidealizowana opowieść o Polsce w której panują powszechna równość, sprawiedliwość i dobre warunki życiowe.
 ### Powieść inicjacyjna - dojrzewanie Cezarego Baryki
-Przedwiośnie jest historią przemianie i dojrzewaniu Cezarego, które można podzielić na kilka etapów
+Przedwiośnie jest historią przemianie i dojrzewaniu Cezarego, które można podzielić na kilka etapów #motyw/przemiana 
 - **Dzieciństwo w Baku** - było szczęśliwe i beztroskie. Dorastał w dostatku. Powołanie ojca do wojska wywołuje kryzys wychowawczy, Cezary zaczyna się buntować i sprawiać problemy, ku bezradności samotnej matki.
 - **Rewolucja bolszewicka** - z początku Cezary odnajduje w komunizmie swoje poglądy, porzuca szkołę i entuzjastycznie uczestniczy w wiecach. Ślepy na cierpienie matki wyrządza krzywdę własnej rodzinie, wydając majątek. Dopiero śmierć matki oraz rzeź Ormian otwierają mu oczy na okropieństwa rewolucji.
 - **Podróż do Polski** - Cezary rozczarowuje się prawdziwym obrazem Polski, sprzecznym z opowieściami ojca o szklanych domach. Trafia do kraju wyniszczonego, pełnego nierówności. Zaciąga się do wojska - nie chce być biernym obserwatorem wydarzeń oraz fascynuje go entuzjazm Polaków w obronie ojczyzny.
