@@ -3,7 +3,7 @@ finished: false
 ---
 #lektura 
 - **Autor**: Witold Gombrowicz
-- **Gatunek**: powieść
+- **Gatunek**: Powieść
 - **Epoka**: [[Dwudziestolecie międzywojenne]] #epoka/dwudziestolecie 
 - **Data**: 1937 r.
 
