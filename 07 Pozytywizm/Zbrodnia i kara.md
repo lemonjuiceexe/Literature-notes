@@ -12,7 +12,8 @@ finished: false
 - **Czas akcji**: lipiec 1861 r.
 - **Miejsce akcji**: Petersburg
 ### Bohaterowie
-- **Rodion Romanowicz Raskolnikow** - były student prawa, nie może kontynuować studiów przez brak pieniędzy. Zaciąga długi u lichwiarki, którą potem zabija. Bardzo inteligentny i ambitny, wrażliwy, ateista, racjonalista
+- **Rodion Romanowicz Raskolnikow** - były student prawa, nie może kontynuować studiów przez brak pieniędzy. Zaciąga długi u lichwiarki, którą potem zabija. Bardzo inteligentny i ambitny, wrażliwy, ateista, racjonalista.
+  
 - **Sofia „Sonia" Siemonowna Marmieładow** (Zosia) - córka Marmieładowa. Macocha popycha ją do prostytucji aby utrzymać biedną rodzinę. Dobra, pobożna, pokorna, emocjonalna. Pełni kluczową rolę w przemianie Raskolnikowa, 
 - **Awdotia „Dunia" Romanowna Raskolnikow** - siostra Rodiona. Urodziwa, mądra i dobra. Ceni dobro bliskich ponad własne - poświęca się dla nich, chcąc wyjść za niekochanego przez siebie Łużyna. #motyw/miłość #motyw/rodzina 
 - **Pulcheria Aleksandrowna Raskolnikow** 
