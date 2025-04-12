@@ -1,7 +1,7 @@
 ---
 finished: false
 ---
-#epoka #epoka/pozytywizm
+ #epoka #epoka/pozytywizm
 ## Informacje ogólne
 Termin wprowadzony przez Augusta Comte'a. Rozwój jest możliwy tylko dzięki wiedzy pozytywnej (realnej) - naukowej. Właściwie neooświecenie. W Polsce po przegranych powstaniach następuje odrzucenie idei walki zbrojnej na rzecz pracy dla kraju - pozytywiści promowali swój program reform społecznych. 
 - **Charakterystyka**: apollińska (racjonalna)
