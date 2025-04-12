@@ -38,8 +38,8 @@ Romantyzm wywodzi się z oświeceniowego sentymentalizmu, jest „epoką **czuci
 9. [[Kordian]], Juliusz Słowacki
 
 ### Dodatkowo
-10. Sonety krymskie, Adam Mickiewicz
-11. [[Konrad Wallenrod]], Adam Mickiewicz
+10. [[Konrad Wallenrod]], Adam Mickiewicz
+11. [[Poezja Adama Mickiewicza]]
 12. Poezja Juliusza Słowackiego
 13. Poezja Cypriana Kamila Norwida
 14. Nie-Boska komedia, Zygmunt Krasiński
