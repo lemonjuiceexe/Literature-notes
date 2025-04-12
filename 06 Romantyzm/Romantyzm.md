@@ -13,6 +13,7 @@ Romantyzm wywodzi się z oświeceniowego sentymentalizmu, jest „epoką **czuci
 - [[Ballada]]
 - [[Dramat romantyczny]]
 - [[Powieść epistolarna]]
+- [[Powieść poetycka]]
 ### Pojęcia teoretycznoliterackie
 - Mesjanizm
 - Winkelriedyzm
@@ -38,7 +39,7 @@ Romantyzm wywodzi się z oświeceniowego sentymentalizmu, jest „epoką **czuci
 
 ### Dodatkowo
 10. Sonety krymskie, Adam Mickiewicz
-11. Konrad Wallenrod, Adam Mickiewicz
+11. [[Konrad Wallenrod]], Adam Mickiewicz
 12. Poezja Juliusza Słowackiego
 13. Poezja Cypriana Kamila Norwida
 14. Nie-Boska komedia, Zygmunt Krasiński
