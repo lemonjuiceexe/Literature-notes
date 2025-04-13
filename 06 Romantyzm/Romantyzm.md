@@ -25,7 +25,7 @@ Romantyzm wywodzi się z oświeceniowego sentymentalizmu, jest „epoką **czuci
 
 ### Poziom podstawowy
 1. [[Oda do młodości]], Adam Mickiewicz
-2. Dziady cz. III, Adam Mickiewicz
+2. [[Dziady cz. III]], Adam Mickiewicz
 3. [Wybrane ballady](Ballady.md) (w tym Romantyczność), Adam Mickiewicz
 4. Testament mój, Juliusz Słowacki
 #### Z poziomu szkoły podstawowej

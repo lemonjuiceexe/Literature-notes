@@ -24,22 +24,23 @@
             }
           },
           {
-            "id": "c96789ce9de749d5",
+            "id": "6dc566cc7b1eb78d",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Poezja Adama Mickiewicza.md",
+                "file": "06 Romantyzm/Dziady cz. III.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Poezja Adama Mickiewicza"
+              "title": "Dziady cz. III"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#motyw/pycha",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 Romantyzm/Romantyzm.md",
+                "file": "06 Romantyzm/Dziady cz. III.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Romantyzm"
+              "title": "Outline of Dziady cz. III"
             }
           }
         ],
@@ -174,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,15 +187,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4f84887783965e17",
+  "active": "5afa3828c65b85e6",
   "lastOpenFiles": [
+    "06 Romantyzm/Filozofia romantyzmu.md",
+    "06 Romantyzm/Dziady cz. III.md",
+    "06 Romantyzm/Konrad Wallenrod.md",
+    "06 Romantyzm/Romantyzm.md",
+    "03 Renesans/Makbet.md",
+    "06 Romantyzm/Kordian.md",
     "Poezja Adama Mickiewicza.md",
     "06 Romantyzm/Ballady.md",
     "01 Antyk/Tragedia antyczna.md",
-    "06 Romantyzm/Romantyzm.md",
     "05 Oświecenie/Poezja Franciszka Karpińskiego.md",
-    "06 Romantyzm/Konrad Wallenrod.md",
-    "06 Romantyzm/Kordian.md",
     "06 Romantyzm/Cierpienia młodego Wertera.md",
     "05 Oświecenie/Bajka.md",
     "06 Romantyzm/Oda do młodości.md",
@@ -212,10 +215,7 @@
     "09 Dwudziestolecie międzywojenne/Dwudziestolecie międzywojenne.md",
     "05 Oświecenie/Sielanka.md",
     "06 Romantyzm/Ballada.md",
-    "05 Oświecenie/Bajki.md",
     "Pasted image 20250407181145.png",
-    "05 Oświecenie/Satyry.md",
-    "05 Oświecenie/Satyra.md",
     "09 Dwudziestolecie międzywojenne",
     "07 Pozytywizm",
     "05 Oświecenie",
