@@ -48,7 +48,7 @@ Konrad jest nieszczęśliwy. Poezja jest przyczyną jego samotności i wyobcowan
 > Ja mistrz wyciągam dłonie! #cytat
 
 > Boga, natury godne takie pienie! 
-> Bóg, Natura Pieśń to wielka, pieśń-tworzenie. 
+> Pieśń to wielka, pieśń-tworzenie. 
 > Taka pieśń jest siła, dzielność, 
 > Taka pieśń jest nieśmiertelność! 
 > Ja czuję nieśmiertelność, nieśmiertelność tworzę, 

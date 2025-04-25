@@ -24,19 +24,19 @@
             }
           },
           {
-            "id": "6dc566cc7b1eb78d",
+            "id": "1ae6a3a028424137",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Romantyzm/Dziady cz. III.md",
+                "file": "09 Dwudziestolecie międzywojenne/Mistrz i Małgorzata.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Dziady cz. III"
+              "title": "Mistrz i Małgorzata"
             }
           }
         ],
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#motyw/pycha",
+                "query": "tag:#motyw/teodycea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 Romantyzm/Dziady cz. III.md",
+                "file": "09 Dwudziestolecie międzywojenne/Mistrz i Małgorzata.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dziady cz. III"
+              "title": "Outline of Mistrz i Małgorzata"
             }
           }
         ],
@@ -187,14 +187,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5afa3828c65b85e6",
+  "active": "1ae6a3a028424137",
   "lastOpenFiles": [
-    "06 Romantyzm/Filozofia romantyzmu.md",
-    "06 Romantyzm/Dziady cz. III.md",
-    "06 Romantyzm/Konrad Wallenrod.md",
-    "06 Romantyzm/Romantyzm.md",
-    "03 Renesans/Makbet.md",
     "06 Romantyzm/Kordian.md",
+    "06 Romantyzm/Romantyzm.md",
+    "09 Dwudziestolecie międzywojenne/Mistrz i Małgorzata.md",
+    "06 Romantyzm/Dziady cz. III.md",
+    "09 Dwudziestolecie międzywojenne/Sklepy cynamonowe.md",
+    "07 Pozytywizm/Filozofia pozytywizmu.md",
+    "06 Romantyzm/Filozofia romantyzmu.md",
+    "06 Romantyzm/Konrad Wallenrod.md",
+    "03 Renesans/Makbet.md",
     "Poezja Adama Mickiewicza.md",
     "06 Romantyzm/Ballady.md",
     "01 Antyk/Tragedia antyczna.md",
@@ -206,10 +209,7 @@
     "07 Pozytywizm/Pozytywizm.md",
     "07 Pozytywizm/Zbrodnia i kara.md",
     "09 Dwudziestolecie międzywojenne/Ferdydurke.md",
-    "09 Dwudziestolecie międzywojenne/Mistrz i Małgorzata.md",
     "09 Dwudziestolecie międzywojenne/Poezja dwudziestolecia międzywojennego.md",
-    "09 Dwudziestolecie międzywojenne/Sklepy cynamonowe.md",
-    "07 Pozytywizm/Filozofia pozytywizmu.md",
     "09 Dwudziestolecie międzywojenne/Przedwiośnie.md",
     "04 Barok/Skąpiec.md",
     "09 Dwudziestolecie międzywojenne/Dwudziestolecie międzywojenne.md",
