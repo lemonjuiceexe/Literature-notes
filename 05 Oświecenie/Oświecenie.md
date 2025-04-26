@@ -1,5 +1,5 @@
 ---
-finished: false
+finished: true
 ---
 #epoka #epoka/oświecenie
 ## Informacje ogólne

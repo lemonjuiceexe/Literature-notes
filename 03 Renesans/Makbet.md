@@ -25,7 +25,7 @@ finished: false
 - **Makduf**, tan Fife
 - **Lady Makduf** i **ich syn**, jego rodzina
 ### Fabuła
-Po zwycięskiej bitwie Makbet i Banko spotykają trzy wiedźmy. Pozdrawiają one bohaterów, nazywając Makbeta tanem Kawdoru i przyszłym królem, Banka zaś „ojcem królów" - dziwi to przyjaciół nieposiadających tych tytułów. Chwilę po zniknięciu czarownic pojawiają się królewscy posłańcy, informujący Makbeta, że za zasługi w bitwie mianowano go tanem Kawdoru. Makbet zaczyna traktować słowa wiedźm serio, Banko traktuje je jako halucynacje. #motyw/przeznaczenie #motyw/ambicja 
+Po zwycięskiej bitwie Makbet i Banko spotykają trzy wiedźmy. Pozdrawiają one bohaterów, nazywając Makbeta tanem Kawdoru i przyszłym królem, Banka zaś „ojcem królów" - dziwi to przyjaciół nieposiadających tych tytułów. Chwilę po zniknięciu czarownic pojawiają się królewscy posłańcy, informujący Makbeta, że za zasługi w bitwie mianowano go tanem Kawdoru. Makbet zaczyna traktować słowa wiedźm serio, Banko traktuje je jako halucynacje. #motyw/przeznaczenie #motyw/ambicja #motyw/władza
 
 Mimo oporów Makbet, pod wpływem Lady Makbet, zabija Dunkana #motyw/morderstwo #motyw/śmierć #motyw/zdrada i wrabia w zbrodnię strażników, których też zabija. Malkolm oraz tanowie Makduf i Lennox podejrzewają podstęp i uciekają za granicę. Odbywa się koronacja Makbeta.
 

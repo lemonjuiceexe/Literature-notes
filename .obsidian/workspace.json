@@ -4,43 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0b7f1e2d630c1435",
+        "id": "79f6ee6a33230daf",
         "type": "tabs",
         "children": [
           {
-            "id": "4f84887783965e17",
+            "id": "342c154a1f546ab2",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Romantyzm/Romantyzm.md",
+                "file": "05 Oświecenie/Oświecenie.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Romantyzm"
-            }
-          },
-          {
-            "id": "1ae6a3a028424137",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09 Dwudziestolecie międzywojenne/Mistrz i Małgorzata.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Mistrz i Małgorzata"
+              "title": "Oświecenie"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -72,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#motyw/teodycea",
+                "query": "tag:#motyw/siła",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 Dwudziestolecie międzywojenne/Mistrz i Małgorzata.md",
+                "file": "05 Oświecenie/Oświecenie.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mistrz i Małgorzata"
+              "title": "Outline of Oświecenie"
             }
           }
         ],
@@ -187,34 +168,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1ae6a3a028424137",
+  "active": "342c154a1f546ab2",
   "lastOpenFiles": [
-    "06 Romantyzm/Kordian.md",
     "06 Romantyzm/Romantyzm.md",
-    "09 Dwudziestolecie międzywojenne/Mistrz i Małgorzata.md",
-    "06 Romantyzm/Dziady cz. III.md",
-    "09 Dwudziestolecie międzywojenne/Sklepy cynamonowe.md",
-    "07 Pozytywizm/Filozofia pozytywizmu.md",
-    "06 Romantyzm/Filozofia romantyzmu.md",
-    "06 Romantyzm/Konrad Wallenrod.md",
-    "03 Renesans/Makbet.md",
-    "Poezja Adama Mickiewicza.md",
-    "06 Romantyzm/Ballady.md",
-    "01 Antyk/Tragedia antyczna.md",
-    "05 Oświecenie/Poezja Franciszka Karpińskiego.md",
-    "06 Romantyzm/Cierpienia młodego Wertera.md",
+    "05 Oświecenie/Bajki.md",
+    "05 Oświecenie/Filozofia oświecenia.md",
+    "05 Oświecenie/Hymn do miłości Ojczyzny.md",
     "05 Oświecenie/Bajka.md",
-    "06 Romantyzm/Oda do młodości.md",
-    "07 Pozytywizm/Lalka.md",
-    "07 Pozytywizm/Pozytywizm.md",
-    "07 Pozytywizm/Zbrodnia i kara.md",
-    "09 Dwudziestolecie międzywojenne/Ferdydurke.md",
-    "09 Dwudziestolecie międzywojenne/Poezja dwudziestolecia międzywojennego.md",
-    "09 Dwudziestolecie międzywojenne/Przedwiośnie.md",
-    "04 Barok/Skąpiec.md",
-    "09 Dwudziestolecie międzywojenne/Dwudziestolecie międzywojenne.md",
+    "05 Oświecenie/Oświecenie.md",
     "05 Oświecenie/Sielanka.md",
-    "06 Romantyzm/Ballada.md",
+    "05 Oświecenie/Satyry.md",
+    "05 Oświecenie/Satyra.md",
+    "05 Oświecenie/Poezja Franciszka Karpińskiego.md",
+    "09 Dwudziestolecie międzywojenne/Sklepy cynamonowe.md",
+    "09 Dwudziestolecie międzywojenne/Dwudziestolecie międzywojenne.md",
+    "09 Dwudziestolecie międzywojenne/Poezja dwudziestolecia międzywojennego.md",
+    "09 Dwudziestolecie międzywojenne/Mistrz i Małgorzata.md",
+    "09 Dwudziestolecie międzywojenne/Ferdydurke.md",
+    "07 Pozytywizm/Zbrodnia i kara.md",
+    "07 Pozytywizm/Pozytywizm.md",
+    "07 Pozytywizm/Nowele.md",
+    "07 Pozytywizm/Lalka.md",
+    "07 Pozytywizm/Gloria victis.md",
+    "06 Romantyzm/Oda do młodości.md",
+    "06 Romantyzm/Poezja Adama Mickiewicza.md",
+    "06 Romantyzm/Konrad Wallenrod.md",
+    "06 Romantyzm/Filozofia romantyzmu.md",
+    "06 Romantyzm/Dziady cz. III.md",
+    "06 Romantyzm/Kordian.md",
     "Pasted image 20250407181145.png",
     "09 Dwudziestolecie międzywojenne",
     "07 Pozytywizm",

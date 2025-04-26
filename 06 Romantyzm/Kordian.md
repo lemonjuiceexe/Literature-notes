@@ -34,7 +34,7 @@ Po nieudanej próbie samobójczej podróżuje po świecie, weryfikując swoje po
 4. Państwo Kościelne
 	Rozczarowanie instytucją papieża, który, zamiast błogosławić naród polski, bierze stronę cara.
 
-Suma rozczarowań doprowadza do przełomu. Kordian wygłasza na górze Mont Blanc monolog, będący nawiązaniem do [Wielkiej Improwizacji](./Dziady%20cz%20III), w którym przyjmuje historiozoficzną ideę [winkelriedyzmu](./Filozofia%20romantyzmu#Winkelriedyzm%20-%20Juliusz%20Słowacki). #motyw/przemiana 
+Suma rozczarowań doprowadza do przełomu. Kordian wygłasza na górze Mont Blanc monolog, będący nawiązaniem do [Wielkiej Improwizacji](./Dziady%20cz.%20III#Scena%20II%20-%20Wielka%20Improwizacja), w którym przyjmuje historiozoficzną ideę [winkelriedyzmu](./Filozofia%20romantyzmu#Winkelriedyzm%20-%20Juliusz%20Słowacki). #motyw/przemiana 
 
 ### Cytaty
 > Boże! Zdejm z mego serca jaskółczy niepokój,
