@@ -20,7 +20,7 @@ Rzecz dzieje się 1.11.1823 r. w klasztorze Bazylianów w Wilnie, przerobionym n
 > HIC NATUS EST CONRADUS
 
 #### Scena I - więzienna
-Rzecz dzieje się 24.12.1823 r. Więźniowie spotykają się w celi Konrada i rozmawiają o swojej sytuacji, o represjach spotykających młodzież ze strony Nowosilcowa. Młodzież jest aresztowana i torturowana bez powodu, ponieważ Nowosilcow na siłę szuka spisku, aby przypodobać się carowi. Jan Sobolewski opowiada o widzianych przez siebie wywożonych na Sybir więźniach. 
+Rzecz dzieje się 24.12.1823 r. Więźniowie spotykają się w celi Konrada i rozmawiają o swojej sytuacji, o represjach spotykających młodzież ze strony Nowosilcowa. Młodzież jest aresztowana i torturowana bez powodu, ponieważ Nowosilcow na siłę szuka spisku, aby przypodobać się carowi. #motyw/patriotyzm Jan Sobolewski opowiada o widzianych przez siebie wywożonych na Sybir więźniach. 
 ##### Bajka Goreckiego
 Opowiadana przez Żegotę. Bóg po wygnaniu Adama z Raju nie chciał, aby ten został bez pomocy, więc kazał aniołom rozsypać na drodze ziarna zbóż. Adam nie wiedział co z nimi zrobić, diabeł postanowił mu zaszkodzić i ukryć ziarna. Zakopał je w ziemi, co sprawiło, że wyrosły.
 > Jam częścią tej siły, która wiecznie zła pragnąc, wiecznie czyni dobro
@@ -86,6 +86,11 @@ Ksiądz Piotr egzorcyzmuje Konrada i rozmawia z diabłem w jego duszy. Ten prób
 #### Scena IV - Dom wiejski pode Lwowem
 Młoda dziewczyna Ewa modli się za ojczyznę oraz za uwięzionych Filomatów, szczególnie za Konrada. W nocy doznaje widzenia Maryi i Chrystusa.
 #### Scena V - Widzenie ks. Piotra
+> Panie! czymże ja jestem przed Twoim obliczem? -
+> Prochem i niczem;
+
+~ ks. Piotr
+
 To nie sen!
 Wizja ma charakter profetyczny - przedstawia obecne i przyszłe losy narodu Polskiego postrzegane według logiki [mesjanistycznej](./Filozofia%20romantyzmu#^mesjanizm). Mickiewicz **w losach Polski dostrzega analogię do męki Chrystusa**. Wierzy, że martyrologia doprowadzi do zbawienia. 
 1. **Rzeź niewiniątek** - ks. Piotr widzi młodzież wywożoną kibitkami na Sybir, co nawiązuje do rzezi niewiniątek. Herod symbolizuje cara.
@@ -115,3 +120,17 @@ Mickiewicz ukazuje obraz polskiego społeczeństwa, podzielonego na dwie częśc
 **Towarzystwo przydrzwiowe** - wewnętrzny ogień. Młodzi polscy patrioci, mówią po polsku. Interesują się represjami i prześladowaniami patriotów. Stanowią rdzeń polskości, którego *i sto lat nie wyziębi*. 
 
 Adolf opowiada historię Cichowskiego, torturowanego przez Rosjan. Nie poddał się mimo okaleczenia, ale gdy go wypuszczono, zmienił się nie do poznania. Młodzi Polacy są wzruszeni opowieścią, natomiast arystokracja jest oburzona nieprzyzwoitością tematu.
+
+#### Scena VIII - Pan Senator
+Rzecz dzieje się w Wilnie, w siedzibie senatora Nowosilcowa. Rozmawia on z Pelikanem, doktorem i Bajkowem o prześladowaniach studentów. Senator skarży się na nudę prowincji. 
+Pojawia się niewidoma Pani Rollison, matka więzionego młodego patrioty. #motyw/matka Błaga Nowosilcowa o widzenie z synem lub wysłanie mu chociaż księdza. Nowosilcow wobec Pani Rollison zachowuje się brutalnie, lecz gdy wbiega Panna, uczestniczka balu, zaczyna udawać współczucie. Nakazuje otwarcie okna w celi Rollisona (możliwe, że w ten sposób każe go zabić, pozorując samobójstwo). Razem z Panią Rollison pojawia się ks. Piotr, który przepowiada śmierć Doktorowi oraz karę Senatorowi. 
+
+Rozpoczyna się bal. Widzimy podział gości na prawą i lewą stronę:
+- Lewa strona to lojaliści i urzędnicy, próbujący wkraść się w łaski Senatora
+- Prawa strona to młodzi patrioci, studenci ostentacyjnie unikający tańca. Rozmawiają o zamordowaniu Nowosilcowa, zarzucają go jednak ze względu na potencjalne zaostrzenie represji.
+Pani Rollison dowiaduje się, że jej syn zginął, wyrzucony przez okno z celi. Wpada na bal, w szale oskarża senatora i przeklina go. Ksiądz Piotr uspokaja ją, mówiąc, że Rollison żyje, ta jednak pada zemdlona. Uderza piorun, który zabija Doktora, roztapiając srebrne ruble przy jego głowie - spełnia się przepowiednia ks. Piotra. #motyw/przepowiednia Następnie ks. Piotr, opowiadając dwie przypowieści, sugeruje, że Senatora i Pelikana spotka jeszcze gorszy koniec niż Doktora. Wychodząc, spotyka Konrada, który daruje mu pierścionek i któremu przepowiada przyszłość na zesłaniu.
+
+#### Scena IX - Noc Dziadów
+Rzecz dzieje się na cmentarzu podczas Dziadów. Guślarz i Kobieta obserwują tłumy wchodzące do kaplicy. Kobieta nie wchodzi do środka, czeka na ducha - Guślarz wnioskuje, że chodzi o duszę jeszcze żyjącego człowieka.
+Trwa obrzęd Dziadów: wpierw pojawiają się duchy lekkie, następnie ciężkie (jeden z nich ma w oczach srebrne monety a w rękach przelewa, parzące go, srebro). Kobieta jeszcze raz wzywa ducha, który nie przybywa.
+Nagle oboje widzą pędzące na Sybir kibitki. W jednej z nich Kobieta widzi mężczyznę w czarnym stroju, z raną na piersi i na czole - rozpoznaje Konrada, jej dawnego ukochanego. Guślarz wyjaśnia, że rana w piersi była mu zadana przez wrogów narodu, zaś tę na czole zadał sobie sam i nawet śmierć jej nie uleczy. Kobieta błaga Boga o przebaczenie dla Konrada.

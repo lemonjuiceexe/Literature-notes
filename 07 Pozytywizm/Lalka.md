@@ -52,5 +52,6 @@ Społeczeństwo przedstawione jest panoramiczne - Prus opisuje arystokrację, mi
 ### Miłość Wokulskiego do Izabeli
 #motyw/miłość #motyw/tragizm 
 ### Cytaty
-	Stopiło się w nim dwu ludzi: romantyk sprzed roku sześćdziesiątego i pozytywista z siedemdziesiątego. To, co dla patrzących jest sprzeczne, w nim samym jest najzupełniej konsekwentne. 
+> Stopiło się w nim dwu ludzi: romantyk sprzed roku sześćdziesiątego i pozytywista z siedemdziesiątego. To, co dla patrzących jest sprzeczne, w nim samym jest najzupełniej konsekwentne. 
+ 
 ~ Doktor Szuman o Wokulskim

@@ -6,11 +6,6 @@ finished: false
 - **Gatunek**: dramat
 - **Epoka**: [[Renesans]] #epoka/renesans
 - **Data**: I połowa XVII w. (1623 r.)
-
-## Problematyka
-#motyw/przemiana Przemiana Makbeta
-### Cytaty
-
 ## Świat przedstawiony
 ### Czas i miejsce akcji
 - **Czas**: średniowiecze, XI w.
@@ -35,3 +30,19 @@ Makbet nasyła morderców na rodzinę Makdufa, zabijają oni syna, Lady Makduf u
 Makbet sprawuje w Szkocji rządy tyrana. Lady Makbet traci zmysły, chodzi we śnie i próbuje obmyć ręce z krwi. #motyw/szaleństwo 
 
 Na Makbeta ruszają z Anglii Siward wraz z Malkolmem i Makdufem. Nakazują wojsku nieść gałązki z lasu Birnam, w celu wprowadzenia wroga w błąd co do ilości żołnierzy. W ten sposób spełnia się pierwsza przepowiednia wiedźm - las rusza do ataku. Dochodzi do walki Makbeta z Makdufem. Makbet, przez przepowiednię, jest pewien, że nic mu się nie stanie. Makduf mówi mu jednak, że przyszedł na świat przez cesarskie cięcie, a nie naturalnie. Makbet traci pewność siebie i ginie. Malkolm zostaje nowym królem Szkocji. #motyw/wina-i-kara 
+
+## Problematyka
+### Przemiana Makbeta
+#motyw/przemiana #motyw/władza #motyw/ambicja 
+### Przepowiednia a wolna wola
+
+### Cytaty
+> Jeśli to, co ma się stać, stać się musi
+> Niechby przynajmniej stało się niezwłocznie #cytat
+
+> Życie jest tylko przechodnim półcieniem
+> Nędznym aktorem, który swą rolę
+> Przez parę godzin wygrawszy na scenie
+> W nicość przepada - powieścią idioty
+> Głośną, wrzaskliwą, a nic nie znaczącą #cytat
+
