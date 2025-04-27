@@ -144,8 +144,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
-                "showSearch": false,
+                "useHierarchy": true,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -168,7 +168,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -187,18 +187,24 @@
   "active": "7d20559f4632fc62",
   "lastOpenFiles": [
     "07 Pozytywizm/Filozofia pozytywizmu.md",
+    "09 Dwudziestolecie międzywojenne/Mistrz i Małgorzata.md",
+    "05 Oświecenie/Bajki.md",
+    "09 Dwudziestolecie międzywojenne/Dwudziestolecie międzywojenne.md",
+    "09 Dwudziestolecie międzywojenne/Sklepy cynamonowe.md",
+    "09 Dwudziestolecie międzywojenne/Ferdydurke.md",
+    "09 Dwudziestolecie międzywojenne/Przedwiośnie.md",
+    "06 Romantyzm/Romantyzm.md",
+    "01 Antyk/Antyk.md",
+    "03 Renesans/Renesans.md",
     "07 Pozytywizm/Zbrodnia i kara.md",
     "04 Barok/Barok.md",
     "07 Pozytywizm/Gloria victis.md",
     "03 Renesans/Makbet.md",
     "06 Romantyzm/Poezja Adama Mickiewicza.md",
-    "03 Renesans/Renesans.md",
     "04 Barok/Sztuka baroku.md",
     "07 Pozytywizm/Pozytywizm.md",
     "06 Romantyzm/Cierpienia młodego Wertera.md",
     "05 Oświecenie/Oświecenie.md",
-    "06 Romantyzm/Romantyzm.md",
-    "05 Oświecenie/Bajki.md",
     "05 Oświecenie/Filozofia oświecenia.md",
     "05 Oświecenie/Hymn do miłości Ojczyzny.md",
     "05 Oświecenie/Bajka.md",
@@ -206,12 +212,6 @@
     "05 Oświecenie/Satyry.md",
     "05 Oświecenie/Satyra.md",
     "05 Oświecenie/Poezja Franciszka Karpińskiego.md",
-    "09 Dwudziestolecie międzywojenne/Sklepy cynamonowe.md",
-    "09 Dwudziestolecie międzywojenne/Dwudziestolecie międzywojenne.md",
-    "09 Dwudziestolecie międzywojenne/Poezja dwudziestolecia międzywojennego.md",
-    "09 Dwudziestolecie międzywojenne/Mistrz i Małgorzata.md",
-    "09 Dwudziestolecie międzywojenne/Ferdydurke.md",
-    "07 Pozytywizm/Nowele.md",
     "Pasted image 20250407181145.png",
     "09 Dwudziestolecie międzywojenne",
     "07 Pozytywizm",

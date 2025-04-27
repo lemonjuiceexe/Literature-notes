@@ -1,5 +1,5 @@
 ---
-finished: false
+finished: true
 ---
 #lektura 
 - **Autor**: Fiodor Dostojewski
@@ -12,7 +12,7 @@ finished: false
 - **Czas akcji**: lipiec 1861 r.
 - **Miejsce akcji**: Petersburg
 ### Bohaterowie
-- **Rodion Romanowicz Raskolnikow** - były student prawa, nie może kontynuować studiów przez brak pieniędzy. Zaciąga długi u lichwiarki, którą potem zabija. #motyw/morderstwo Bardzo inteligentny i ambitny, wrażliwy, ateista, racjonalista.
+- **Rodion Romanowicz Raskolnikow** - były student prawa, nie może kontynuować studiów przez brak pieniędzy. Zaciąga długi u lichwiarki, którą potem zabija. #motyw/morderstwo Bardzo inteligentny i ambitny, wrażliwy, ateista, racjonalista, indywidualista.
 - **Sofia „Sonia" Siemonowna Marmieładowa** (Zosia) - córka Marmieładowa. Macocha popycha ją do prostytucji aby utrzymać biedną rodzinę. #motyw/bieda #motyw/poświęcenie #motyw/tragizm Dobra, pobożna, pokorna, emocjonalna. Pełni kluczową rolę w przemianie Raskolnikowa. Kiedy ten wyznał jej prawdę o zbrodni, nie ocenia go, ale okazuje współczucie oraz zachęca do skruchy i przyznania się do winy. #motyw/przebaczenie 
 - **Awdotia „Dunia" Romanowna Raskolnikowa** - siostra Rodiona. Urodziwa, mądra i dobra. Ceni dobro bliskich ponad własne - poświęca się dla nich, chcąc wyjść za niekochanego przez siebie Łużyna, co zapewniłoby im stabilną sytuację materialną. #motyw/miłość #motyw/rodzina #motyw/poświęcenie 
 - **Pulcheria Aleksandrowna Raskolnikowa** - wdowa, matka Rodiona i Duni. Jest wzorem matczynej miłości, wszystkie jej działania podporządkowane są dobru dzieci, jest dumna ze swojego syna. #motyw/matka #motyw/miłość #motyw/rodzina Wspiera Rodiona materialnie, choć sama ledwie wiąże koniec z końcem. Jest bardzo emocjonalna, ugodowa i niekonflitkowa. Niestety nie jest w stanie udźwignąć ciężaru zbrodni syna i jego zesłania, popada w chorobę nerwową i umiera.
@@ -42,7 +42,9 @@ Raskolnikow dzieli ludzi na dwie kategorie:
 Raskolnikow uważa, że zabójstwo lichwiarki jest usprawiedliwialne - postrzega ją jako pasożyta, jej śmierć poprawi los wielu ludzi (skrajny [utylitaryzm](./Filozofia%20pozytywizmu#^utylitaryzm)).
 Rodion postanawia sprawdzić, czy sam należy do kategorii nadludzi. Zbrodnia staje się dla niego eksperymentem, chce sobie udowodnić swoją wyższość.
 ### Wpływ morderstwa na Raskolnikowa
-#motyw/przemiana #motyw/wina-i-kara 
+#motyw/przemiana #motyw/wina-i-kara #motyw/szaleństwo #motyw/choroba 
+Raskolnikow uważał, że będzie w stanie zabić bez ponoszenia konsekwencji psychicznych. Całą zbrodnię miał szczegółowo zaplanowaną, ale po popełnieniu zbrodni od razu popadł w panikę, opanowuje go chęć ucieczki. Po powrocie do domu jest rozbity, nie może zasnąć. Popada w obłęd oraz fizyczną chorobę. Ukrywa skradzione kosztowności nie korzystając z ich. Silne wyrzuty sumienia przeradzają się w psychozę - jest wewnętrznie rozdarty, z jednej strony próbuje racjonalizować swój czyn, z drugiej nie może znieść ciężaru winy. Żyje w ciągłym strachu, że zostanie odkryty. 
+Reakcja jego organizmu uświadamia Rodionowi, że nie jest nadczłowiekiem, co potęguje jego rozpacz i poczucie klęski. 
 ### Oniryzm
 #motyw/oniryzm 
 Dostojewski przedstawia sny bohaterów w celu pogłębienia ich obrazu psychologicznego.
