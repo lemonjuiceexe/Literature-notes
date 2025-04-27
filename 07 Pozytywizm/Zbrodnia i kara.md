@@ -13,17 +13,16 @@ finished: false
 - **Miejsce akcji**: Petersburg
 ### Bohaterowie
 - **Rodion Romanowicz Raskolnikow** - były student prawa, nie może kontynuować studiów przez brak pieniędzy. Zaciąga długi u lichwiarki, którą potem zabija. Bardzo inteligentny i ambitny, wrażliwy, ateista, racjonalista.
-  
-- **Sofia „Sonia" Siemonowna Marmieładow** (Zosia) - córka Marmieładowa. Macocha popycha ją do prostytucji aby utrzymać biedną rodzinę. Dobra, pobożna, pokorna, emocjonalna. Pełni kluczową rolę w przemianie Raskolnikowa, 
-- **Awdotia „Dunia" Romanowna Raskolnikow** - siostra Rodiona. Urodziwa, mądra i dobra. Ceni dobro bliskich ponad własne - poświęca się dla nich, chcąc wyjść za niekochanego przez siebie Łużyna. #motyw/miłość #motyw/rodzina 
-- **Pulcheria Aleksandrowna Raskolnikow** 
-- **Dymitr Prokoficz Razumichin** - student, korepetytor, tłumacz, przyjaciel Rodiona. Pogodny, towarzyski, dobry przyjaciel. Religijny. Ostatecznie żeni się z Dunią. 
-- **Alona Iwanowna**
+- **Sofia „Sonia" Siemonowna Marmieładowa** (Zosia) - córka Marmieładowa. Macocha popycha ją do prostytucji aby utrzymać biedną rodzinę. #motyw/bieda #motyw/poświęcenie #motyw/tragizm Dobra, pobożna, pokorna, emocjonalna. Pełni kluczową rolę w przemianie Raskolnikowa. Kiedy ten wyznał jej prawdę o zbrodni, nie ocenia go, ale okazuje współczucie oraz zachęca do skruchy i przyznania się do winy. #motyw/przebaczenie 
+- **Awdotia „Dunia" Romanowna Raskolnikowa** - siostra Rodiona. Urodziwa, mądra i dobra. Ceni dobro bliskich ponad własne - poświęca się dla nich, chcąc wyjść za niekochanego przez siebie Łużyna, co zapewniłoby im stabilną sytuację materialną. #motyw/miłość #motyw/rodzina #motyw/poświęcenie 
+- **Pulcheria Aleksandrowna Raskolnikowa** - wdowa, matka Rodiona i Duni. Jest wzorem matczynej miłości, wszystkie jej działania podporządkowane są dobru dzieci, jest dumna ze swojego syna. #motyw/matka #motyw/miłość #motyw/rodzina Wspiera Rodiona materialnie, choć sama ledwie wiąże koniec z końcem. Jest bardzo emocjonalna, ugodowa i niekonflitkowa. Niestety nie jest w stanie udźwignąć ciężaru zbrodni syna i jego zesłania, popada w chorobę nerwową i umiera.
+- **Dymitr Prokoficz Razumichin** - student, korepetytor, tłumacz, przyjaciel Rodiona. #motyw/przyjaźń Pogodny, towarzyski, dobry przyjaciel. Religijny. Ostatecznie żeni się z Dunią.
+- **Alona Iwanowna** - lichwiarka. Skąpa i bezduszna, wykorzystuje trudną sytuację swoich klientów. Powszechnie nielubiana, okrutna wobec młodszej siostry Lizawiety, którą traktuje jak służącą. Jest społecznym pasożytem, bogacącym się na cudzym nieszczęściu. Ginie wraz z Lizawietą zamordowana przez Raskolnikowa.
 - **Porfiry Pietrowicz** - sędzia śledczy, prowadzi sprawę zabójstwa lichwiarki. Z wyglądu poczciwy. Inteligentny, podejrzewa Rodiona, prowadzi z nim grę psychologiczną.
 - **Arkadiusz Iwanowicz Swidrygajłow** - były pracodawca Duni, śliski, bogaty człowiek. Zaleca się do dziewczynek, zbił żonę na śmierć. Dręczy go sumienie i ostatecznie popełnia samobójstwo. 
-- **Piotr Pietrowicz Łużyn**
-- **Siemon Zacharycz Marmieładow**
-- **Katarzyna Iwanowna Marmieładow**
+- **Piotr Pietrowicz Łużyn** - elegancki mężczyzna w średnim wieku. Egoistyczny i wyrachowany, ocenia ludzi przez pryzmat pieniędzy i pozycji. Chce poślubić młodą, ubogą kobietę, która będzie mu dozgonnie wdzięczna za poprawę losu. Po zerwaniu przez Dunię zaręczyn, w zemście podrzucił Soni pieniądze aby potem oskrażyć ją o kradzież.
+- **Siemon Zacharycz Marmieładow** - ojciec Soni, urzędnik, alkoholik. Przez alkoholizm stracił pracę i popadł w nędzę. Jest świadomy swojego upadku, gardzi sobą, ale nie umie przeciwstawić się nałogowi. Ma świadomość, że przez jego rodzina przez niego cierpi. Alkohol jest dla niego sposobem ucieczki od rzeczywistości ale również karania się. Ginie potrącony przez powóz.
+- **Katarzyna Iwanowna Marmieładow** - żona Marmieładowa, macocha Soni. Jest dobrze urodzona (córka oficera) i wykształcona, co daje jej poczucie dumy oraz sprawia, że bieda jest dla niej szczególnie upokarzająca - gardzi ludźmi prostymi. Choruje na gruźlicę, żyje w skrajnej biedzie, zmaga się z alkoholizmem męża i odpowiedzialnością za rodzinę. Jest skrajnie emocjonalna i nerwowa, ale kocha swoje dzieci. #motyw/matka #motyw/bieda #motyw/rodzina #motyw/choroba Po śmierci męża popada w obłęd i zmusza dzieci do żebractwa oraz publicznych występów. #motyw/szaleństwo Ostatecznie umiera w pokoju Soni.
 
 ## Problematyka
 ### Polifonia

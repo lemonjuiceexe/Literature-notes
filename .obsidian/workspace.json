@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "79f6ee6a33230daf",
+        "id": "7b7611805e4856ca",
         "type": "tabs",
         "children": [
           {
-            "id": "342c154a1f546ab2",
+            "id": "7d20559f4632fc62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Oświecenie/Oświecenie.md",
+                "file": "07 Pozytywizm/Zbrodnia i kara.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Oświecenie"
+              "title": "Zbrodnia i kara"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#motyw/siła",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 Oświecenie/Oświecenie.md",
+                "file": "07 Pozytywizm/Zbrodnia i kara.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Oświecenie"
+              "title": "Outline of Zbrodnia i kara"
             }
           }
         ],
@@ -168,14 +168,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "342c154a1f546ab2",
+  "active": "5afa3828c65b85e6",
   "lastOpenFiles": [
+    "07 Pozytywizm/Gloria victis.md",
+    "03 Renesans/Makbet.md",
+    "06 Romantyzm/Poezja Adama Mickiewicza.md",
+    "03 Renesans/Renesans.md",
+    "07 Pozytywizm/Zbrodnia i kara.md",
+    "04 Barok/Sztuka baroku.md",
+    "07 Pozytywizm/Pozytywizm.md",
+    "06 Romantyzm/Cierpienia młodego Wertera.md",
+    "05 Oświecenie/Oświecenie.md",
     "06 Romantyzm/Romantyzm.md",
     "05 Oświecenie/Bajki.md",
     "05 Oświecenie/Filozofia oświecenia.md",
     "05 Oświecenie/Hymn do miłości Ojczyzny.md",
     "05 Oświecenie/Bajka.md",
-    "05 Oświecenie/Oświecenie.md",
     "05 Oświecenie/Sielanka.md",
     "05 Oświecenie/Satyry.md",
     "05 Oświecenie/Satyra.md",
@@ -185,17 +193,9 @@
     "09 Dwudziestolecie międzywojenne/Poezja dwudziestolecia międzywojennego.md",
     "09 Dwudziestolecie międzywojenne/Mistrz i Małgorzata.md",
     "09 Dwudziestolecie międzywojenne/Ferdydurke.md",
-    "07 Pozytywizm/Zbrodnia i kara.md",
-    "07 Pozytywizm/Pozytywizm.md",
     "07 Pozytywizm/Nowele.md",
     "07 Pozytywizm/Lalka.md",
-    "07 Pozytywizm/Gloria victis.md",
     "06 Romantyzm/Oda do młodości.md",
-    "06 Romantyzm/Poezja Adama Mickiewicza.md",
-    "06 Romantyzm/Konrad Wallenrod.md",
-    "06 Romantyzm/Filozofia romantyzmu.md",
-    "06 Romantyzm/Dziady cz. III.md",
-    "06 Romantyzm/Kordian.md",
     "Pasted image 20250407181145.png",
     "09 Dwudziestolecie międzywojenne",
     "07 Pozytywizm",
