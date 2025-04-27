@@ -15,7 +15,7 @@ Po upadku powstania styczniowego nastąpiła utrata wiary w hasła romantyczne i
 
 **Organicyzm** - zakłada, że społeczeństwo jest jak organizm - tak jak dla zdrowia organizmu potrzebne jest zdrowie wszystkich organów, tak zdrowemu społeczeństwu jest potrzebny równy rozwój wszystkich jego warstw i dziedzin życia. Z tego poglądu wynika koncepcja [pracy organicznej](#^pracaorganiczna).
 
-**Utylitaryzm** - pogląd etyczny, według którego dobro ogółu i jednostki są tożsame. Miarą moralności postępowania jest użyteczność jego skutków. 
+**Utylitaryzm** - pogląd etyczny, według którego dobro ogółu i jednostki są tożsame. Miarą moralności postępowania jest użyteczność jego skutków. ^utylitaryzm
 
 ## Nurty w sztuce
 **Realizm** - w sztuce przedstawianie realistyczne, a więc zbliżone do rzeczywistości ^realizm
