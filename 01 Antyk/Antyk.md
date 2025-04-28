@@ -35,7 +35,7 @@ Antyk, czyli starożytność klasyczna, to dorobek kultur greckiej i rzymskiej. 
 1. Mitologia, Jan Parandowski
 2. Antygona, Sofokles
 3. [[Biblia]] (fragmenty)
-4. Iliada, [[Homer]] (fragmenty)
+4. [[Iliada]], [[Homer]] (fragmenty)
 5. Wybrane utwory, Horacy
 
 ### Poziom rozszerzony

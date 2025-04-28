@@ -6,7 +6,7 @@ finished: true
 - **Epoka**: [[Antyk]] #epoka/antyk 
 - **Lata życia**: VIII w. p.n.e.
 - Napisał:
-	- [Iliadę](Iliada)
+	- [Iliadę](Iliada.md)
 	- [Odyseję](Odyseja)
 
 Najstarszy znany z imienia europejski poeta, najprawdopodobniej przejął  dziedzictwo wcześniejszej tradycji ustnej.
