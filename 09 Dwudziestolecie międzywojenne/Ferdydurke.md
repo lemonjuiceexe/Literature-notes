@@ -28,8 +28,7 @@ Gombrowiczowska Forma jest jednym z głównych zagadnień poruszanych w powieśc
 
 Przykładem jest Miętus, który myślał, że propagując prostactwo buntuje się przeciwko upupiającemu schematowi narzuconemu przez Pimkę. W ten sposób stworzył jednak nowy schemat, czyli wpadł w nową Formę.
 W tym sensie utwór jest również satyrą na relacje międzyludzkie, z natury skrzywione przez narzucone Formy, a przez to sztuczne.
-### Słowniczek
-#### Pupa
+### Pupa
 #motyw/dziecko 
 ### Groteska
 ### Motyw dworku
