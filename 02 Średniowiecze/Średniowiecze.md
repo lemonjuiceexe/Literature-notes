@@ -17,7 +17,7 @@ Nazwa średniowiecze wywodzi się od określenia epoki pośredniej pomiędzy ant
 1. [[Lament świętokrzyski]] (fragmenty)
 2. Rozmowa Mistrza Polikarpa ze Śmiercią (fragmenty)
 3. Pieśń o Rolandzie (fragmenty)
-4. Bogurodzica
+4. [[Bogurodzica]]
 
 ### Poziom rozszerzony
 1. Boska Komedia, Dante Alighieri (fragmenty)

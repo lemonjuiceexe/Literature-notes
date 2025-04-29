@@ -2,7 +2,7 @@
 finished: true
 ---
 #lektura
-- **Autor**: 
+- **Autor**: nieznany
 - **Gatunek**: plankt (lament)
 - **Epoka**: [[Średniowiecze]] #epoka/średniowiecze 
 - **Data**: koniec XV w.
