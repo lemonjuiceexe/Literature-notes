@@ -24,19 +24,17 @@
             }
           },
           {
-            "id": "9534f74a330f9812",
+            "id": "dff91455ccb82048",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Średniowiecze/Rozmowa Mistrza Polikarpa ze Śmiercią.md",
+                "file": "Pieśń o Rolandzie.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Rozmowa Mistrza Polikarpa ze Śmiercią"
+              "title": "Pieśń o Rolandzie"
             }
           }
         ],
@@ -161,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Średniowiecze/Rozmowa Mistrza Polikarpa ze Śmiercią.md",
+                "file": "Pieśń o Rolandzie.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Rozmowa Mistrza Polikarpa ze Śmiercią"
+              "title": "Outline of Pieśń o Rolandzie"
             }
           }
         ],
@@ -187,13 +185,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9534f74a330f9812",
+  "active": "dff91455ccb82048",
   "lastOpenFiles": [
-    "09 Dwudziestolecie międzywojenne/Ferdydurke.md",
+    "07 Pozytywizm/Gloria victis.md",
+    "02 Średniowiecze/Średniowiecze.md",
+    "Pieśń o Rolandzie.md",
+    "07 Pozytywizm/Pozytywizm.md",
+    "07 Pozytywizm/Filozofia pozytywizmu.md",
     "02 Średniowiecze/Rozmowa Mistrza Polikarpa ze Śmiercią.md",
+    "09 Dwudziestolecie międzywojenne/Ferdydurke.md",
     "02 Średniowiecze/Filozofia średniowiecza.md",
     "02 Średniowiecze/Bogurodzica.md",
-    "02 Średniowiecze/Średniowiecze.md",
     "02 Średniowiecze/Lament świętokrzyski.md",
     "05 Oświecenie/Hymn do miłości Ojczyzny.md",
     "09 Dwudziestolecie międzywojenne/Poezja dwudziestolecia międzywojennego.md",
@@ -211,11 +213,7 @@
     "04 Barok/Skąpiec.md",
     "04 Barok/Barok.md",
     "01 Antyk/Iliada.md",
-    "07 Pozytywizm/Pozytywizm.md",
     "07 Pozytywizm/Zbrodnia i kara.md",
-    "01 Antyk/Mit.md",
-    "07 Pozytywizm/Potop.md",
-    "09 Dwudziestolecie międzywojenne/Sklepy cynamonowe.md",
     "Pasted image 20250407181145.png",
     "09 Dwudziestolecie międzywojenne",
     "07 Pozytywizm",
