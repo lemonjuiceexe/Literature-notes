@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "df40027f78a2b99e",
+        "id": "1acf88ed3a5ef278",
         "type": "tabs",
         "children": [
           {
-            "id": "c6dad0393fbcc15a",
+            "id": "df01fe1bd240718d",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Antyk/Iliada.md",
-                "mode": "preview",
+                "file": "01 Antyk/Antygona.md",
+                "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Iliada"
+              "title": "Antygona"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#epoka/antyk",
+                "query": "tag:#motyw/bunt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,17 +144,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Antyk/Iliada.md",
+                "file": "01 Antyk/Antygona.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Iliada"
+              "title": "Outline of Antygona"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -170,13 +170,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6dad0393fbcc15a",
+  "active": "5afa3828c65b85e6",
   "lastOpenFiles": [
+    "04 Barok/Skąpiec.md",
+    "07 Pozytywizm/Lalka.md",
+    "01 Antyk/Antygona.md",
+    "04 Barok/Barok.md",
     "01 Antyk/Antyk.md",
+    "01 Antyk/Iliada.md",
     "01 Antyk/Tragedia antyczna.md",
     "07 Pozytywizm/Pozytywizm.md",
     "07 Pozytywizm/Zbrodnia i kara.md",
-    "01 Antyk/Iliada.md",
     "01 Antyk/Mit.md",
     "07 Pozytywizm/Potop.md",
     "09 Dwudziestolecie międzywojenne/Sklepy cynamonowe.md",
@@ -188,16 +192,12 @@
     "06 Romantyzm/Dziady cz. III.md",
     "01 Antyk/Epos homerycki.md",
     "01 Antyk/Homer.md",
-    "07 Pozytywizm/Lalka.md",
     "07 Pozytywizm/Nowela.md",
     "07 Pozytywizm/Nowele.md",
     "07 Pozytywizm/Gloria victis.md",
     "03 Renesans/Makbet.md",
     "03 Renesans/Renesans.md",
     "06 Romantyzm/Konrad Wallenrod.md",
-    "06 Romantyzm/Filozofia romantyzmu.md",
-    "06 Romantyzm/Kordian.md",
-    "07 Pozytywizm/Filozofia pozytywizmu.md",
     "Pasted image 20250407181145.png",
     "09 Dwudziestolecie międzywojenne",
     "07 Pozytywizm",

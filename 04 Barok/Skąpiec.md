@@ -6,16 +6,10 @@ finished: true
 - **Gatunek**: komedia prozatorska, dramat
 - **Epoka**: [[Barok]] #epoka/barok
 - **Data**: II połowa XVII w. (1668 r.)
-
-## Komizm
-**Komizm charakteru** (postaci) - komizm oparty o przedstawiany typ postaci i wyolbrzymienie jej cech charakteru - **skąpstwo Harpagona**. Postać wkomponowana jest w sytuacje podkreślające komizm jej osobowości. Odnosi się do cech postaci.
-
-**Komizm sytuacyjny** - komizm oparty o uwikłanie bohaterów w sytuacje wymuszające na nich komiczne zachowania - np. interakcje Harpagona ze Strzałką. Odnosi się do zabawnych sytuacji.
-
-**Komizm słowny** - komizm oparty na grach słów, żartach słownych.
-
 ## Świat przedstawiony
-„Rzecz dzieje się w Paryżu, w domu Harpagona"
+### Czas i miejsce akcji
+- **Czas akcji**: XVII w.
+- **Miejsce akcji**: Dom Harpagona (Paryż)
 ### Bohaterowie
 - **Harpagon** - tytułowy skąpiec. Około sześćdziesięcioletni, ojciec Elizy i Kleanta.
 - **Eliza** - córka Harpagona. Zakochana w Walerym, ojciec nakazuje jej wyjście za bogatego Anzelma, nie umie mu się sprzeciwić.
@@ -25,6 +19,12 @@ finished: true
 - **Strzałka** - służący Kleanta, Harpagon oskarża go o kradzież, choć sam nie wie czego.
 - **Jakub** - kucharz i woźnica Harpagona (oszczędza na służacych, 2w1)
 ## Problematyka
+### Komizm
+**Komizm charakteru** (postaci) - komizm oparty o przedstawiany typ postaci i wyolbrzymienie jej cech charakteru - **skąpstwo Harpagona**. Postać wkomponowana jest w sytuacje podkreślające komizm jej osobowości. Odnosi się do cech postaci.
+
+**Komizm sytuacyjny** - komizm oparty o uwikłanie bohaterów w sytuacje wymuszające na nich komiczne zachowania - np. interakcje Harpagona ze Strzałką. Odnosi się do zabawnych sytuacji.
+
+**Komizm słowny** - komizm oparty na grach słów, żartach słownych.
 ### Rodzina
 Skąpstwo Harpagona niszczy jego relacje rodzinne. Zależni od ojca Eliza i Kleant padają ofiarami przemocy ekonomicznej, ojciec nie liczy się z ich potrzebami ani uczuciami. Brak miłości i zrozumienia prowadzi do konflików. #motyw/rodzina
 ### Miłość

@@ -20,7 +20,7 @@ Tragizm bohatera wynika z tego, że
 4. Na scenie jednocześnie występują co najwyżej 3 osoby. Bohaterami są **szlachetnie urodzeni**.
 ### Treść
 5. **Konflikt tragiczny** - zderzenie **dwóch równorzędnych, przeciwstawnych racji**. Kończy się obustronną porażką, nie ma z niego dobrego wyjścia. 
-   Klasycznym przykładem jest konflikt między prawem boskim a ludzkim w [Antygonie](Antygona).
+   Klasycznym przykładem jest konflikt między prawem boskim a ludzkim w [Antygonie](Antygona.md).
 6. **Hybris**, czyli **pycha, duma**, pchająca człowieka do przekraczania umiaru i sięgania po więcej, niż jest mu przeznaczone. Zawsze spotyka go za to kara. ^hybris
 7. **Hamartia**, czyli **wina tragiczna** bohatera. Polega na błędnym rozpoznaniu własnej sytuacji, co prowadzi do popełniania przez niego błędów i ostatecznie katastrofy. ^hamartia
 8. **Katharsis** - uczucie litości i trwogi - silne uczucia wzbudzane przez sztukę. ^katharsis

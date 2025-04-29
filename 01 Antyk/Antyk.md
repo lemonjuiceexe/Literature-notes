@@ -33,7 +33,7 @@ Antyk, czyli starożytność klasyczna, to dorobek kultur greckiej i rzymskiej. 
 
 ### Poziom podstawowy
 1. Mitologia, Jan Parandowski
-2. Antygona, Sofokles
+2. [[Antygona]], Sofokles
 3. [[Biblia]] (fragmenty)
 4. [[Iliada]], [[Homer]] (fragmenty)
 5. Poezja Horacego (wybrane utwory)
