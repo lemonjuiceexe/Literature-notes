@@ -11,5 +11,5 @@ Okres z wieloma kierunkami artystycznymi. Zwany też **modernizmem**, **neoroman
 - [[Filozofia Młodej Polski]]
 ## Lektury
 ### Poziom podstawowy
-1. Wesele, Stanisław Wyspiański
+1. [[Wesele]], Stanisław Wyspiański
 2. Chłopi, Władysław Reymont (fragmenty)
