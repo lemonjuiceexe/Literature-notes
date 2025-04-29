@@ -5,7 +5,7 @@ finished: false
 ## Informacje ogólne
 Termin wprowadzony przez Augusta Comte'a. Rozwój jest możliwy tylko dzięki wiedzy pozytywnej (realnej) - naukowej. Właściwie neooświecenie. W Polsce po przegranych powstaniach następuje odrzucenie idei walki zbrojnej na rzecz pracy dla kraju - pozytywiści promowali swój program reform społecznych. 
 - **Charakterystyka**: apollińska (racjonalna)
-- **Ramy czasowe:** 1864 (upadek powstania styczniowego) - 1890 (debiut Przerwy-Tetmajera)
+- **Ramy czasowe:** 1864 (upadek powstania styczniowego) - 1890 (1891 r. debiut Przerwy-Tetmajera)
 - **Założenia:** Odrzucenie zbrojnej walki narodowowyzwoleńczej, zamiast niej organicyzm i utylitaryzm - praca na rzecz rozwoju kraju; scjentyzm,
 ## Kluczowe pojęcia
 - [[Filozofia pozytywizmu]]

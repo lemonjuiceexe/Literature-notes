@@ -10,11 +10,17 @@
           {
             "id": "5de56347c75d43c7",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "08 Młoda Polska/Młoda Polska.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Młoda Polska"
             }
           }
         ]
@@ -164,8 +170,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5afa3828c65b85e6",
+  "active": "5de56347c75d43c7",
   "lastOpenFiles": [
+    "08 Młoda Polska/Filozofia Młodej Polski.md",
+    "08 Młoda Polska/Młoda Polska.md",
+    "07 Pozytywizm/Filozofia pozytywizmu.md",
+    "09 Dwudziestolecie międzywojenne/Dwudziestolecie międzywojenne.md",
+    "07 Pozytywizm/Pozytywizm.md",
+    "07 Pozytywizm/Zbrodnia i kara.md",
+    "08 Młoda Polska",
     "07 Pozytywizm/Gloria victis.md",
     "02 Średniowiecze/Średniowiecze.md",
     "03 Renesans/Pieśni.md",
@@ -177,8 +190,6 @@
     "02 Średniowiecze/Rozmowa Mistrza Polikarpa ze Śmiercią.md",
     "02 Średniowiecze/Bogurodzica.md",
     "02 Średniowiecze/Pieśń o Rolandzie.md",
-    "07 Pozytywizm/Pozytywizm.md",
-    "07 Pozytywizm/Filozofia pozytywizmu.md",
     "09 Dwudziestolecie międzywojenne/Ferdydurke.md",
     "05 Oświecenie/Hymn do miłości Ojczyzny.md",
     "09 Dwudziestolecie międzywojenne/Poezja dwudziestolecia międzywojennego.md",
@@ -188,11 +199,7 @@
     "05 Oświecenie/Poezja Franciszka Karpińskiego.md",
     "05 Oświecenie/Filozofia oświecenia.md",
     "01 Antyk/Antyk.md",
-    "01 Antyk/Tragedia antyczna.md",
-    "01 Antyk/Antygona.md",
     "02 Średniowiecze",
-    "04 Barok/Sztuka baroku.md",
-    "04 Barok/Skąpiec.md",
     "Pasted image 20250407181145.png",
     "09 Dwudziestolecie międzywojenne",
     "07 Pozytywizm",
@@ -206,7 +213,6 @@
     "Sztuka",
     "04 Barok",
     "Excalidraw/Jaskinia Platona.png",
-    "03 Renesans",
-    "01 Antyk"
+    "03 Renesans"
   ]
 }
