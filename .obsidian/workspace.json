@@ -22,8 +22,25 @@
               "icon": "lucide-file",
               "title": "Średniowiecze"
             }
+          },
+          {
+            "id": "9534f74a330f9812",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Średniowiecze/Rozmowa Mistrza Polikarpa ze Śmiercią.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Rozmowa Mistrza Polikarpa ze Śmiercią"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#motyw/bunt",
+                "query": "tag:#motyw/konflikt-pokoleń",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Średniowiecze/Średniowiecze.md",
+                "file": "02 Średniowiecze/Rozmowa Mistrza Polikarpa ze Śmiercią.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Średniowiecze"
+              "title": "Outline of Rozmowa Mistrza Polikarpa ze Śmiercią"
             }
           }
         ],
@@ -170,25 +187,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "499c69c766046bcd",
+  "active": "9534f74a330f9812",
   "lastOpenFiles": [
+    "09 Dwudziestolecie międzywojenne/Ferdydurke.md",
+    "02 Średniowiecze/Rozmowa Mistrza Polikarpa ze Śmiercią.md",
+    "02 Średniowiecze/Filozofia średniowiecza.md",
     "02 Średniowiecze/Bogurodzica.md",
     "02 Średniowiecze/Średniowiecze.md",
-    "03 Renesans/Pieśń.md",
-    "02 Średniowiecze/Filozofia średniowiecza.md",
     "02 Średniowiecze/Lament świętokrzyski.md",
+    "05 Oświecenie/Hymn do miłości Ojczyzny.md",
+    "09 Dwudziestolecie międzywojenne/Poezja dwudziestolecia międzywojennego.md",
     "06 Romantyzm/Oda do młodości.md",
+    "07 Pozytywizm/Lalka.md",
+    "03 Renesans/Pieśń.md",
     "06 Romantyzm/Poezja Adama Mickiewicza.md",
     "05 Oświecenie/Poezja Franciszka Karpińskiego.md",
     "05 Oświecenie/Filozofia oświecenia.md",
-    "05 Oświecenie/Hymn do miłości Ojczyzny.md",
     "01 Antyk/Antyk.md",
     "01 Antyk/Tragedia antyczna.md",
     "01 Antyk/Antygona.md",
     "02 Średniowiecze",
     "04 Barok/Sztuka baroku.md",
     "04 Barok/Skąpiec.md",
-    "07 Pozytywizm/Lalka.md",
     "04 Barok/Barok.md",
     "01 Antyk/Iliada.md",
     "07 Pozytywizm/Pozytywizm.md",
@@ -196,9 +216,6 @@
     "01 Antyk/Mit.md",
     "07 Pozytywizm/Potop.md",
     "09 Dwudziestolecie międzywojenne/Sklepy cynamonowe.md",
-    "09 Dwudziestolecie międzywojenne/Przedwiośnie.md",
-    "09 Dwudziestolecie międzywojenne/Poezja dwudziestolecia międzywojennego.md",
-    "09 Dwudziestolecie międzywojenne/Mistrz i Małgorzata.md",
     "Pasted image 20250407181145.png",
     "09 Dwudziestolecie międzywojenne",
     "07 Pozytywizm",

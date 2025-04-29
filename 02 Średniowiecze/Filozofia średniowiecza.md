@@ -6,3 +6,4 @@ finished: false
 - *Memento mori*
 - Dualizm
 - Pareneza
+	- etos rycerski

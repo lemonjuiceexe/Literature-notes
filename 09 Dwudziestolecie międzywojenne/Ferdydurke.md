@@ -31,6 +31,7 @@ W tym sensie utwór jest również satyrą na relacje międzyludzkie, z natury s
 ### Pupa
 #motyw/dziecko 
 ### Groteska
+#motyw/groteska 
 ### Motyw dworku
 
 

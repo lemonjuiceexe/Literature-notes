@@ -9,13 +9,11 @@ Nazwa średniowiecze wywodzi się od określenia epoki pośredniej pomiędzy ant
 - **Założenia:** Bóg jako najwyższa wartość, dążenie przede wszystkim do zbawienia w życiu wiecznym, kosztem przyjemności życia doczesnego, dualizm - postrzeganie świata w kategoriach przeciwieństw (dobro - zło, dusza - ciało, sacrum - profanum)
 ## Kluczowe pojęcia
 - [[Filozofia średniowiecza]]
-### Gatunki
-- [[Tragedia antyczna]]
 ## Lektury
 
 ### Poziom podstawowy
 1. [[Lament świętokrzyski]] (fragmenty)
-2. Rozmowa Mistrza Polikarpa ze Śmiercią (fragmenty)
+2. [[Rozmowa Mistrza Polikarpa ze Śmiercią]] (fragmenty)
 3. Pieśń o Rolandzie (fragmenty)
 4. [[Bogurodzica]]
 
