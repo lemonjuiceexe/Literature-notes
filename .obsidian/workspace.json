@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Średniowiecze/Filozofia średniowiecza.md",
+                "file": "02 Średniowiecze/Lament świętokrzyski.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Filozofia średniowiecza"
+              "title": "Outline of Lament świętokrzyski"
             }
           }
         ],
@@ -215,10 +215,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "79e9f4871dfa5996",
+  "active": "52d7a30864aded61",
   "lastOpenFiles": [
-    "02 Średniowiecze/Lament świętokrzyski.md",
     "02 Średniowiecze/Filozofia średniowiecza.md",
+    "02 Średniowiecze/Lament świętokrzyski.md",
     "06 Romantyzm/Oda do młodości.md",
     "06 Romantyzm/Poezja Adama Mickiewicza.md",
     "05 Oświecenie/Poezja Franciszka Karpińskiego.md",
