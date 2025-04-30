@@ -1,5 +1,5 @@
 ---
-finished: false
+finished: true
 ---
 #lektura 
 - **Autor**: Witold Gombrowicz
@@ -16,9 +16,11 @@ finished: false
 - **Syfon Pylaszczkiewicz** - uczeń idealista, broni czystości i niewinności - przywódca stronnictwa chłopiąt. Po wygranym pojedynku na miny z Miętusem zostaje przez niego zgwałcony przez uszy, czyli uświadomiony, i ostatecznie wiesza się na wieszaku.
 - **Miętus** - buntuje się przeciw niewinności, głosi kult prostactwa. Potajemnie marzy o brataniu się z parobkiem, w którym upatruje kogoś autentycznego, bez żadnej gęby. Ostatecznie bratał się z Walkiem - nakłonił parobka do bicia go po twarzy.
 - **Profesor Pimko** - nauczyciel upupiający uczniów, wtłaczający ich w szkolne schematy. To on upupia Józia i cofa go do gimnazjum. Krytyka systemu edukacji.
-- **Rodzina Młodziaków** - pensjonarka Zuta i jej rodzice. Nowoczesna rodzina, która jest absurdalnie nowoczesna - nakłania córkę do rozwiązłości aby emanować tolerancją. Jest to krytyka mieszczańskiego liberalizmu, równie schematycznego, co tradycjonalizm. #motyw/rodzina
-- **Kopyrda** - uczeń, pozornie niezależny i zdystansowany - nie angazuje się w konflikt między chłopiętami a chłopakami. Scena nocnej wizyty u Zuty demaskuje go - przyłapany przez rodziców Zuty reaguje instynktownie, gryząc inżyniera Młodziaka, co dowodzi, że jego nowoczesność jest tylko kolejną Formą.
+- **Rodzina Młodziaków** - pensjonarka Zuta i jej rodzice. Rodzina, która jest absurdalnie nowoczesna - nakłania córkę do rozwiązłości aby emanować tolerancją. Jest to krytyka mieszczańskiego liberalizmu, równie schematycznego, co tradycjonalizm. #motyw/rodzina
+- **Kopyrda** - uczeń, pozornie niezależny i zdystansowany - nie angażuje się w konflikt między chłopiętami a chłopakami. Scena nocnej wizyty u Zuty demaskuje go - przyłapany przez rodziców Zuty reaguje instynktownie, gryząc inżyniera Młodziaka, co dowodzi, że jego nowoczesność jest tylko kolejną Formą.
 - **Parobek Walek** - parobek z Bolimowa, całkowicie naturalny. Miał chłopską gębę, bez żadnej sztucznej miny. Bratał się z Miętusem. Ostatecznie wciągnięty przez Miętusa w rewolucję społeczną uderza wuja Konstantego, przyjmując buntowniczą gębę.
+- **Wuj Konstanty** - patriarcha Bolimowa. Przemocowy wobec służby, czas spędza na jedzeniu i spacerach.
+- **Zygmunt Hurlecki** - młodsze pokolenie szlachty. Zdegenerowany, uważa się za lepszego przez wzgląd na urodzenie. 
 
 ## Problematyka
 Jest to powieść paraboliczna - fabuła służy jedynie przekazaniu pewnych idei i nie jest istotna jako taka. 
@@ -37,8 +39,16 @@ Pupa to forma udziecinnienia (upupianie) i infantylizacji, symbolizuje dziecięc
 W świecie Młodziaków łydka staje się symbolem powierzchowności i życia na pokaz, kolejną Formą, nie zaś wyrazem autentyczności. 
 ### Groteska
 #motyw/groteska 
+Groteska w *Ferdydurke* realizowana jest przede wszystkim poprzez 
+- deformację rzeczywistości - brakuje logiki i ciągów przyczynowo-skutkowych 
+- karykaturalne postacie
+- absurdalne wydarzenia (pojedynek na miny, szczekający chłopi)
+- język (szkolna łacina - *novus kolegus*)
+- połączenie komizmu i tragizmu (np. Syfon wieszający się na wieszaku)
+Zastosowanie groteski ma na celu ukazanie absurdalności społeczeństwa i zasad na jakich opiera się jego funkcjonowanie. 
 ### Motyw dworku
-
+Dworek w Bolimowie, należący do rodziny Hurleckich, jest parodią [Soplicowa](../06%20Romantyzm/Pan%20Tadeusz). Gombrowicz dekonstruuje mit ziemiaństwa. 
+Hurleccy są gościnni, ale ich zachowania są puste i schematyczne. Rozmowy ograniczają się do grzeczności, codzienność wypełniają rozrywki (obżeranie się, spacery i gra w karty). W przeciwieństwie do Soplicowa, gdzie szanowano służbę, w Bolimowie parobkowie często są bici. 
 
 ### Cytaty
 > Gdyż nie ma ucieczki przed gębą, jak tylko w inną gębę, a przed człowiekiem schronić się można jedynie w objęcia innego człowieka. Przed pupą zaś w ogóle nie ma ucieczki. #cytat 
