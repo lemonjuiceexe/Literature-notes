@@ -12,4 +12,4 @@ Okres z wieloma kierunkami artystycznymi. Zwany też **modernizmem**, **neoroman
 ## Lektury
 ### Poziom podstawowy
 1. [[Wesele]], Stanisław Wyspiański
-2. Chłopi, Władysław Reymont (fragmenty)
+2. [[Chłopi]], Władysław Reymont (fragmenty)
