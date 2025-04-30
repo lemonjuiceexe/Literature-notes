@@ -4,23 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "298eb7b8ba89f542",
+        "id": "c6d1c34e85707620",
         "type": "tabs",
         "children": [
           {
-            "id": "6da4143424a1969d",
+            "id": "f2164c1544074da6",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 Dwudziestolecie międzywojenne/Ferdydurke.md",
+                "file": "10 II wojna światowa/Proszę państwa do gazu.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Ferdydurke"
+              "title": "Proszę państwa do gazu"
             }
           }
         ]
@@ -144,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 Dwudziestolecie międzywojenne/Ferdydurke.md",
+                "file": "10 II wojna światowa/Proszę państwa do gazu.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ferdydurke"
+              "title": "Outline of Proszę państwa do gazu"
             }
           }
         ],
@@ -170,12 +168,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6da4143424a1969d",
+  "active": "f2164c1544074da6",
   "lastOpenFiles": [
-    "08 Młoda Polska/Młoda Polska.md",
-    "08 Młoda Polska/Filozofia Młodej Polski.md",
+    "10 II wojna światowa/II wojna światowa.md",
+    "10 II wojna światowa/Proszę państwa do gazu.md",
     "09 Dwudziestolecie międzywojenne/Ferdydurke.md",
     "09 Dwudziestolecie międzywojenne/Dwudziestolecie międzywojenne.md",
+    "10 II wojna światowa",
+    "08 Młoda Polska/Młoda Polska.md",
+    "08 Młoda Polska/Filozofia Młodej Polski.md",
     "09 Dwudziestolecie międzywojenne/Poezja dwudziestolecia międzywojennego.md",
     "06 Romantyzm/Dziady cz. III.md",
     "07 Pozytywizm/Lalka.md",
@@ -197,8 +198,6 @@
     "02 Średniowiecze/Średniowiecze.md",
     "03 Renesans/Pieśni.md",
     "03 Renesans/Pieśń.md",
-    "06 Romantyzm/Ballada.md",
-    "02 Średniowiecze/Filozofia średniowiecza.md",
     "02 Średniowiecze",
     "Pasted image 20250407181145.png",
     "09 Dwudziestolecie międzywojenne",
@@ -212,7 +211,6 @@
     "Sztuka/Barok",
     "Sztuka",
     "04 Barok",
-    "Excalidraw/Jaskinia Platona.png",
-    "03 Renesans"
+    "Excalidraw/Jaskinia Platona.png"
   ]
 }
