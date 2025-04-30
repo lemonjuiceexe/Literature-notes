@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "c69fb00c65296302",
+        "id": "298eb7b8ba89f542",
         "type": "tabs",
         "children": [
           {
-            "id": "5de56347c75d43c7",
+            "id": "6da4143424a1969d",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 Młoda Polska/Młoda Polska.md",
+                "file": "09 Dwudziestolecie międzywojenne/Ferdydurke.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Młoda Polska"
+              "title": "Ferdydurke"
             }
           }
         ]
@@ -144,17 +144,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Średniowiecze/Filozofia średniowiecza.md",
+                "file": "09 Dwudziestolecie międzywojenne/Ferdydurke.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Filozofia średniowiecza"
+              "title": "Outline of Ferdydurke"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -170,15 +170,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5de56347c75d43c7",
+  "active": "6da4143424a1969d",
   "lastOpenFiles": [
+    "08 Młoda Polska/Młoda Polska.md",
+    "08 Młoda Polska/Filozofia Młodej Polski.md",
+    "09 Dwudziestolecie międzywojenne/Ferdydurke.md",
+    "09 Dwudziestolecie międzywojenne/Dwudziestolecie międzywojenne.md",
+    "09 Dwudziestolecie międzywojenne/Poezja dwudziestolecia międzywojennego.md",
+    "06 Romantyzm/Dziady cz. III.md",
+    "07 Pozytywizm/Lalka.md",
     "Chłopi.md",
     "06 Romantyzm/Konrad Wallenrod.md",
     "07 Pozytywizm/Nowele.md",
     "01 Antyk/Iliada.md",
-    "08 Młoda Polska/Młoda Polska.md",
     "08 Młoda Polska/Wesele.md",
-    "08 Młoda Polska/Filozofia Młodej Polski.md",
     "06 Romantyzm/Ballady.md",
     "Untitled.md",
     "09 Dwudziestolecie międzywojenne/Mistrz i Małgorzata.md",
@@ -186,7 +191,6 @@
     "02 Średniowiecze/Rozmowa Mistrza Polikarpa ze Śmiercią.md",
     "07 Pozytywizm/Zbrodnia i kara.md",
     "07 Pozytywizm/Filozofia pozytywizmu.md",
-    "09 Dwudziestolecie międzywojenne/Dwudziestolecie międzywojenne.md",
     "07 Pozytywizm/Pozytywizm.md",
     "08 Młoda Polska",
     "07 Pozytywizm/Gloria victis.md",
@@ -195,10 +199,6 @@
     "03 Renesans/Pieśń.md",
     "06 Romantyzm/Ballada.md",
     "02 Średniowiecze/Filozofia średniowiecza.md",
-    "02 Średniowiecze/Lament świętokrzyski.md",
-    "02 Średniowiecze/Bogurodzica.md",
-    "02 Średniowiecze/Pieśń o Rolandzie.md",
-    "09 Dwudziestolecie międzywojenne/Ferdydurke.md",
     "02 Średniowiecze",
     "Pasted image 20250407181145.png",
     "09 Dwudziestolecie międzywojenne",

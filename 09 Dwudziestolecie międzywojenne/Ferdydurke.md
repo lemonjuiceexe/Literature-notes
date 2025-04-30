@@ -17,7 +17,8 @@ finished: false
 - **Miętus** - buntuje się przeciw niewinności, głosi kult prostactwa. Potajemnie marzy o brataniu się z parobkiem, w którym upatruje kogoś autentycznego, bez żadnej gęby. Ostatecznie bratał się z Walkiem - nakłonił parobka do bicia go po twarzy.
 - **Profesor Pimko** - nauczyciel upupiający uczniów, wtłaczający ich w szkolne schematy. To on upupia Józia i cofa go do gimnazjum. Krytyka systemu edukacji.
 - **Rodzina Młodziaków** - pensjonarka Zuta i jej rodzice. Nowoczesna rodzina, która jest absurdalnie nowoczesna - nakłania córkę do rozwiązłości aby emanować tolerancją. Jest to krytyka mieszczańskiego liberalizmu, równie schematycznego, co tradycjonalizm. #motyw/rodzina
-- **Parobek Walek** - parobek z Bolimowa, całkowicie naturalny. Miał chłopską gębę, bez żadnej sztucznej miny. Bratał się z Miętusem. 
+- **Kopyrda** - uczeń, pozornie niezależny i zdystansowany - nie angazuje się w konflikt między chłopiętami a chłopakami. Scena nocnej wizyty u Zuty demaskuje go - przyłapany przez rodziców Zuty reaguje instynktownie, gryząc inżyniera Młodziaka, co dowodzi, że jego nowoczesność jest tylko kolejną Formą.
+- **Parobek Walek** - parobek z Bolimowa, całkowicie naturalny. Miał chłopską gębę, bez żadnej sztucznej miny. Bratał się z Miętusem. Ostatecznie wciągnięty przez Miętusa w rewolucję społeczną uderza wuja Konstantego, przyjmując buntowniczą gębę.
 
 ## Problematyka
 Jest to powieść paraboliczna - fabuła służy jedynie przekazaniu pewnych idei i nie jest istotna jako taka. 
@@ -28,8 +29,12 @@ Gombrowiczowska Forma jest jednym z głównych zagadnień poruszanych w powieśc
 
 Przykładem jest Miętus, który myślał, że propagując prostactwo buntuje się przeciwko upupiającemu schematowi narzuconemu przez Pimkę. W ten sposób stworzył jednak nowy schemat, czyli wpadł w nową Formę.
 W tym sensie utwór jest również satyrą na relacje międzyludzkie, z natury skrzywione przez narzucone Formy, a przez to sztuczne.
-### Pupa
+### Pupa i łydka
 #motyw/dziecko 
+Pupa to forma udziecinnienia (upupianie) i infantylizacji, symbolizuje dziecięcą niesamodzielność. Można odbierać więc upupianie jako społeczny mechanizm narzucania pewnych Form, odbierający jednostkom podmiotowość. W tym sensie powieść staje się satyrą na społeczne mechanizmy kontroli, traktujące ludzi jak dzieci.
+
+Łydka symbolizuje kult młodości, sprawność, atrakcyjność fizyczną i wyzwolenie seksualne. Symbolizuje zmianę obyczajowości - w latach 30. łydka była częścią ciała dopiero co uwolnioną spod długich sukien, symbolem emancypacji.
+W świecie Młodziaków łydka staje się symbolem powierzchowności i życia na pokaz, kolejną Formą, nie zaś wyrazem autentyczności. 
 ### Groteska
 #motyw/groteska 
 ### Motyw dworku

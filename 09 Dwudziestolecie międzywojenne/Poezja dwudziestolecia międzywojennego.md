@@ -10,12 +10,12 @@ Warszawska grupa poetycka. Jej skład to Jan Lechoń, Jarosław Iwaszkiewicz, An
 Wiersz wyraża chęć porzucenia ideałów narodowowyzwoleńczych, zwolnienia artystów z obowiązku tworzenia poezji tyrtejskiej. Podmiot liryczny to orędownik zmiany i burzyciel starego porządku, ironicznie odnoszący się do romantyzmu (nawiązuje do utworów Słowackiego i Mickiewicza). 
 Lechoń chce zedrzeć z Polski sztywny gorset stereotypów i wyraża nadzieję, że może ona istnieć bez tego bagażu. #motyw/konflikt-pokoleń 
 #### Cytaty: 
-	Jeżeli gdzieś na Starym pokaże się Mieście
-	I utkwi w was Kiliński swe oczy zielone,
-	Zabijcie go! - A trupa zawleczcie na stronę
-	I tylko wieść mi o tym radosną przynieście.
+> Jeżeli gdzieś na Starym pokaże się Mieście
+> I utkwi w was Kiliński swe oczy zielone,
+> Zabijcie go! - A trupa zawleczcie na stronę
+> I tylko wieść mi o tym radosną przynieście.
 
-	A wiosną - niechaj wiosnę, nie Polskę zobaczę  
+> A wiosną - niechaj wiosnę, nie Polskę zobaczę  
 
 ### Lewa kieszeń
 - **Autor**: Kazimierz Wierzyński

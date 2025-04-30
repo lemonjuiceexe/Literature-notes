@@ -13,3 +13,6 @@ Okres z wieloma kierunkami artystycznymi. Zwany też **modernizmem**, **neoroman
 ### Poziom podstawowy
 1. [[Wesele]], Stanisław Wyspiański
 2. [[Chłopi]], Władysław Reymont (fragmenty)
+
+### Dodatkowo
+1. Poezja Kazimierza Przerwy-Tetmajera + Leopolda Staffa
