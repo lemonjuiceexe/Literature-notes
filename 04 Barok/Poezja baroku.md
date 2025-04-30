@@ -33,7 +33,7 @@ _Gryzie draba prosto w nos_ ^kompozycjalancuchowa
 ## Utwory
 ### Mikołaj Sęp Szarzyński
 #### Sonet IV (O wojnie naszej, którą wiedziemy z szatanem, światem i ciałem)
-Opisuje rozdarcie, zagubienie i niepokój człowieka baroku. Skazany na walkę z szatanem, ziemskimi pokusami i ciałem. Potrzebuje wsparcia w walce w postaci Boga.
+Opisuje rozdarcie, zagubienie i niepokój człowieka baroku. Skazany na walkę z szatanem, ziemskimi pokusami i ciałem. Potrzebuje wsparcia w walce w postaci Boga. #motyw/bóg 
 ### Daniel Naborowski
 #### Krótkość żywota
 Refleksja o przemijalności ludzkiego życia i nieuchronności śmierci. #motyw/vanitas 

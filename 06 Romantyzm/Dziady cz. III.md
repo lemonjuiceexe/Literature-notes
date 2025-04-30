@@ -58,7 +58,7 @@ Mówi o swojej miłości do narodu. #motyw/patriotyzm
 > Ja kocham cały naród! — objąłem w ramiona 
 > Wszystkie przeszłe i przyszłe jego pokolenia, #cytat
 
-Konrad jest rozdarty. Widzi cierpienie narodu polskiego i nie rozumie, czemu Bóg nie reaguje. Domaga się od niego władzy nad duszami, zarzuca, że nie jest miłością, a mądrością. Uważa, że jest w stanie lepiej rządzić światem, wyzywa Boga na pojedynek. #motyw/pycha #motyw/teodycea #motyw/władza #motyw/ambicja
+Konrad jest rozdarty. Widzi cierpienie narodu polskiego i nie rozumie, czemu Bóg nie reaguje. Domaga się od niego władzy nad duszami, zarzuca, że nie jest miłością, a mądrością. Uważa, że jest w stanie lepiej rządzić światem, wyzywa Boga na pojedynek. #motyw/pycha #motyw/teodycea #motyw/władza #motyw/ambicja 
 > Ja chcę mieć władzę, jaką Ty posiadasz, 
 > Ja chcę duszami władać, jak Ty nimi władasz. #cytat
 
@@ -69,7 +69,7 @@ Konrad jest rozdarty. Widzi cierpienie narodu polskiego i nie rozumie, czemu Bó
 > Nazywam się Milijon — bo za milijony 
 > Kocham i cierpię katusze. #cytat
 
-Konrad reprezentuje postawę [prometejską](../01%20Antyk/Antyk) - poświęca się dla dobra ogółu, buntując się przeciwko Bogu. #motyw/prometeizm #motyw/bunt 
+Konrad reprezentuje postawę [prometejską](../01%20Antyk/Antyk) - poświęca się dla dobra ogółu, buntując się przeciwko Bogu. #motyw/prometeizm #motyw/bunt #motyw/bóg
 
 Bóg jednak milczy. Konrad, w rozpaczy, prawie nazywa go carem, jednak ostatnie słowo dopowiada za niego diabeł. W ten sposób Konrad unika potępienia.
 > Odezwĳ się, — bo strzelę przeciw Twej naturze; 
