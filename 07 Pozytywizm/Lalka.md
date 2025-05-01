@@ -52,6 +52,7 @@ Społeczeństwo przedstawione jest panoramiczne - Prus opisuje arystokrację, mi
 ### Miłość Wokulskiego do Izabeli
 #motyw/miłość #motyw/tragizm 
 ### Klęska idealizmu
+#motyw/idealizm 
 - determinizm społeczny
 - wokulski chce a nie może
 ### Motyw miasta

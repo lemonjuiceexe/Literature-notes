@@ -4,27 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "c6d1c34e85707620",
+        "id": "7ffb7dffc9dd07a0",
         "type": "tabs",
         "children": [
           {
-            "id": "f2164c1544074da6",
+            "id": "fe4c0b8774a0cbd8",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 II wojna światowa/II wojna światowa.md",
+                "file": "11 Współczesność/Współczesność.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "II wojna światowa"
+              "title": "Współczesność"
             }
           },
           {
-            "id": "fb78e6a57afd41bd",
+            "id": "fdf1aa6947145291",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11 Współczesność/Dżuma.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Dżuma"
+            }
+          },
+          {
+            "id": "e3c5b08dc2feef62",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#motyw/przepowiednia",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +107,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -159,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 II wojna światowa/Zdążyć przed Panem Bogiem.md",
+                "file": "11 Współczesność/Dżuma.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Zdążyć przed Panem Bogiem"
+              "title": "Outline of Dżuma"
             }
           }
         ],
@@ -185,36 +202,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb78e6a57afd41bd",
+  "active": "fdf1aa6947145291",
   "lastOpenFiles": [
+    "11 Współczesność/Współczesność.md",
+    "10 II wojna światowa/Zdążyć przed Panem Bogiem.md",
+    "11 Współczesność/Dżuma.md",
+    "07 Pozytywizm/Lalka.md",
+    "06 Romantyzm/Dziady cz. III.md",
+    "03 Renesans/Makbet.md",
+    "08 Młoda Polska/Chłopi.md",
+    "11 Współczesność/Filozofia współczesna.md",
+    "09 Dwudziestolecie międzywojenne/Sklepy cynamonowe.md",
+    "01 Antyk/Antyk.md",
+    "04 Barok/Barok.md",
+    "03 Renesans/Renesans.md",
     "10 II wojna światowa/II wojna światowa.md",
+    "09 Dwudziestolecie międzywojenne/Dwudziestolecie międzywojenne.md",
+    "11 Współczesność",
+    "10 II wojna światowa/Proszę państwa do gazu.md",
+    "08 Młoda Polska/Wesele.md",
     "README.md",
     "Sztuka/Barok/Jan Vermeer - Dziewczyna z perłą.png",
     "Sztuka/Barok/Diego Velázquez - Wenus z lustrem.png",
-    "08 Młoda Polska/Chłopi.md",
-    "10 II wojna światowa/Zdążyć przed Panem Bogiem.md",
-    "10 II wojna światowa/Proszę państwa do gazu.md",
     "02 Średniowiecze/Pieśń o Rolandzie.md",
     "02 Średniowiecze/Filozofia średniowiecza.md",
     "02 Średniowiecze/Lament świętokrzyski.md",
     "02 Średniowiecze/Rozmowa Mistrza Polikarpa ze Śmiercią.md",
     "02 Średniowiecze/Bogurodzica.md",
     "04 Barok/Poezja baroku.md",
-    "06 Romantyzm/Dziady cz. III.md",
     "09 Dwudziestolecie międzywojenne/Ferdydurke.md",
-    "09 Dwudziestolecie międzywojenne/Dwudziestolecie międzywojenne.md",
     "10 II wojna światowa",
     "08 Młoda Polska/Młoda Polska.md",
     "08 Młoda Polska/Filozofia Młodej Polski.md",
-    "09 Dwudziestolecie międzywojenne/Poezja dwudziestolecia międzywojennego.md",
-    "07 Pozytywizm/Lalka.md",
-    "06 Romantyzm/Konrad Wallenrod.md",
-    "07 Pozytywizm/Nowele.md",
-    "01 Antyk/Iliada.md",
-    "08 Młoda Polska/Wesele.md",
-    "06 Romantyzm/Ballady.md",
-    "Untitled.md",
-    "09 Dwudziestolecie międzywojenne/Mistrz i Małgorzata.md",
     "08 Młoda Polska",
     "02 Średniowiecze",
     "Pasted image 20250407181145.png",
@@ -226,7 +245,6 @@
     "Sztuka/Barok/Rubens - Zdjęcie z krzyża.png",
     "Sztuka/Barok",
     "Sztuka",
-    "04 Barok",
     "Excalidraw/Jaskinia Platona.png"
   ]
 }
