@@ -1,0 +1,1 @@
+You can just browse the notes by opening them in any text editor, but it is recommended to download the repository and open it as an [Obsidian vault](https://obsidian.md/download). That'll let you use the links between notes, sort them by literary motifs etc.

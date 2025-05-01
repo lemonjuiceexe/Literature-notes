@@ -17,6 +17,8 @@ finished: false
 - **Michał Klepfisz** - bohater powstania, osłania karabin maszynowy własnym ciałem, aby bojownicy mogli przejść. #motyw/poświęcenie 
 - **Pola Lifszyc** - Żydówka, która została wyciągnięta z transportu, nazajutrz dołączyła do transportu aby nie opuszczać matki. Symbol poświęcenia i wielu takich anonimowych historii. #motyw/poświęcenie 
   > Kto wie o Poli Lifszyc? 
+  
+  ~ Marek Edelman
 ## Problematyka
 Reportaż powstał przez przypadek - Krall miała pisać o pracy w fabryce, potem dowiedziała się o operacji Molla, a Edelman miał sprawdzić tekst. Rozmowa z Edelmanem zaowocowała reportażem o życiu w gettcie.
 Tekst funkcjonuje w dwóch, nieułożonych liniowo, planach czasowych
