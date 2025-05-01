@@ -19,7 +19,7 @@ finished: true
 - **Jan Onufry Zagłoba** - szlachcic, typowy sarmata znany z dowcipu, sprytu i fantazji ale również skłonny do trunków i mitomanii. Postać komiczna, jest lojalnym przyjacielem, patriotą i mistrzem forteli, które niejednokrotnie ratują bohaterów z opresji. 
 - **Janusz Radziwiłł** - postać historyczna, hetman wielki litewski. Jest jednym z najpotężniejszych magnatów Rzeczpospolitej, majętnym, wpływowym i ambitnym. Zdradza Polskę w imię własnych interesów, oddając Litwę Szwedom, marząc o stworzeniu władanego przez siebie państewka pod szwedzkim protektoratem. #motyw/zdrada #motyw/ambicja #motyw/władza 
   Jest wytrawnym politykiem i sprawnym manipulatorem - m. in. oszukuje Kmicica, obiecując, że oszczędzi jego przyjaciół, a następnie wydaje na nich wyrok śmierci. #motyw/kłamstwo 
-- **Bogusław Radziwiłł** - postać historyczna, stryjeczny brat Janusza. Kosmopolita, miłośnik uczt i francuskiej mody. Cyniczny i bezwzględny, gotów do zdrady. Zabity przez Kmicica. 
+- **Bogusław Radziwiłł** - postać historyczna, stryjeczny brat Janusza. Kosmopolita, miłośnik uczt i francuskiej mody. Cyniczny i bezwzględny, gotów do zdrady. Wzięty do niewoli po bitwie pod Prostkami. 
 ## Problematyka
 ### Dla pokrzepienia serc
 *Trylogia*, której *Potop* jest drugą częścią, była przez autora pisana, jak sam to określił, „dla pokrzepienia serc". Sienkiewicz chciał podnieść na duchu polskie społeczeństwo w trudnym okresie braku polskiej państwowości i przypomnieć o dawnej świetności Rzeczpospolitej. 
