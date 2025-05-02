@@ -30,7 +30,7 @@ finished: true
   >   — Właśnie. Znam dziś tylko jedno konkretne zagadnienie: czy można być świętym bez Boga.
   
   ~ Jean Tarrou
-- **Joseph Grand** \[Żozef Grą] - urzędnik merostwa, skromny i nieporadny. Nigdy nie umie znaleźć słów, co rujnuje mu karierę (nie umie upomnieć się o obiecany awans). Od miesięcy pracuje nad powieścią, ale ciągle nie może zdecydować się na formę pierwszego zdania. Jest wzorowym obywatelem, porządnym i szczerym człowiekiem. Pracuje w formacjach sanitarnych jako sekretarz. Zapada na dżumę, ale jest jednym z pierwszych pacjentów, którzy zdrowieją dzięki serum Castela.
+- **Joseph Grand** \[Żozef Grą] - urzędnik merostwa, skromny i nieporadny. Nigdy nie umie znaleźć słów, co rujnuje mu karierę (nie umie upomnieć się o obiecany awans). Od miesięcy pracuje nad powieścią, ale ciągle nie może zdecydować się na formę pierwszego zdania. #motyw/język Jest wzorowym obywatelem, porządnym i szczerym człowiekiem. Pracuje w formacjach sanitarnych jako sekretarz. Zapada na dżumę, ale jest jednym z pierwszych pacjentów, którzy zdrowieją dzięki serum Castela.
 - **Raymond Rambert** \[Rejmą Rąber] - dziennikarz, przyjechał do Oranu aby napisać reportaż, nie czuje się więc z nim związany, uważa, że epidemia nie jest jego sprawą. Podejmuje próby opuszczenia miasta, drogą formalną a później nielegalną, kontaktując się z przemytnikami. Uważa całą sytuację za nieporozumienie, chce dołączyć do swojej partnerki poza miastem. Oskarża wszystkich o brak zrozumienia.
   Zdanie zmienia w momencie, gdy dowiaduje się, że Rieux też ma żonę poza miastem. Postawa doktora, poświęcającego się mimo osobistej tragedii, inspiruje przemianę Ramberta, który decyduje się zostać i pomagać w formacjach sanitarnych. Przeżywa epidemię i z powrotem łączy z ukochaną. #motyw/przemiana 
   > Zawsze myślałem, że jestem obcy w tym mieście i że nie mam tu z wami nic wspólnego. Ale teraz, kiedy zobaczyłem to, co zobaczyłem, wiem, że jestem stąd, czy chcę tego, czy niej chcę. Ta sprawa dotyczy nas wszystkich. #cytat 
@@ -38,7 +38,7 @@ finished: true
   ~ Rambert
 - **Cottard** \[Kotar] - popełnił przestępstwo, za które grozi mu aresztowanie. Próbował się powiesić, ratuje go Grand. Epidemia staje się dla niego szansą na nowe życie, odwleczeniem kary. Zaczyna żyć pełnią życia, wcześniej samotnik, teraz nawiązuje kontakty z innymi, handluje kontrabandą. Jest jedyną osobą, której dżuma przynosi pewien rodzaj ulgi - w końcu nie jest sam ze swoim strachem. Nie chciał walczyć z epidemią, która była mu na rękę. Po końcu epidemii nie umie poradzić sobie z powrotem do normalnej rzeczywistości. Barykaduje się w mieszkaniu i zaczyna strzelać do przechodniów, zostaje aresztowany przez policję.
   Cottard stanowi antytezę buntownika - zamiast walczyć z absurdem, podporządkowuje się mu. 
-- **Ojciec Paneloux** \[Panelu] - jezuita. Początkowo wierzy, że dżuma to kara boska za grzechy, tak przedstawia ją w swoim pierwszym kazaniu. Przemiana następuje po obserwacji agonii syna sędziego Othona (Filipa), która nie jest w ten sposób wytłumaczalna. #motyw/teodycea #motyw/bóg #motyw/dziecko Wstępuje do formacji sanitarnych. W drugim kazaniu zamiast *wy* mówi o mieszkańcach *my*, uznaje epidemię za próbę wiary, twierdzi, że cierpienie należy zaakceptować, a wręcz go chcieć, skoro Bóg go chce. #motyw/przemiana 
+- **Ojciec Paneloux** \[Panelu] - jezuita. Początkowo wierzy, że dżuma to kara boska za grzechy, tak przedstawia ją w swoim pierwszym kazaniu. Przemiana następuje po obserwacji agonii syna sędziego Othona (Filipa), która nie jest w ten sposób wytłumaczalna. #motyw/teodycea #motyw/bóg #motyw/dziecko Wstępuje do formacji sanitarnych. W drugim kazaniu zamiast *wy* mówi o mieszkańcach *my*, #motyw/język uznaje epidemię za próbę wiary, twierdzi, że cierpienie należy zaakceptować, a wręcz go chcieć, skoro Bóg go chce. #motyw/przemiana 
   Umiera z krucyfiksem w ręku, a Rieux ma wątpliwości co do przyczyny zgonu. Możliwe, że powód śmierci ma charakter psychiczny i jest związany z dylematem światopoglądowym. #motyw/śmierć Jest to zgodne z filozofią absurdu Camusa, wg której możliwe postawy wobec absurdu to bunt, przyjęcie religii lub wyższego sensu albo samobójstwo.
 - **Sędzia Othon** \[Otą]  - zawsze bardzo formalny, również wobec rodziny. Po śmierci syna zaciąga się do formacji sanitarnych. 
 ## Problematyka
@@ -54,7 +54,7 @@ Motto powieści:
 
 Powieść ma formę kroniki, pisanej przez, jak się na końcu okazuje, przez Bernarda Rieux, który umieszcza również wstawki z notatek Jeana Tarrou. 
 ### Bunt
-#motyw/bunt #motyw/idealizm #motyw/zło 
+#motyw/bunt #motyw/idealizm #motyw/zło #motyw/tragizm 
 Bunt jest, wg Camusa, fundamentalną postawą etyczną wobec absurdu. Nawet jeśli nie ma on szans na powodzenie, to można pozwolić na zło, zawsze należy się mu przeciwstawiać.
 > — Tak — potwierdził Tarrou — rozumiem. Ale pańskie zwycięstwa zawsze będą tymczasowe, tylko tyle. 
 > Rieux jakby się zasępił. 

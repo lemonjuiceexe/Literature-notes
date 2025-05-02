@@ -123,6 +123,7 @@ Adolf opowiada historię Cichowskiego, torturowanego przez Rosjan. Nie poddał s
 
 #### Scena VIII - Pan Senator
 Rzecz dzieje się w Wilnie, w siedzibie senatora Nowosilcowa. Rozmawia on z Pelikanem, doktorem i Bajkowem o prześladowaniach studentów. Senator skarży się na nudę prowincji. 
+Nowosilcow wplata do swoich wypowiedzi bardzo dużo sformułowań francuskich. Podkreśla w ten sposób swoje wykształcenie oraz przynależność do elity. Można to też odczytywać jako wyraz pogardy wobec polskiej kultury. Ponadto, elegancja senatora silnie kontrastuje z jego okrucieństwem. #motyw/język
 Pojawia się niewidoma Pani Rollison, matka więzionego młodego patrioty. #motyw/matka Błaga Nowosilcowa o widzenie z synem lub wysłanie mu chociaż księdza. Nowosilcow wobec Pani Rollison zachowuje się brutalnie, lecz gdy wbiega Panna, uczestniczka balu, zaczyna udawać współczucie. Nakazuje otwarcie okna w celi Rollisona (możliwe, że w ten sposób każe go zabić, pozorując samobójstwo). Razem z Panią Rollison pojawia się ks. Piotr, który przepowiada śmierć Doktorowi oraz karę Senatorowi. 
 
 Rozpoczyna się bal. Widzimy podział gości na prawą i lewą stronę:
