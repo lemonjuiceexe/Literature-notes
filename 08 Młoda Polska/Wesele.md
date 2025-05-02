@@ -56,6 +56,6 @@ Wyspiański rozprawia się z kilkoma mitami narodowymi:
 - **Złoty róg** - symbol szansy na walkę o niepodległość i zjednoczenie narodu. Zgubienie go przez Jaśka oznacza zaprzepaszczenie tej szansy.
 - **Czapka z piór** - egoizm, prywata i wąskie horyzonty. Przedkładanie własnych korzyści nad sprawy narodowe.
 - **Złota podkowa** - symbol szczęścia. Mogła oznaczać powodzenie dla powstania, jej schowanie przez Gospodynię oznacza prywatę i niewykorzystaną szansę.
-- **Chocholi taniec** - symbolizuje marazm i niemoc, które ogarniają polskie społeczeństwo, uniemożliwiając mu działanie. #motyw/taniec 
+- **Chocholi taniec** - symbolizuje marazm i niemoc, które ogarniają polskie społeczeństwo, uniemożliwiając mu działanie. #motyw/taniec ^chocholitaniec
 ### Język
 Stylizacja języka indywidualizuje bohaterów - chłopi posługują się gwarą podkrakowską, co znacznie podkreśla różnice między grupami społecznymi. Występuje **mazurzenie**, czyli wymawianie głosek zębowych (s, c, z, dz) zamiast spółgłosek dziąsłowych (sz, cz, ż, dż): czepek to *cepek*, szyja to *syja*, życie to *zycie*

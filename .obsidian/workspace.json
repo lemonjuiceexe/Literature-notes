@@ -24,19 +24,17 @@
             }
           },
           {
-            "id": "dbc9160384df6e61",
+            "id": "5058ecbeeea03290",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rok 1984.md",
-                "mode": "source",
+                "file": "11 Współczesność/Tango.md",
+                "mode": "preview",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Rok 1984"
+              "title": "Tango"
             }
           }
         ],
@@ -72,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#motyw/język",
+                "query": "tag:#motyw/rodzina",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,8 +91,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rok 1984.md",
+                "file": "11 Współczesność/Tango.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Rok 1984"
+              "title": "Outline of Tango"
             }
           }
         ],
@@ -188,12 +185,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dbc9160384df6e61",
+  "active": "5058ecbeeea03290",
   "lastOpenFiles": [
-    "11 Współczesność/Współczesność.md",
-    "Rok 1984.md",
-    "01 Antyk/Antygona.md",
+    "08 Młoda Polska/Wesele.md",
+    "11 Współczesność/Tango.md",
     "11 Współczesność/Dżuma.md",
+    "11 Współczesność/Współczesność.md",
+    "11 Współczesność/Rok 1984.md",
+    "01 Antyk/Antygona.md",
     "06 Romantyzm/Dziady cz. III.md",
     "07 Pozytywizm/Lalka.md",
     "10 II wojna światowa/Zdążyć przed Panem Bogiem.md",
@@ -208,7 +207,6 @@
     "09 Dwudziestolecie międzywojenne/Dwudziestolecie międzywojenne.md",
     "11 Współczesność",
     "10 II wojna światowa/Proszę państwa do gazu.md",
-    "08 Młoda Polska/Wesele.md",
     "README.md",
     "Sztuka/Barok/Jan Vermeer - Dziewczyna z perłą.png",
     "Sztuka/Barok/Diego Velázquez - Wenus z lustrem.png",
@@ -218,7 +216,6 @@
     "02 Średniowiecze/Rozmowa Mistrza Polikarpa ze Śmiercią.md",
     "02 Średniowiecze/Bogurodzica.md",
     "04 Barok/Poezja baroku.md",
-    "09 Dwudziestolecie międzywojenne/Ferdydurke.md",
     "10 II wojna światowa",
     "08 Młoda Polska",
     "02 Średniowiecze",
