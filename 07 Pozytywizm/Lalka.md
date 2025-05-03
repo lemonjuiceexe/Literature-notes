@@ -30,7 +30,14 @@ finished: false
 - **Kazimiera Wąsowska** - wdowa po arystokracie, śmierć męża zapewniła jej finansową niezależność. Wyemancypowana, emanuje erotyzmem i pewnością siebie. Wykorzystuje swoją urodę i bawi się mężczyznami, zmieniając kochanków jak rękawiczki. Krytykuje społeczeństwo w kontekście pozycji kobiet, ograniczanych i potępianych za swobodę. 
   Jest protofeministką, jej poszukiwanie sensu przez hedonizm zwiastuje nastroje końca XIX wieku.
   Intryguje ją Wokulski, jednak nie może liczyć na wzajemność, ze względu na jego beznadziejne zachowanie. Doradza mu w sprawach miłosnych. 
-- **Prezesowa Zasławska** - starsza, bezdzietna arystokratka. Łączy tradycję szlacheckiego etosu z pozytywistycznym zaangażowaniem społecznym. Zarządza majątkiem w Zasławku, unika salonowych intryg, krytyczna wobec próżności i zepsucia młodej arystokracji. Osobiście dogląda majątku, pomaga potrzebującym - organizuje przytułki i ochronki. Dostrzega zepsucie krewnego Starskiego, więc zapisuje mu w testamencie jedynie niewielką rentę, a resztę przeznacza na cele dobroczynne. 
+- **Prezesowa Zasławska** - starsza, bezdzietna arystokratka. Łączy tradycję szlacheckiego etosu z pozytywistycznym zaangażowaniem społecznym. Zarządza majątkiem w Zasławku, unika salonowych intryg, krytyczna wobec próżności i zepsucia młodej arystokracji. Osobiście dogląda majątku, pomaga potrzebującym - organizuje przytułki i ochronki. Dostrzega zepsucie krewnego Starskiego, więc zapisuje mu w testamencie jedynie niewielką rentę, a resztę przeznacza na cele dobroczynne. Umiera pod koniec powieści.
+  W młodości kochanka wuja Wokulskiego, ich miłość była nieszczęśliwa przez różnice klasowe. 
+- szuman
+- szlangbaum
+- pani meliton
+- Kazimierz Starski
+- geist
+- dalski
 
 ## Problematyka
 ### Kompozycja
@@ -47,6 +54,7 @@ Społeczeństwo przedstawione jest panoramiczne - Prus opisuje arystokrację, mi
 ### Realizacja pozytywistycznych założeń
 #### Scjentyzm
 #### Praca organiczna i u podstaw, filantropia
+wysocki węgiełek marianna
 #### Emancypacja kobiet
 #### Asymilacja Żydów
 ### Miłość Wokulskiego do Izabeli
@@ -54,9 +62,15 @@ Społeczeństwo przedstawione jest panoramiczne - Prus opisuje arystokrację, mi
 ### Klęska idealizmu
 #motyw/idealizm #motyw/książki 
 - determinizm społeczny
+  jedzie do bułgarii bo po co mu kasa skoro wszyscy gadaja ze to po zonie
+  jednak zeby miec pieniadze dla izabeli
 - wokulski chce a nie może
+- bunt ryby
 ### Motyw miasta
 - leżąca drabina
+
+rzecki kocha prace + motyw teatru
+jezyk zindywidualizowany
 
 ### Cytaty
 > Stopiło się w nim dwu ludzi: romantyk sprzed roku sześćdziesiątego i pozytywista z siedemdziesiątego. To, co dla patrzących jest sprzeczne, w nim samym jest najzupełniej konsekwentne. 
