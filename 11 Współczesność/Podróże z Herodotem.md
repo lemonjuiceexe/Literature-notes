@@ -1,5 +1,5 @@
 ---
-finished: false
+finished: true
 ---
 #lektura 
 - **Autor**: Ryszard Kapuściński
