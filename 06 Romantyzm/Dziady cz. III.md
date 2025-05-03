@@ -12,7 +12,17 @@ finished: false
 - **Czas**: 1823-1824 r.
 - **Miejsce**: Wilno, dom pod Lwowem (scena IV), Warszawa
 ### Bohaterowie
-- 
+- **Konrad** - na początku utworu przechodzi przemianę i z Gustawa (romantycznego kochanka) staje się Konradem (bojownikiem o wolność narodu). Więzień, poeta, indywidualista, przekonany o własnym talencie i wyjątkowości rzuca wyzwanie Bogu, którego oskarża o obojętność wobec losu Polaków. Ostatecznie wywieziony na Sybir.
+- **Ksiądz Piotr** - pokorny Bernardyn, mistyk, prorok. Reprezentuje odmienną od Konrada postawę, zamiast buntu przeciwko Bogu wybiera pokorę i modlitwę. To jemu zesłana jest wizja, która jest manifestem mesjanistycznej historiozofii. 
+- **Senator Nowosilcow** - postać historyczna, główny antagonista. Chcąc przypodobać się carowi na siłę szuka spisku i bezpodstawnie represjonuje litewską młodzież. 
+- **Ewa** - młoda dziewczyna, modli się za naród i Konrada. Symbolizuje czystość i niewinność. 
+- **Pani Rollison** - niewidoma matka, która błaga Nowosilcowa o litość dla syna. Jest obrazem matki cierpiącej. 
+- **Więźniowie**
+	- **Rollison** - torturowany, wypada przez okno - wg słów ks. Piotra przeżywa.
+	- **Cichowski** - więzień, o którym opowiadają młodzi patrioci w salonie warszawskim. Po miesiącach tortur staje się cieniem samego siebie, ale nie wydaje towarzyszy.
+	- **Jan Sobolewski** - postać historyczna. Opowiada o widzianych przez siebie więźniach wywożonych na Sybir.
+	- **Żegota** - postać historyczna (Ignacy Domejko), nowy więzień, optymistycznie zakłada, że zostanie wypuszczony, skoro nie ma żadnej winy
+	- **Tomasz Zan** - postać historyczna. Najdłużej osadzony więzień, jest oparciem dla innych. Planuje poświęcić siebie i kilku innych, którzy nie mają rodzin - oni powinni przyjąć na siebie fikcyjną winę, aby uratować resztę. #motyw/poświęcenie 
 ## Fabuła i problematyka
 #### Prolog
 Rzecz dzieje się 1.11.1823 r. w klasztorze Bazylianów w Wilnie, przerobionym na więzienie. W celi śpi więzień, czuwa nad nim anioł stróż. Mężczyznę dręczą koszmary, docierają do niego głos duchów dobrych z prawej strony i nocnych z lewej. Symbolicznie zmienia imię i z Gustawa - romantycznego kochanka, zostaje Konradem - bojownikiem o sprawę narodową. Pisze na ścianie
@@ -58,7 +68,7 @@ Mówi o swojej miłości do narodu. #motyw/patriotyzm
 > Ja kocham cały naród! — objąłem w ramiona 
 > Wszystkie przeszłe i przyszłe jego pokolenia, #cytat
 
-Konrad jest rozdarty. Widzi cierpienie narodu polskiego i nie rozumie, czemu Bóg nie reaguje. Domaga się od niego władzy nad duszami, zarzuca, że nie jest miłością, a mądrością. Uważa, że jest w stanie lepiej rządzić światem, wyzywa Boga na pojedynek. #motyw/pycha #motyw/teodycea #motyw/władza #motyw/ambicja 
+Konrad jest rozdarty. Widzi cierpienie narodu polskiego i nie rozumie, czemu Bóg nie reaguje. Domaga się od niego władzy nad duszami, zarzuca, że nie jest miłością, a mądrością. Uważa, że jest w stanie lepiej rządzić światem, wyzywa Boga na pojedynek. #motyw/pycha #motyw/teodycea #motyw/władza #motyw/ambicja #motyw/cierpienie 
 > Ja chcę mieć władzę, jaką Ty posiadasz, 
 > Ja chcę duszami władać, jak Ty nimi władasz. #cytat
 
@@ -119,7 +129,7 @@ Mickiewicz ukazuje obraz polskiego społeczeństwa, podzielonego na dwie częśc
 **Towarzystwo stolikowe** - skorupa. Składa się z elity, arystokracji, mówią po francusku. Interesuje ich prosta i przyjemna literatura, bale i plotki, są konformistami, nie chcą słuchać o tematach patriotycznych. Jest to grupa niereprezentatywna dla całości społeczeństwa
 **Towarzystwo przydrzwiowe** - wewnętrzny ogień. Młodzi polscy patrioci, mówią po polsku. Interesują się represjami i prześladowaniami patriotów. Stanowią rdzeń polskości, którego *i sto lat nie wyziębi*. 
 
-Adolf opowiada historię Cichowskiego, torturowanego przez Rosjan. Nie poddał się mimo okaleczenia, ale gdy go wypuszczono, zmienił się nie do poznania. Młodzi Polacy są wzruszeni opowieścią, natomiast arystokracja jest oburzona nieprzyzwoitością tematu.
+Adolf opowiada historię Cichowskiego, torturowanego przez Rosjan. Nie poddał się mimo okaleczenia, ale gdy go wypuszczono, zmienił się nie do poznania. Młodzi Polacy są wzruszeni opowieścią, natomiast arystokracja jest oburzona nieprzyzwoitością tematu. #motyw/cierpienie 
 
 #### Scena VIII - Pan Senator
 Rzecz dzieje się w Wilnie, w siedzibie senatora Nowosilcowa. Rozmawia on z Pelikanem, doktorem i Bajkowem o prześladowaniach studentów. Senator skarży się na nudę prowincji. 
