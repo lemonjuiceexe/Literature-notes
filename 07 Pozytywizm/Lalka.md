@@ -56,6 +56,7 @@ Społeczeństwo przedstawione jest panoramiczne - Prus opisuje arystokrację, mi
 - determinizm społeczny
 - wokulski chce a nie może
 ### Motyw miasta
+- leżąca drabina
 
 ### Cytaty
 > Stopiło się w nim dwu ludzi: romantyk sprzed roku sześćdziesiątego i pozytywista z siedemdziesiątego. To, co dla patrzących jest sprzeczne, w nim samym jest najzupełniej konsekwentne. 
