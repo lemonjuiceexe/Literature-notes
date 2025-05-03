@@ -15,7 +15,7 @@ Epoka o płynnych ramach i dużej różnorodności tematów i stylów, trudna do
 1. [[Dżuma]], Albert Camus
 2. [[Rok 1984]], George Orwell
 3. [[Tango]], Sławomir Mrożek
-4. [[Górą „Edek"]], Marek Nowakowski
+4. [[Górą 'Edek']], Marek Nowakowski
 5. [[Miejsce]], Andrzej Stasiuk
 6. [[Profesor Andrews w Warszawie]], Olga Tokarczuk
 7. [[Podróże z Herodotem]], Ryszard Kapuściński (fragmenty)
