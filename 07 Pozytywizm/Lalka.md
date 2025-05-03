@@ -19,7 +19,7 @@ finished: false
   Prowadził bardzo rutynowe życie, pracę i sklep traktował jak świętość, samodzielnie układał wystawy nawet po sprzedaży zakładu. Kiedy próbował wyjechać na długo wyczekiwany urlop w ostatniej chwili zrezygnował, zrozumiawszy, że nie może opuścić sklepu i Warszawy.
   Zakochał się w Helenie Stawskiej, nalegał jednak, aby Wokulski się jej oświadczył - uważał, że wyleczyłoby go to z miłości do Izabeli, a przedkładał dobro przyjaciela nad własne. #motyw/przyjaźń
   Był romantycznym idealistą, wierzył, że ród Napoleona doprowadzi do niepodległości Polski. Jego samotna śmierć symbolizuje kres epoki idealistów. 
-- **Izabela Łęcka** - młoda arystokratka, jej rodzina ma problemy finansowe, ale utrzymuje pozycję towarzyską. Izabela cieszy się powodzeniem u mężczyzn, co lubi, ale traktuje zalotników z obojętnością. Nie wydaje się zdolna do miłości - kocha jedynie posąg Apollina, małżeństwo jest dla niej transakcją. Nie szanuje Wokulskiego przede wszystkim ze względu na jego pochodzenie klasowe, ceni w nim majątek i naiwność. Jest kompletnie oderwana od rzeczywistości, jest przekonana, że wszystko istnieje po to, żeby sprawiać jej przyjemność. Wychowana na ozdobę salonów, uczono ją języków, muzyki i literatury. 
+- **Izabela Łęcka** - młoda arystokratka, jej rodzina ma problemy finansowe, ale utrzymuje pozycję towarzyską. Izabela cieszy się powodzeniem u mężczyzn, co lubi, ale traktuje zalotników z obojętnością. Nie wydaje się zdolna do szczerej miłości - kocha jedynie posąg Apollina, małżeństwo jest dla niej transakcją, a romanse zabawą. Nie szanuje Wokulskiego przede wszystkim ze względu na jego pochodzenie klasowe, ceni w nim majątek i naiwność. Jest kompletnie oderwana od rzeczywistości, jest przekonana, że wszystko istnieje po to, żeby sprawiać jej przyjemność. Wychowana na ozdobę salonów, uczono ją języków, muzyki i literatury. 
   Izabela jest lalką salonową - piękna, ale pusta w środku. Symbolizuje jałowość i amoralność elit. Piękno maskuje moralny upadek. 
   Ostatecznie zgadza się poślubić Wokulskiego ale nie dochowuje mu wierności. Po śmierci ojca, opuszczona przez adoratorów, wstępuje do klasztoru.
 - **Julian Ochocki** - kuzyn Izabeli, arystokrata. Jest naukowym idealistą, wierzy, że wynalazki zmienią ludzkie życie. Marzy o stworzeniu maszyny latającej, jego wizjonerstwo wyprzedza epokę, jest jednak bezradny w Polsce, która nie wspiera nauki. 
@@ -68,16 +68,40 @@ Poprzez postacie Szumana oraz Henryka Szlangbauma Prus krytykuje antysemityzm - 
 
 ~ Henryk Szlangbaum
 ### Miłość Wokulskiego do Izabeli
-#motyw/miłość #motyw/tragizm 
-po to pomnaża pieniądze
+#motyw/miłość
+Miłość Wokulskiego do Izabeli jest głównym wątkiem powieści i nadrzędnym celem Wokulskiego, który przyświeca mu w prawie każdym działaniu. Stach obsesyjnie interesuje się Łęcką, uważa ją za anioła, istotę bez wad. 
+Używa majątku aby zbliżyć się do arystokracji, a więc i do Łęckiej. To dlatego jedzie na wojnę bułgarską i pomnaża odziedziczony po Minclowej majątek, następnie wykupuje długi Łęckich (srebrna zastawa i weksle) i ich kamienicę - płaci za nią więcej, aby Izabela mogła mieć posag.
 ### Klęska idealizmu
-#motyw/idealizm #motyw/książki 
-- determinizm społeczny
-  motyw teatru
-- wokulski chce a nie może
-- bunt ryby
+#motyw/idealizm #motyw/tragizm 
+*Lalka* jest, wg samego Prusa, powieścią o *trzech pokoleniach idealistów na tle społecznego rozkładu*. Każdy z nich ostatecznie zderza się z niemożliwymi do pokonania barierami:
+- **Ignacy Rzecki** jest idealistą politycznym. Walczył w Wiośnie Ludów i wierzył, że nowy Napoleon pomoże Polsce odzyskać niepodległość.
+  Ideały Rzeckiego okazują się anachroniczne. Ideały rewolucji i bonapartyzmu nie znajdują poparcia w epoce pozytywizmu. Szuman nazywa go ostatnim romantykiem. Umiera w samotności, a jego śmierć symbolizuje ostateczny koniec romantycznych ideałów.
+- **Stanisław Wokulski** jest idealistą miłości. Wynosi ją do najważniejszej w życiu wartości, uważa Łęcką za anioła. Wierzy, że ciężką pracą będzie mógł spełnić cel, jakim jest zbliżenie się do Izabeli.
+  Wokulski, mimo sukcesu biznesowego, nie jest w stanie przezwyciężyć dzielących go od arystokracji różnic klasowych. **Determinizm społeczny** sprawia, że dorobkiewicz nigdy nie będzie traktowany jak równy elitom, choćby i zbankrutowały.
+  Ten sam mechanizm pokazany jest w stosunku do ludzi biednych - np. Węgiełek jest zdolny i chętny do pracy, ale brakuje mu środków - bez zewnętrznej pomocy nie byłby w stanie poprawić swojego losu.
+  Scena w Paryżu ujawnia, że romantyczna literatura była jednym ze źródeł idealizmu Wokulskiego i inspirowała go w młodości:
+>Wzrok jego machinalnie padł na stół, gdzie leżał niedawno kupiony Mickiewicz.
+  > (…)
+  > „Teraz już wiem, przez kogo jestem tak zaczarowany…”
+Uczuł łzę pod powieką, lecz pohamował się i nie splamiła mu twarzy.
+„Zmarnowaliście życie moje… Zatruliście dwa pokolenia!… — szepnął. — Oto skutki waszych sentymentalnych poglądów na miłość.”
+Złożył książkę i cisnął nią w kąt pokoju, aż rozleciały się kartki. #cytat #motyw/książki 
+- **Julian Ochocki** jest idealistą nauki. Porzucił on wygodne życie arystokraty aby poświęcić się nauce. Wierzył, że wynalazki mogą pomóc w budowie lepszego świata.
+  Ochocki nie jest w stanie prowadzić swoich badań w Polsce, gdzie brakuje mu środków, wsparcia i poważnego traktowania - wyjeżdża on za granicę aby kontynuować swoją pracę.
+
+Prus nawiązuje także do determinizmu poprzez wprowadzenie toposu **theatrum mundi** - łac. teatru świata. Sugeruje, że ludzkie decyzje, namiętności i starania są ostatecznie bez znaczenia wobec większych od nich sił:
+> Jak zwykle, tak i tym razem wydobył wszystkie, zapełnił nimi cały kontuar i wszystkie jednocześnie nakręcił. Po raz tysiączny w życiu przysłuchiwał się melodiom grających tabakierek i patrzył, jak niedźwiedź wdrapuje się na słup, jak szklana woda obraca młyńskie koła, jak kot ugania się za myszą, jak tańczą krakowiacy, a na wyciągniętym koniu pędzi dżokej.
+I przypatrując się ruchowi martwych figur po tysiączny raz w życiu powtarzał:
+„Marionetki!… Wszystko marionetki!… Zdaje im się, że robią, co chcą, a robią tylko, co im każe sprężyna, taka ślepa jak one…”
+Kiedy źle kierowany dżokej wywrócił się na tańczących parach, pan Ignacy posmutniał.
+„Dopomóc do szczęścia jeden drugiemu nie potrafi — myślał — ale zrujnować cudze życie umieją tak dobrze, jak gdyby byli ludźmi…”
+#cytat #motyw/teatr
+
+~ Rzecki, ustawiając wystawę sklepową
 ### Motyw miasta
-- leżąca drabina
+#motyw/miasto
+Warszawa kojarzy się Wokulskiemu z **leżącą drabiną**. To ironiczny symbol, sugerujący brak możliwości rozwoju. Uważa, że jest ona źle i chaotycznie zagospodarowana. Jest miastem stagnacji, każdy jest zdeterminowany przez swoje pochodzenie i odgrywa swoje role, których nie można zmienić. Razi go kontrast między próżniactwem arystokracji a biedą Powiśla. #motyw/bieda 
+Paryż stanowi antytezę Warszawy. Podziwia logikę, według której zaplanowano całe miasto, które kojarzy mu się z gąsienicą - leży wzdłuż jednej osi. W Paryżu nie liczy się pochodzenie, a umiejętności, Wokulski uważa, że gdyby to tu się urodził, to mógłby osiągnąć wielkie rzeczy. 
 
 ### Znaczenie tytułu
 - Dosłowny
