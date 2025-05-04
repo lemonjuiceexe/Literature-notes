@@ -22,7 +22,6 @@ Romantyzm wywodzi się z oświeceniowego sentymentalizmu, jest „epoką **czuci
 - Bohater werteryczny
 - Weltschmerz
 ## Lektury
-
 ### Poziom podstawowy
 1. [[Oda do młodości]], Adam Mickiewicz
 2. [[Dziady cz. III]], Adam Mickiewicz
@@ -33,10 +32,8 @@ Romantyzm wywodzi się z oświeceniowego sentymentalizmu, jest „epoką **czuci
 6. Pan Tadeusz, Adam Mickiewicz (ks. I, II, IV, X, XI, XII)
 7. Balladyna, Juliusz Słowacki
 8. Zemsta, Aleksander Fredro
-
 ### Poziom rozszerzony
 9. [[Kordian]], Juliusz Słowacki
-
 ### Dodatkowo
 10. [[Konrad Wallenrod]], Adam Mickiewicz
 11. [[Poezja Adama Mickiewicza]]

@@ -27,16 +27,13 @@ Mimo oporów Makbet, pod wpływem Lady Makbet, zabija Dunkana #motyw/morderstwo 
 Tracący rozum Makbet zleca zabójstwo Banka i Fleance'a. Banko ginie, Fleance ucieka. Makbet widzi ducha Banka, idzie prosić czarownice o dalsze przepowiednie. Przestrzegają go przed Makdufem, jednak przepowiadają mu, że *nie zginie z ręki człowieka zrodzonego z kobiecego łona* oraz, że nikt go nie tknie dopóki sam las Birnam nie ruszy na jego fortecę. #motyw/przepowiednia
 Makbet nasyła morderców na rodzinę Makdufa, zabijają oni syna, Lady Makduf ucieka.
 
-Makbet sprawuje w Szkocji rządy tyrana. Lady Makbet traci zmysły, chodzi we śnie i próbuje obmyć ręce z krwi. #motyw/szaleństwo 
+Makbet sprawuje w Szkocji rządy tyrana. Lady Makbet traci zmysły, chodzi we śnie i próbuje obmyć ręce z krwi. #motyw/szaleństwo Ostatecznie popełnia samobójstwo.
 
 Na Makbeta ruszają z Anglii Siward wraz z Malkolmem i Makdufem. Nakazują wojsku nieść gałązki z lasu Birnam, w celu wprowadzenia wroga w błąd co do ilości żołnierzy. W ten sposób spełnia się pierwsza przepowiednia wiedźm - las rusza do ataku. Dochodzi do walki Makbeta z Makdufem. Makbet, przez przepowiednię, jest pewien, że nic mu się nie stanie. Makduf mówi mu jednak, że przyszedł na świat przez cesarskie cięcie, a nie naturalnie. Makbet traci pewność siebie i ginie. Malkolm zostaje nowym królem Szkocji. #motyw/wina-i-kara 
-
 ## Problematyka
-
 ### Przeznaczenie a wybór
 Pozornie mogłoby się wydawać, że los Makbeta jest zdeterminowany przez przepowiednię wiedźm, jednak nie bez przyczyny *Makbet* nazywany jest dramatem wyboru.
 Przepowiednie wiedźm mają charakter prowokacyjny, odsłaniają prawdziwą naturę bohatera. Warto porównać jak na proroctwa reagują Banko (zbagatelizowanie sprawy) a jak Makbet (rozbudzenie ambicji). Makbet bardzo szybko ulega pokusie przyspieszenia wyroków losu, a po zabójstwie Dunkana sam decyduje się zamordować Banka i rodzinę Makdufa. Jasno widać, że upadek bohatera wynika z jego decyzji, nie z przeznaczenia. 
-
 ### Cytaty
 > Jeśli to, co ma się stać, stać się musi
 > Niechby przynajmniej stało się niezwłocznie #cytat
@@ -45,5 +42,5 @@ Przepowiednie wiedźm mają charakter prowokacyjny, odsłaniają prawdziwą natu
 > Nędznym aktorem, który swą rolę
 > Przez parę godzin wygrawszy na scenie
 > W nicość przepada - powieścią idioty
-> Głośną, wrzaskliwą, a nic nie znaczącą #cytat
+> Głośną, wrzaskliwą, a nic nie znaczącą #motyw/teatr #cytat
 

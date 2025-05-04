@@ -41,11 +41,9 @@ Refleksja o przemijalności ludzkiego życia i nieuchronności śmierci. #motyw/
 Refleksja o przemijalności dóbr doczesnych. Mówi o tym, że w zwróceniu się ku Bogu jest recepta na śmierć i trwogę. #motyw/vanitas 
 #### Na oczy królewny angielskiej
 Panegiryk wychwalający urodę oczu królewny. Typowo barokowe bogactwo formy, stosuje m.in. anaforę, gradację, kompozycję łańcuchową, figurę sumacji.
-
 ### Jan Andrzej Morsztyn
 #### Do trupa
 Przykład poezji konceptystycznej. Poeta porównuje stan nieszczęśliwie zakochanego do trupa - obydwu brakuje krwi, nie kontrolują własnego losu. Zaskakującym wnioskiem jest przewaga sytuacji trupa nad zakochanym - ten pierwszy przynajmniej już nie cierpi. #motyw/śmierć #motyw/miłość
-
 #### Niestatek
 Dwa wiersze o tym tytule, obydwa podobnie humorystyczne.
 

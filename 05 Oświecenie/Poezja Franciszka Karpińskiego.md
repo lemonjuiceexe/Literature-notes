@@ -6,7 +6,6 @@ finished: true
 - **Gatunek**: [[Sielanka]], wiersz
 - **Epoka**: [[Oświecenie]] #epoka/oświecenie 
 - **Data**: II połowa XVIII w.
-
 ### Cechy poezji sentymentalnej
 - Prosta budowa i słownictwo
 - Melodyjność

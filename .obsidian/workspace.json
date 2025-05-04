@@ -4,41 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "14917c50083bd49b",
+        "id": "55df88f3f64eb2b2",
         "type": "tabs",
         "children": [
           {
-            "id": "40f972657bd1dd73",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Renesans/Filozofia renesansu.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Filozofia renesansu"
-            }
-          },
-          {
-            "id": "c71435a9dbd5713c",
+            "id": "a4e41dbce67d29c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 Pozytywizm/Lalka.md",
-                "mode": "source",
+                "file": "11 Współczesność/Dżuma.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lalka"
+              "title": "Dżuma"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"finished\":false]",
+                "query": "motyw/bóg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 Pozytywizm/Lalka.md",
+                "file": "11 Współczesność/Dżuma.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lalka"
+              "title": "Outline of Dżuma"
             }
           }
         ],
@@ -185,33 +168,33 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c71435a9dbd5713c",
+  "active": "a4e41dbce67d29c8",
   "lastOpenFiles": [
-    "07 Pozytywizm/Pozytywizm.md",
-    "07 Pozytywizm/Zbrodnia i kara.md",
-    "08 Młoda Polska/Chłopi.md",
-    "08 Młoda Polska/Filozofia Młodej Polski.md",
-    "08 Młoda Polska/Młoda Polska.md",
-    "08 Młoda Polska/Wesele.md",
-    "03 Renesans/Filozofia renesansu.md",
-    "07 Pozytywizm/Gloria victis.md",
-    "11 Współczesność/Górą 'Edek'.md",
-    "07 Pozytywizm/Lalka.md",
-    "10 II wojna światowa/II wojna światowa.md",
-    "11 Współczesność/Filozofia współczesna.md",
-    "06 Romantyzm/Filozofia romantyzmu.md",
-    "01 Antyk/Biblia.md",
-    "04 Barok/Barok.md",
-    "Odprawa posłów greckich.md",
-    "06 Romantyzm/Kordian.md",
-    "06 Romantyzm/Król olch.md",
-    "03 Renesans/Renesans.md",
+    "10 II wojna światowa/Zdążyć przed Panem Bogiem.md",
+    "09 Dwudziestolecie międzywojenne/Sklepy cynamonowe.md",
+    "09 Dwudziestolecie międzywojenne/Przedwiośnie.md",
+    "09 Dwudziestolecie międzywojenne/Poezja dwudziestolecia międzywojennego.md",
+    "09 Dwudziestolecie międzywojenne/Mistrz i Małgorzata.md",
+    "09 Dwudziestolecie międzywojenne/Ferdydurke.md",
     "09 Dwudziestolecie międzywojenne/Dwudziestolecie międzywojenne.md",
-    "04 Barok/Filozofia baroku.md",
-    "01 Antyk/Antyk.md",
+    "08 Młoda Polska/Wesele.md",
+    "08 Młoda Polska/Chłopi.md",
+    "07 Pozytywizm/Zbrodnia i kara.md",
+    "07 Pozytywizm/Pozytywizm.md",
+    "07 Pozytywizm/Potop.md",
+    "07 Pozytywizm/Nowele.md",
+    "07 Pozytywizm/Nowela.md",
+    "07 Pozytywizm/Lalka.md",
+    "07 Pozytywizm/Gloria victis.md",
+    "07 Pozytywizm/Filozofia pozytywizmu.md",
+    "06 Romantyzm/Romantyzm.md",
+    "06 Romantyzm/Poezja Adama Mickiewicza.md",
+    "06 Romantyzm/Oda do młodości.md",
+    "06 Romantyzm/Król olch.md",
+    "06 Romantyzm/Kordian.md",
+    "06 Romantyzm/Konrad Wallenrod.md",
+    "06 Romantyzm/Filozofia romantyzmu.md",
     "06 Romantyzm/Dziady cz. III.md",
-    "11 Współczesność/Współczesność.md",
-    "01 Antyk/Antygona.md",
     "06 Romantyzm/Cierpienia młodego Wertera.md",
     "11 Współczesność",
     "Sztuka/Barok/Jan Vermeer - Dziewczyna z perłą.png",

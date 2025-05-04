@@ -20,6 +20,5 @@ finished: true
 ## Problematyka
 ### Dobro ogółu a dobro jednostki
 Centralnym tematem eposu jest gniew Achillesa, który obraził się na Agamemnona, który porwał jego brankę Bryzeidę. Jest przepowiedziane, że Troja nie upadnie bez pomocy Achillesa. W ten sposób błahy konflikt między dowódcami naraża losy całej wojny. 
-
 ### Paralelizm światów
 Ważną rolę w *Iliadzie* odgrywają bogowie, bezpośrednio wspierając Greków lub Trojan, często nawet pojawiając się na polu bitwy. Ich motywacjami są zwykle kaprysy, konflikty i sympatie. Sami również podlegają działaniu przeznaczenia. 

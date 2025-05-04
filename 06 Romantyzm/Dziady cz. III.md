@@ -28,7 +28,6 @@ finished: false
 Rzecz dzieje się 1.11.1823 r. w klasztorze Bazylianów w Wilnie, przerobionym na więzienie. W celi śpi więzień, czuwa nad nim anioł stróż. Mężczyznę dręczą koszmary, docierają do niego głos duchów dobrych z prawej strony i nocnych z lewej. Symbolicznie zmienia imię i z Gustawa - romantycznego kochanka, zostaje Konradem - bojownikiem o sprawę narodową. Pisze na ścianie
 > GUSTAVUS OBIIT
 > HIC NATUS EST CONRADUS
-
 #### Scena I - więzienna
 Rzecz dzieje się 24.12.1823 r. Więźniowie spotykają się w celi Konrada i rozmawiają o swojej sytuacji, o represjach spotykających młodzież ze strony Nowosilcowa. Młodzież jest aresztowana i torturowana bez powodu, ponieważ Nowosilcow na siłę szuka spisku, aby przypodobać się carowi. #motyw/patriotyzm Jan Sobolewski opowiada o widzianych przez siebie wywożonych na Sybir więźniach. 
 ##### Bajka Goreckiego
@@ -36,14 +35,12 @@ Opowiadana przez Żegotę. Bóg po wygnaniu Adama z Raju nie chciał, aby ten zo
 > Jam częścią tej siły, która wiecznie zła pragnąc, wiecznie czyni dobro
 
 ~ Faust, J.W. Goethe
-
 ##### Pieśń zemsty i Mała Improwizacja
 Konrad, pełen nienawiści i spragniony zemsty, śpiewa **Pieśń zemsty**, również **Pieśń wampiryczną**. 
 > Tak! zemsta, zemsta, zemsta na wroga, 
 > Z Bogiem i choćby mimo Boga! #cytat 
 
 Ma wydźwięk bluźnierczy, podkreśla gotowość do zemsty nawet wbrew Bogu. Następnie Konrad wygłasza **Małą Improwizację**. Widzi siebie jako orła, który ma wgląd w przyszłość ojczyzny. Wizję zakłóca jednak pojawienie się kruka.
-
 #### Scena II - Wielka Improwizacja
 Konrad jest nieszczęśliwy. Poezja jest przyczyną jego samotności i wyobcowania. Wieszcz nigdy nie będzie zrozumiany, ponieważ inni nie są w stanie ogarnąć idei zawartych w jego dziełach. #motyw/poeta 
 > Samotność — cóż po ludziach, czy-m śpiewak dla ludzi? #motyw/samotność #cytat
@@ -110,13 +107,11 @@ Wizja ma charakter profetyczny - przedstawia obecne i przyszłe losy narodu Pols
 5. **Sędzia Gal - Piłat**, symbolizuje Francję, umywa ręce. Reprezentuje obojętność Europy wobec losu Polski. Krzyczy *Oto naród wolny, niepodległy!*, nawiązując do piłatowskiego *Ecce homo* - oto człowiek.
 6. **Matka Wolność** - analogicznie do Maryi, cierpiąca wobec losu Polski
 7. **Zmartwychwstanie** - wizja kończy się tryumfem. Naród umiera na krzyżu ale ulatuje ku niebu i zmartwychwstaje. 
-
 #### Scena VI - Sen Senatora
 #motyw/oniryzm #motyw/ambicja
 Senator Nowosilcow śpi, nad nim rozprawiają dwa diabły - chcą porwać jego duszę do piekła. Motywują go do dalszych grzechów, zsyłając na niego sen.
 Nowosilcow we śnie zyskuje względy cara. Czuje nienawiść innych dworzan, którzy kłaniają mu się, choć go nienawidzą.
 Ostatecznie cesarz ponownie się od niego odwraca, co jest dla Senatora najgorszym wyrokiem. Nie może odpędzić się od robaków.
-
 #### Scena VII - Salon warszawski
 Mickiewicz ukazuje obraz polskiego społeczeństwa, podzielonego na dwie części. #motyw/społeczeństwo
 > Nasz naród jak lawa, 
@@ -130,7 +125,6 @@ Mickiewicz ukazuje obraz polskiego społeczeństwa, podzielonego na dwie częśc
 **Towarzystwo przydrzwiowe** - wewnętrzny ogień. Młodzi polscy patrioci, mówią po polsku. Interesują się represjami i prześladowaniami patriotów. Stanowią rdzeń polskości, którego *i sto lat nie wyziębi*. 
 
 Adolf opowiada historię Cichowskiego, torturowanego przez Rosjan. Nie poddał się mimo okaleczenia, ale gdy go wypuszczono, zmienił się nie do poznania. Młodzi Polacy są wzruszeni opowieścią, natomiast arystokracja jest oburzona nieprzyzwoitością tematu. #motyw/cierpienie 
-
 #### Scena VIII - Pan Senator
 Rzecz dzieje się w Wilnie, w siedzibie senatora Nowosilcowa. Rozmawia on z Pelikanem, doktorem i Bajkowem o prześladowaniach studentów. Senator skarży się na nudę prowincji. 
 Nowosilcow wplata do swoich wypowiedzi bardzo dużo sformułowań francuskich. Podkreśla w ten sposób swoje wykształcenie oraz przynależność do elity. Można to też odczytywać jako wyraz pogardy wobec polskiej kultury. Ponadto, elegancja senatora silnie kontrastuje z jego okrucieństwem. #motyw/język
@@ -140,7 +134,6 @@ Rozpoczyna się bal. Widzimy podział gości na prawą i lewą stronę:
 - Lewa strona to lojaliści i urzędnicy, próbujący wkraść się w łaski Senatora
 - Prawa strona to młodzi patrioci, studenci ostentacyjnie unikający tańca. Rozmawiają o zamordowaniu Nowosilcowa, zarzucają go jednak ze względu na potencjalne zaostrzenie represji.
 Pani Rollison dowiaduje się, że jej syn zginął, wyrzucony przez okno z celi. Wpada na bal, w szale oskarża senatora i przeklina go. Ksiądz Piotr uspokaja ją, mówiąc, że Rollison żyje, ta jednak pada zemdlona. Uderza piorun, który zabija Doktora, roztapiając srebrne ruble przy jego głowie - spełnia się przepowiednia ks. Piotra. #motyw/przepowiednia Następnie ks. Piotr, opowiadając dwie przypowieści, sugeruje, że Senatora i Pelikana spotka jeszcze gorszy koniec niż Doktora. Wychodząc, spotyka Konrada, który daruje mu pierścionek i któremu przepowiada przyszłość na zesłaniu.
-
 #### Scena IX - Noc Dziadów
 Rzecz dzieje się na cmentarzu podczas Dziadów. Guślarz i Kobieta obserwują tłumy wchodzące do kaplicy. Kobieta nie wchodzi do środka, czeka na ducha - Guślarz wnioskuje, że chodzi o duszę jeszcze żyjącego człowieka.
 Trwa obrzęd Dziadów: wpierw pojawiają się duchy lekkie, następnie ciężkie (jeden z nich ma w oczach srebrne monety a w rękach przelewa, parzące go, srebro). Kobieta jeszcze raz wzywa ducha, który nie przybywa.

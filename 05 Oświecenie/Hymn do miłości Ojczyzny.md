@@ -9,5 +9,5 @@ finished: true
 
 Hymn mówi o podejściu patriotycznym po pierwszym rozbiorze Polski. Ukazuje poświęcenie w ramach którego cierpienie jest podejmowane dla dobra ojczyzny. Trud przynosi duchową satysfakcję. Krasicki staje się prekursorem martyrologicznej liryki patriotycznej.  #motyw/patriotyzm 
 #### Cytaty
-	Byle cię można wspomóc, byle wspierać,
-	Nie żal żyć w nędzy, nie żal i umierać.
+> Byle cię można wspomóc, byle wspierać,
+Nie żal żyć w nędzy, nie żal i umierać.

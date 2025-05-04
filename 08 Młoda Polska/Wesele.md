@@ -6,7 +6,6 @@ finished: true
 - **Gatunek**: Dramat
 - **Epoka**: [[Młoda Polska]] #epoka/młodapolska 
 - **Data**: 1901 r.
-
 ## Świat przedstawiony
 ### Czas i miejsce akcji
 - **Czas akcji**: 20/21.11.1900
@@ -37,7 +36,6 @@ finished: true
 - **Hetman (Branicki)** - uosobienie zdrady narodowej. Ukazuje się razem z chórem diabłów. #motyw/zdrada 
 - **Widmo** - uosobienie niespełnionej, młodzieńczej miłości. Wyspiański krytykuje sobie współczesnych - Marysia, w przeciwieństwie do [mickiewiczowskiej Karusi](../06%20Romantyzm/Ballady#Romantyczność) odczuwa niepokój i odrzuca Widmo. Autor pokazuje, że ludzie nie są już zdolni do takich uczuć jak w epoce [romantyzmu](../06%20Romantyzm/Romantyzm).
 - **Wernyhora** - legendarny wieszcz. Przynosi Gospodarzowi złoty róg - symbol szansy na zryw narodowowyzwoleńczy, od którego zależy powodzenie sprawy polskiej. 
-
 ## Problematyka
 ### Polska szopa
 #motyw/społeczeństwo 
@@ -50,7 +48,6 @@ Wyspiański rozprawia się z kilkoma mitami narodowymi:
 - mit chłopa-kosyniera
 - mit *wsi spokojnej, wsi wesołej*
 - mit solidaryzmu społecznego
-
 ### Symbolika
 - **Bronowicka chata** - mała Polska, soczewka na polskie społeczeństwo.
 - **Złoty róg** - symbol szansy na walkę o niepodległość i zjednoczenie narodu. Zgubienie go przez Jaśka oznacza zaprzepaszczenie tej szansy.
@@ -58,4 +55,4 @@ Wyspiański rozprawia się z kilkoma mitami narodowymi:
 - **Złota podkowa** - symbol szczęścia. Mogła oznaczać powodzenie dla powstania, jej schowanie przez Gospodynię oznacza prywatę i niewykorzystaną szansę.
 - **Chocholi taniec** - symbolizuje marazm i niemoc, które ogarniają polskie społeczeństwo, uniemożliwiając mu działanie. #motyw/taniec ^chocholitaniec
 ### Język
-Stylizacja języka indywidualizuje bohaterów - chłopi posługują się gwarą podkrakowską, co znacznie podkreśla różnice między grupami społecznymi. Występuje **mazurzenie**, czyli wymawianie głosek zębowych (s, c, z, dz) zamiast spółgłosek dziąsłowych (sz, cz, ż, dż): czepek to *cepek*, szyja to *syja*, życie to *zycie*
+Stylizacja języka indywidualizuje bohaterów - chłopi posługują się gwarą podkrakowską, co znacznie podkreśla różnice między grupami społecznymi. Występuje **mazurzenie**, czyli wymawianie głosek zębowych (s, c, z, dz) zamiast spółgłosek dziąsłowych (sz, cz, ż, dż): czepek to *cepek*, szyja to *syja*, życie to *zycie*.

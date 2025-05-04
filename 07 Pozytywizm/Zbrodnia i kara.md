@@ -66,7 +66,6 @@ Rozumie, że jego system wartości prowadzi do zakłady ludzkości. Sen budzi w 
 Śni mu się trumna jednej z jego ofiar, 10-letniej samobójczyni.
 ##### Sen o dziewczynce
 Śni mu się, że znajduje małą dziewczynkę i jej pomaga. Kładzie ją do snu, a później ona się z niego śmieje.
-
 ### Miasto
 #motyw/miasto 
 W lipcu w Petersburgu panuje zaduch, gorąc, brzydota i smród. Miasto przedstawione jest jako siedlisko zła i upadku moralnego, zapełnione jest przez nędzarzy, pijaków i prostytutki. Petersburg jest przede wszystkim środowiskiem nieprzyjemnym, uwięziony w nim bohater jest powoli doprowadzany do szaleństwa oraz zmuszony do walki o byt w ciężkich warunkach materialnych. Miasto niszczy ludzi, rujnuje ich psychikę.

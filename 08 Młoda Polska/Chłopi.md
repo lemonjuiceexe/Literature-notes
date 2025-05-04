@@ -33,7 +33,6 @@ Na początku powieści Hanka jest cicha i uległa wobec męża. Często płacze,
 #### Antek
 Antka poznajemy z kolei jako impulsywnego młodego buntownika, skonfliktowanego z ojcem ([patrz konflikty rodzinne](#Konflikty%20rodzinne)) #motyw/bunt Ostatecznie dochodzi do bójki między ojcem i synem, w wyniku której Boryna wyrzuca Antków z domu.
 Punktem zwrotnym jest bitwa o las, podczas której Antek staje w obronie ojca, zabijając napastnika. Po powrocie z więzienia zaczyna doceniać Hankę, która stała się dobrą gospodynią i odsuwa się od Jagny. Staje się głową rodziny i przejmuje gospodarstwo, stając się pierwszym gospodarzem we wsi. Podczas samosądu nie staje w obronie Jagny - wybiera lojalność wobec społeczności. 
-
 ### Femme fatale
 Jagna jest klasyczną realizacją motywu *femme fatale* - fr. kobieta fatalna, czyli przynosząca mężczyźnie zgubę. 
 Jagna nie przystaje do wiejskiej rzeczywistości, nie interesuje jej gospodarstwo. Jest wrażliwa i marzycielska. Jako najpiękniejsza dziewczyna we wsi romansuje z kilkoma mężczyznami - Antkiem, Mateuszem czy wójtem. Jest jedną z przyczyn rozpadu rodziny Borynów. 

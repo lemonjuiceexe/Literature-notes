@@ -8,7 +8,6 @@ finished: false
 - **Data**: I połowa XIX w. (1834 r.)
 
 Kordian - od łac. cordis - serce - uczuciowość
-
 ## Świat przedstawiony
 ### Czas i miejsce akcji
 - **Czas**: Przygotowanie: 31.12.1799, Akt I: lata 20-te XIX w., Spisek: 1828/29
@@ -20,7 +19,6 @@ Kordian - od łac. cordis - serce - uczuciowość
 ### Bohaterowie
 - **Kordian** - młody mężczyzna, przechodzący duchową przemianę - staje się symbolem polskiego bohatera narodowego. 
 - **Grzegorz**
-
 ## Problematyka
 ### Przemiana bohatera, kryzys światopoglądowy
 Młody Kordian jest człowiekiem zagubionym i bez celu. Przypuszczalne samobójstwo przyjaciela, jesień, nieszczęśliwa miłość i brak sensu życia przygnębiają go. Odczuwa [Weltschmerz](./Cierpienia%20młodego%20Wertera#^weltschmerz), **jaskółczy niepokój**.
@@ -33,7 +31,6 @@ Po nieudanej próbie samobójczej podróżuje po świecie, weryfikując swoje po
 	Kolejne rozczarowanie miłosne, jego kochance zależało jedynie na bogactwie
 4. Państwo Kościelne
 	Rozczarowanie instytucją papieża, który, zamiast błogosławić naród polski, bierze stronę cara.
-
 Suma rozczarowań doprowadza do przełomu. Kordian wygłasza na górze Mont Blanc monolog, będący nawiązaniem do [Wielkiej Improwizacji](./Dziady%20cz.%20III#Scena%20II%20-%20Wielka%20Improwizacja), w którym przyjmuje historiozoficzną ideę [winkelriedyzmu](./Filozofia%20romantyzmu#Winkelriedyzm%20-%20Juliusz%20Słowacki). #motyw/przemiana 
 
 ### Cytaty

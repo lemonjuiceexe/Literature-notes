@@ -3,10 +3,9 @@ finished: true
 ---
 #lektura 
 - **Autor**: Michaił Bułhakow
-- **Gatunek**: Powieść fantastyczna
+- **Gatunek**: Powieść
 - **Epoka**: [[Dwudziestolecie międzywojenne]] #epoka/dwudziestolecie 
 - **Data**: 1928 - 1940, wydana 1968
-
 Powieść fantastyczna z elementami satyry politycznej, obyczajowej.
 ## Świat przedstawiony
 ### Czas i miejsce akcji

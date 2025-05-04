@@ -11,15 +11,15 @@ Utwór to apoteoza młodości, gloryfikujący entuzjazm i zapał młodych, kryty
 
 Oda jest pomostem między epokami, łącząc cechy oświeceniowe (gatunek i styl, odwołania do mitologii, hasła jedności i braterstwa) z romantycznymi (wskazanie na ograniczenia rozumu, nawoływanie do rewolucyjnej przemiany, prowokacyjne obrazowanie poetyckie). 
 #### Cytaty
-	Bez serc, bez ducha, — to szkieletów ludy!
+> Bez serc, bez ducha, — to szkieletów ludy!
 
-	Młodości! ty nad poziomy
-	Wylatuj (...)
+> Młodości! ty nad poziomy
+Wylatuj (...)
 
-	To ziemia!
-	Patrz, jak nad jej wody trupie
-	Wzbił się jakiś płaz w skorupie.
-	Sam sobie sterem, żeglarzem, okrętem;
+> To ziemia!
+Patrz, jak nad jej wody trupie
+Wzbił się jakiś płaz w skorupie.
+Sam sobie sterem, żeglarzem, okrętem;
 
-	Dalej, bryło, z posad świata!
-	Nowemi cię pchniemy tory,
+> Dalej, bryło, z posad świata!
+Nowemi cię pchniemy tory,

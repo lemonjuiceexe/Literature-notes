@@ -23,4 +23,4 @@ finished: true
 W dramacie występuje konflikt tragiczny w postaci **konfliktu równouprawnionych racji**. Antygona jest postacią tragiczną, ponieważ musi wybierać pomiędzy prawem ludzkim a prawem boskim - nie ma tutaj dobrej decyzji, każdy z wyborów niesie za sobą jakiś rodzaj kary. 
 Podobne konflikty przeżywają Hajmon (który musi wybierać między lojalnością wobec ojca a narzeczonej) oraz Ismena (która musi wybierać między lojalnością wobec siostry a wobec prawa). 
 ### Władza
-Dramat stawia pytanie o granice władzy. Kreon, dążąc do utrzymania ładu, popada w pychę i despotyzm. Utwór ukazuje, że władza może prowadzić do pychy, a ostatecznie do upadku. 
+Dramat stawia pytanie o granice władzy. Kreon, dążąc do utrzymania ładu, popada w pychę i despotyzm. Utwór ukazuje, że władza może prowadzić do pychy, a ostatecznie do upadku. #motyw/władza 

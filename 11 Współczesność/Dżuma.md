@@ -27,7 +27,7 @@ finished: true
 
   > — Krótko mówiąc — powiedział Tarrou z prostotą — chciałbym wiedzieć, jak stać się świętym; tylko to mnie interesuje. 
   >   — Ale pan nie wierzy w Boga. 
-  >   — Właśnie. Znam dziś tylko jedno konkretne zagadnienie: czy można być świętym bez Boga.
+  >   — Właśnie. Znam dziś tylko jedno konkretne zagadnienie: czy można być świętym bez Boga. #cytat 
   
   ~ Jean Tarrou
 - **Joseph Grand** \[Żozef Grą] - urzędnik merostwa, skromny i nieporadny. Nigdy nie umie znaleźć słów, co rujnuje mu karierę (nie umie upomnieć się o obiecany awans). Od miesięcy pracuje nad powieścią, ale ciągle nie może zdecydować się na formę pierwszego zdania. #motyw/język Jest wzorowym obywatelem, porządnym i szczerym człowiekiem. Pracuje w formacjach sanitarnych jako sekretarz. Zapada na dżumę, ale jest jednym z pierwszych pacjentów, którzy zdrowieją dzięki serum Castela.
