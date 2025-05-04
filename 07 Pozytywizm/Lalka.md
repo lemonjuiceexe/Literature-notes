@@ -1,12 +1,11 @@
 ---
-finished: false
+finished: true
 ---
 #lektura 
 - **Autor**: Bolesław Prus
-- **Gatunek**: Powieść realistyczna
+- **Gatunek**: Powieść
 - **Epoka**: [[Pozytywizm]] #epoka/pozytywizm 
-- **Data**: 1889
-
+- **Data**: 1889 r.
 ## Świat przedstawiony
 ### Czas i miejsce akcji
 - **Czas akcji**: 1878-79
@@ -102,13 +101,11 @@ Kiedy źle kierowany dżokej wywrócił się na tańczących parach, pan Ignacy 
 #motyw/miasto
 Warszawa kojarzy się Wokulskiemu z **leżącą drabiną**. To ironiczny symbol, sugerujący brak możliwości rozwoju. Uważa, że jest ona źle i chaotycznie zagospodarowana. Jest miastem stagnacji, każdy jest zdeterminowany przez swoje pochodzenie i odgrywa swoje role, których nie można zmienić. Razi go kontrast między próżniactwem arystokracji a biedą Powiśla. #motyw/bieda 
 Paryż stanowi antytezę Warszawy. Podziwia logikę, według której zaplanowano całe miasto, które kojarzy mu się z gąsienicą - leży wzdłuż jednej osi. W Paryżu nie liczy się pochodzenie, a umiejętności, Wokulski uważa, że gdyby to tu się urodził, to mógłby osiągnąć wielkie rzeczy. 
-
 ### Znaczenie tytułu
-- Dosłowny
-- Izabela
-- Wokulski
-- Każdy - teatr
-
+Tytuł może być rozumiany dosłownie, jako obiekt sporu między Krzeszowską a Stawską. Można go też odczytywać metaforycznie, m. in. jako oznaczający
+- **Izabelę** - wychowaną na oderwaną od rzeczywistości lalkę salonową, której jedynym atutem jest uroda
+- **Wokulskiego** - lalka, marionetka w rękach Izabeli i świata. Mimo wolnej woli i najlepszych starań nie jest w stanie pokonać pewnych uwarunkowań - patrz [determinizm](#Klęska%20idealizmu). 
+- **Każdego człowieka** - realizacja toposu *theatrum mundi*, każdy człowiek jest jedynie lalką, marionetką, również patrz [determinizm](#Klęska%20idealizmu). 
 ### Cytaty
 > Stopiło się w nim dwu ludzi: romantyk sprzed roku sześćdziesiątego i pozytywista z siedemdziesiątego. To, co dla patrzących jest sprzeczne, w nim samym jest najzupełniej konsekwentne. 
  
