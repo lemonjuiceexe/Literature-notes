@@ -21,7 +21,6 @@ Mickiewicz pogłębia interpretację sensu cierpienia narodu w scenie V, *Widzen
 
 **Zakończenie**
 Choć może się to wydawać niesprawiedliwe, niezawinione cierpienie jest nieodłączną częścią życia. Zarówno w *księdze Hioba* jak i w trzeciej części *Dziadów*, jest ono częścią większego, niezrozumiałego dla ludzi planu. Bunt, jak widać na przykładzie Konrada, do niczego nie prowadzi. Należy więc z pokorą przyjmować wyroki losu, na które i tak nie mamy wpływu. 
-
 ### 2. Człowiek wobec niestałości świata
 Omów zagadnienie na podstawie znanych Ci fragmentów Księgi Koheleta. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 
@@ -37,7 +36,6 @@ Epikureizm z kolei zakłada, że należy czerpać przyjemność z każdej chwili
 
 **Zakończenie**
 Człowiek od zawsze mierzy się z problemem niestałości świata, w którego obliczu przyjmuje różne postawy: stoicki spokój i akceptację, epikurejską radość z chwili, czasem połączoną z biblijnym zawierzeniem Bogu. Różne systemy religijne i filozoficzne oferują różne sposoby oswojenia niestałości, co potwierdza uniwersalność tego problemu.
-
 ### 3. Wizja końca świata
 Omów zagadnienie na podstawie znanych Ci fragmentów Apokalipsy św. Jana. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 
@@ -60,3 +58,25 @@ Geneza wiersza ma kontekst biograficzny - Miłosz nawiązuje do 17.09.1939 kiedy
 
 **Zakończenie**
 Koniec świata jest tematem uniwersalnym, inspirującym artystów od zarania dziejów. Choć wizje mogą się od siebie kompletnie różnić (tak jak ta w Apokalipsie od tej Miłosza), to artyści od zawsze je tworzą, starając się odpowiedzieć na pytanie, jak dokładnie będzie wyglądał. 
+## Mitologia
+### 4. Poświęcenie się w imię wyższych wartości
+Omów zagadnienie na podstawie Mitologii (cz. I Grecja) Jana Parandowskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Bezinteresowne poświęcenie własnego szczęścia dla wyższych wartości jest godnym podziwu aktem, do którego są zdolni niektórzy ludzie. W literaturze widzimy wiele przykładów poświęcenia, często dla wspólnoty, w tym ojczyzny lub rodziny, wiary czy miłości. 
+
+**Mitologia**
+Jednym z najbardziej znanych mitów jest ten o tytanie Prometeuszu. Ukradł on z Olimpu ogień i podarował go ludziom, ucząc ich m. in. gotowania, uprawiania roli czy kucia metali. Nie spodobało się to Zeusowi, który skazał Prometeusza na męki, przykuwając go do skał Kaukazu. Codziennie orzeł wyjadał mu wątrobę, która później odrastała.
+Historia Prometeusza to historia buntu przeciwko niesprawiedliwej władzy. Tytan, łamiąc zakazy bogów, poświęcił sam siebie, aby pomóc ludziom, których kochał, a którzy bez jego pomocy byli na świecie kompletnie bezradni. 
+
+**Konrad Wallenrod**
+Konrad Wallenrod walczy o Litwę, swoją ojczyznę, z Krzyżakami. Realizuje podstępny plan, zdobywając w zakonie pozycję wielkiego mistrza i doprowadzając go do klęski, sabotując jego działania.
+Choć główny bohater w walce o ojczyznę kierował się podstępem zgodnie z zasadami makiawelizmu, nie przychodziło mu to z łatwością - było wynikiem moralnego dylematu. Podstępna walka, na którą się zdecydował, była sprzeczna z etosem rycerskim. Wallenrod poświęcał więc dla dobra ojczyzny swój honor. Ponadto rezygnuje ze związku z Aldoną. Młodzi decydują się na rozłąkę, ponieważ dobro ojczyzny jest ważniejsze od ich szczęścia. Wallenrod ostatecznie oddaje za swój kraj również życie, popełniając samobójstwo, kiedy jego podstęp zostaje odkryty.
+
+**Odprawa posłów greckich**
+**Dżuma**
+**Pieśń o Rolandzie**
+
+**Zakończenie**
+Literatura pokazuje, że człowiek jest zdolny do poświęcenia dla wyższych wartości. Bohaterowie poświęcają swoje osobiste szczęście, a czasem nawet życie, dla ojczyzny lub wspólnoty, co stanowi dowód ich odwagi i bezinteresowności. 
+
