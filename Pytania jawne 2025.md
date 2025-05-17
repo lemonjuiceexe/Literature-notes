@@ -1,6 +1,7 @@
 ---
 finished: false
 ---
+## Biblia
 ### 1. Motyw cierpienia niezawinionego
 Omów zagadnienie na podstawie znanych Ci fragmentów Księgi Hioba. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 
@@ -37,3 +38,25 @@ Epikureizm z kolei zakłada, że należy czerpać przyjemność z każdej chwili
 **Zakończenie**
 Człowiek od zawsze mierzy się z problemem niestałości świata, w którego obliczu przyjmuje różne postawy: stoicki spokój i akceptację, epikurejską radość z chwili, czasem połączoną z biblijnym zawierzeniem Bogu. Różne systemy religijne i filozoficzne oferują różne sposoby oswojenia niestałości, co potwierdza uniwersalność tego problemu.
 
+### 3. Wizja końca świata
+Omów zagadnienie na podstawie znanych Ci fragmentów Apokalipsy św. Jana. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**: Skoro coś istnieje i miało swój początek, to musi mieć też swój koniec. Ludzie od wieków zastanawiają się więc nad tym jak będzie wyglądał i kiedy nastąpi koniec świata. Przedstawiane w kulturze wizje tego wydarzenia często są od siebie kompletnie różne.
+
+**Apokalipsa św. Jana**
+Apokalipsa św. Jana to chyba najbardziej tajemnicza z biblijnych ksiąg, ze względu na swoją wieloznaczność stanowiąca obiekt wielu sprzecznych interpretacji. Obraz końca świata, choć pozornie katastroficzny, jest tak naprawdę optymistyczny dla sprawiedliwych.
+Koniec świata rozpoczyna się od otwierania kolejnych z siedmiu pieczęci zamykających księgę. Rozlega się dźwięk siedmiu trąb, a na ziemię spadają kolejne kataklizmy - wojna, głód, śmierć, ogień z nieba, szarańcza, zatrucie wód i morze krwi. Na końcu następuje Sąd Ostateczny. 
+Wizja ta, choć straszna, kończy się zbawieniem sprawiedliwych i powstaniem nowego Jeruzalem - Bóg kończy śmierć, cierpienie i zło.
+
+**Piosenka o końcu świata**
+Wiersz Miłosza przedstawia kompletnie odmienną wersję końca świata. Pokazuje, że nastąpi on w zupełnie zwykłym dniu, w którym wszyscy będą zajmowali się swoimi sprawami i nawet tego nie zauważą. Autor bezpośrednio nawiązuje nawet do Apokalipsy św. Jana:
+> A którzy czekali błyskawic i gromów,  
+Są zawiedzeni.  
+A którzy czekali znaków i archanielskich trąb,  
+Nie wierzą, że staje się już.
+
+Mówi o naiwności tych, którzy liczą na jakieś specjalne wydarzenia. Na koniec wiersza zaznacza też, że *innego końca świata nie będzie*. 
+Geneza wiersza ma kontekst biograficzny - Miłosz nawiązuje do 17.09.1939 kiedy Rosjanie napadli na Polskę. Mówi o kompletnie zwykłym dniu. Nikt nie spodziewał się, że te wydarzenia wieszczą rychły koniec świata - drugą wojnę światową i Zagładę.
+
+**Zakończenie**
+Koniec świata jest tematem uniwersalnym, inspirującym artystów od zarania dziejów. Choć wizje mogą się od siebie kompletnie różnić (tak jak ta w Apokalipsie od tej Miłosza), to artyści od zawsze je tworzą, starając się odpowiedzieć na pytanie, jak dokładnie będzie wyglądał. 
