@@ -115,3 +115,26 @@ Karusia nie może pogodzić się ze śmiercią ukochanego Jasia. Jej cierpienie 
 
 **Zakończenie**
 Miłość jest uczuciem wyjątkowym i niezwykle silnym. Zarówno Orfeuszowi jak i Karusi daje możliwość przekroczenia granic wyznaczonych przez śmierć, rozsądek i prawa natury. 
+
+## Iliada
+### 7. Heroizm jako postawa człowieka w zmaganiu się z losem
+Omów zagadnienie na podstawie znanych Ci fragmentów Iliady Homera. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Heroizm to szlachetna postawa, cechująca się odwagą i poświęceniem. Nazwa pochodzi z kultury greckiej, w której heros oznaczał dziecko boga i człowieka. Dziś jest jedną z postaw umożliwiających człowiekowi stawianie czoła przeciwnościom losu. 
+
+**Iliada**
+Achilles jest największym wojownikiem Achajów. Jego życie jest zdeterminowane przez przepowiednię - może żyć długo, lecz umrzeć zapomnianym lub zginąć młodo i chwalebnie. Decydując się wziąć udział w wojnie trojańskiej, która nie mogła zostać wygrana bez niego, prezentuje postawę heroiczną - poświęca swoje życie dla większej sprawy. 
+Hektor prezentuje odmienny rodzaj heroizmu, oparty na trosce o ojczyznę i rodzinę. Ma świadomość, że Troja jest skazana na upadek a on na śmierć - losy wojny są z góry przewidziane przez wyrocznie. To jednak nie powstrzymuje go przed stawieniem czoła Achillesowi, poświęcając się dla ojczyzny i rodziny. Śmierć Hektora jest symbolem tragicznego heroizmu, w ramach którego człowiek skazany na klęskę nie traci godności i odwagi.
+
+**Dżuma**
+U Camusa heroizm nie przyjmuje formy wielkich bitew, a przejawia się w osobistej, codziennej walce ze złem i absurdem świata. Doktor Rieux poświęca cały swój czas i energię na walkę z epidemią i pomaganie innym. Doskonale zdaje sobie sprawę, że jego zwycięstwa mogą być tylko chwilowe i nigdy nie przeważą szali na niekorzyść epidemii - nie jest to jednak dla niego powód, aby zaprzestać walki:
+> — Tak — potwierdził Tarrou — rozumiem. Ale pańskie zwycięstwa zawsze będą tymczasowe, tylko tyle. 
+> Rieux jakby się zasępił. 
+> — Zawsze, wiem o tym! Ale to nie powód, żeby zaniechać walki.
+> — Nie, to nie powód. (…)
+
+Rieux nie oczekuje zwycięstwa ani nagrody, zarówno w tym życiu, jak i wiecznym - nie wierzy w Boga. Działa, ponieważ wierzy, że tylko tak będzie człowiekiem i że to sprzeciw przeciwko złu stanowi sens życia. 
+
+**Zakończenie**
+Heroizm jest ponadczasową postawą człowieka, który z odwagą i poświęceniem mierzy się z przeciwnościami losu. Może przybierać kompletnie różne formy - odwagi na polu bitwy (Achilles), wzięcia odpowiedzialności za ojczyznę (Hektor) czy cichej, konsekwentnej pracy (Rieux). Zawsze jednak opiera się na jakiegoś rodzaju działaniu dla wyższych wartości. 
