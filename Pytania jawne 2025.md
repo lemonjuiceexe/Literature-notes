@@ -178,3 +178,23 @@ Makbet uznał, że przepowiednie usprawiedliwiają jego czyny a przeznaczenie go
 
 **Zakończenie**
 Przeznaczenie odgrywa kluczową rolę w kształtowaniu losów bohaterów. Choć każde z nich czeka zguba, postawa Antygony, z godnością przyjmującej swój los, jest kompletnie odmienna od zachowania jej ojca, próbującego przechytrzyć fatum czy Makbeta, przekonanego o tym, że przeznaczenie zapewnia mu nietykalność.
+# Średniowiecze
+## Rozmowa Mistrza Polikarpa ze Śmiercią
+### 10. Motyw tańca śmierci
+Omów zagadnienie na podstawie znanych Ci fragmentów Rozmowy Mistrza Polikarpa ze Śmiercią. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Motyw tańca śmierci, danse macabre, wykształcił się w średniowieczu jako przypomnienie, że śmierć czeka wszystkich. W epoce, której mottem było memento mori, a która równocześnie była zdominowana przez system feudalny i pełna nierówności, potrzebne było przypomnienie, że chociaż wobec śmierci wszyscy są równi.
+Jest to motyw występujący głównie w malarstwie, przedstawiający taneczny korowód prowadzony przez śmierć. Jest on złożony z przedstawicieli wszystkich stanów i zawodów, co podkreśla równość wobec śmierci, bez względu na płeć, wiek, mądrość, stan, pochodzenie, majątek czy zawód.
+
+**Rozmowa Mistrza Polikarpa ze Śmiercią**
+Bóg wysłuchuje prośby Polikarpa, który chciał się spotkać ze Śmiercią. Ta przedstawia się mistrzowi jako istota rzetelnie wykonująca swoją pracę. Przechwala się, że nikt nie może jej uciec, zabiera każdego, nie obowiązuje jej czas ani przestrzeń. 
+W utworze przedstawiona jest groteskowo - wygląda groźnie, makabrycznie, a zachowuje się w sposób komiczny - jest gadatliwa, chwali się osiągnięciami i opowiada anegdoty. To również nawiązuje do motywu danse macabre, łączącego poważną tematykę śmierci z komizmem tańca.
+
+**Siódma pieczęć**
+Film w reżyserii Ingmara Bergmana stanowi współczesną realizację motywu danse macabre. Film stawia pytania o sens życia, cierpienia i śmierci.
+Rycerz Antonius Block wraca z wyprawy krzyżowej razem z giermkiem Jensem. Przemierzają rodzinną Szwecję toczoną epidemią dżumy. Block rozgrywa ze śmiercią partię szachów o swoje życie.
+Śmierć jest spersonifikowana i przedstawiona w komicznych sytuacjach - np. piłuje drzewo, na którym siedzą bohaterowie. W końcowej scenie filmu widzimy dosłowny taniec śmierci, korowód, w którym śmierć prowadzi do tańca prawie wszystkich bohaterów filmu, oszczędzając jedynie rodzinę aktorów. Finał filmu podkreśla, że jedynie prosta radość z życia, jaką prezentowali Mia, Jof i ich syn Michel, może stanowić pewnego rodzaju ucieczkę przed śmiercią.
+
+**Zakończenie**
+Danse macabre to popularny motyw, przypominający o nieuchronności śmierci (memento mori) i przemijalności ludzkiego życia (vanitas vanitatum et omnia vanitas). Przede wszystkim jednak podkreśla równość wszystkich wobec śmierci. Można się na nią jedynie przygotować, poprzez czerpanie z życia przyjemności.
