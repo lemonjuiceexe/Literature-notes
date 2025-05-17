@@ -79,4 +79,21 @@ Choć główny bohater w walce o ojczyznę kierował się podstępem zgodnie z z
 
 **Zakończenie**
 Literatura pokazuje, że człowiek jest zdolny do poświęcenia dla wyższych wartości. Bohaterowie poświęcają swoje osobiste szczęście, a czasem nawet życie, dla ojczyzny lub wspólnoty, co stanowi dowód ich odwagi i bezinteresowności. 
+### 5. Problematyka winy i kary
+Omów zagadnienie na podstawie Mitologii (cz. I Grecja) Jana Parandowskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 
+**Teza**: Motyw winy i kary jest jednym z najpopularniejszych w literaturze. Wyraża przekonanie o istnieniu sprawiedliwości - każde zło będzie, prędzej czy później, ukarane. Nawet jeśli człowiek nie będzie w stanie tej sprawiedliwości wymierzyć, zrobi to za niego natura. 
+
+**Mit o Syzyfie**
+Syzyf był królem Koryntu, ulubieńcem bogów. Często bywał zapraszany na Olimp, podkradał ambrozję i rozpowiadał boskie sekrety. Do czasu było to tolerowane, później jednak Zeus się rozwścieczył i wysłał po niego bożka śmierci, Tanatosa. Syzyf uwięził Tanatosa, przez co ludzie przestali umierać. Bogowie to zauważyli i uwolnili Tanatosa, Syzyf zdążył jednak powiedzieć żonie, by nie składała ofiar pogrzebowych. Przez to jego dusza nie mogła przeprawić się przez Styks, więc Hades pozwolił mu wrócić na ziemię, by dopilnować pochówku, co Syzyf wykorzystał by znów ukrywać się przed bogami.
+Ostatecznie został schwytany i skazany na wieczne wtaczanie na górę głazu, który każdorazowo staczał się na sam dół. 
+Winą Syzyfa była pycha. Mimo ogromnego sprytu, który umożliwił mu tak długie uciekanie przed sprawiedliwością, ostatecznie nie przechytrzył bogów, ponieważ na dłuższą metę jest to niemożliwe.
+
+**Zbrodnia i kara**
+Rodion Raskolnikow był biednym byłym studentem, który, uważając się za nadczłowieka, postanowił zabić lichwiarkę. Jest przekonany o słuszności tego czynu, jako że lichwiarka była społecznym pasożytem.
+Wina Rodiona jest oczywista, a kara nieunikniona. Mimo tego, że jest w stanie sprawnie unikać wymiaru sprawiedliwości, nie może uciec przed własną, ludzką naturą. Sumienie buntuje się przeciw zbrodni, dręczy go koszmarami, Raskolnikow zapada na fizyczną chorobę. Kara, jakiej ostatecznie podlega po przyznaniu się do winy - zesłanie na Syberię - jest drugorzędna, wobec konsekwencji, jakie czekały go ze strony własnego ciała.
+
+**Świtezianka**
+
+**Zakończenie**
+Motyw winy i kary pełni rolę przede wszystkim dydaktyczną, przypominając o odpowiedzialności za czyny i nieuniknioności sprawiedliwości. Od konsekwencji nie może uratować winnego spryt i przebiegłość - ostatecznie kara dosięgnie każdego, kto zawinił - w postaci boskiej (Syzyf) czy własnej reakcji (Raskolnikow).
