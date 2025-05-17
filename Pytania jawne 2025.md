@@ -167,21 +167,21 @@ Omów zagadnienie na podstawie *Antygony* Sofoklesa. W swojej odpowiedzi uwzglę
 Przeznaczenie od zawsze fascynowało twórców. Bohaterowie mogą przyjmować wobec niego różne postawy, lecz z reguły okazuje się ono niemożliwe do pokonania.
 
 **Antygona**
-Nad rodem Labdakidów, z którego pochodzi Antygona, ciąży klątwa. Jej ojciec, Edyp, był przykładem postaci, która próbując uniknąć wyroków losu, nieświadomie je wypełnia. 
+Nad rodem Labdakidów, z którego pochodzi Antygona, ciążyła klątwa. Jej ojciec, Edyp, był przykładem postaci, która próbując uniknąć wyroków losu, nieświadomie je wypełnia. 
 W *Antygonie* fatum przejawia się jako nieuchronność tragicznych wydarzeń - choć bohaterowie mają pewien wpływ na swoje działania, to ich los jest już zdeterminowany. Antygona staje co prawda przed wyborem pomiędzy prawem ludzkim a boskim, jednak niezależnie od jej decyzji czeka ją zguba - w tym sensie jej wybór jest jedynie pozorny. 
 Antygona wybiera postawę godnego postępowania mimo tragizmu swojej sytuacji. Podejmuje zgodne ze swoją moralnością decyzje i nie boi się ponieść ich konsekwencji. Nie walczy z losem, lecz z godnością przyjmuje jego wyroki.
 
 **Makbet**
 Kompletnie inną sytuację widzimy w *Makbecie*. Pozornie może się wydawać, że losy głównego bohatera są determinowane przez przepowiednie, jednak nie bez przyczyny nazywa się ten utwór tragedią wyboru. 
 Tak naprawdę wszystkie działania Makbeta są konsekwencjami jego własnych decyzji. Łatwo to zauważyć, jeśli tylko porównać jak zareagował na słowa wiedźm Banko (ignorując je), a jak Makbet. Zabicie Duncana, a następnie Banka i rodziny Makdufa są decyzjami Makbeta, do których nikt, w tym przeznaczenie, go nie zmusza. 
-Makbet uznał, że przepowiednie usprawiedliwiają jego czyny a przeznaczenie go chroni. Jego historia jest przestrogą przed upadkiem człowieka i przypomina o tym, że działanie sił nadprzyrodzonych nie zwalnia nas z odpowiedzialności za własne czyny. 
+Makbet uznał, że przepowiednie usprawiedliwiają jego czyny a przeznaczenie go chroni. W praktyce musiał odpowiedzieć za swoje zbrodnie - sprawiedliwość ostatecznie została wymierzona. Jego historia jest przestrogą przed upadkiem człowieka i przypomina o tym, że działanie sił nadprzyrodzonych nie zwalnia nas z odpowiedzialności za własne czyny. 
 
 **Zakończenie**
 Przeznaczenie odgrywa kluczową rolę w kształtowaniu losów bohaterów. Choć każde z nich czeka zguba, postawa Antygony, z godnością przyjmującej swój los, jest kompletnie odmienna od zachowania jej ojca, próbującego przechytrzyć fatum czy Makbeta, przekonanego o tym, że przeznaczenie zapewnia mu nietykalność.
 # Średniowiecze
 ## Rozmowa Mistrza Polikarpa ze Śmiercią
 ### 10. Motyw tańca śmierci
-Omów zagadnienie na podstawie znanych Ci fragmentów Rozmowy Mistrza Polikarpa ze Śmiercią. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+Omów zagadnienie na podstawie znanych Ci fragmentów *Rozmowy Mistrza Polikarpa ze Śmiercią*. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 
 **Teza**
 Motyw tańca śmierci, danse macabre, wykształcił się w średniowieczu jako przypomnienie, że śmierć czeka wszystkich. W epoce, której mottem było memento mori, a która równocześnie była zdominowana przez system feudalny i pełna nierówności, potrzebne było przypomnienie, że chociaż wobec śmierci wszyscy są równi.
@@ -198,3 +198,78 @@ Rycerz Antonius Block wraca z wyprawy krzyżowej razem z giermkiem Jensem. Przem
 
 **Zakończenie**
 Danse macabre to popularny motyw, przypominający o nieuchronności śmierci (memento mori) i przemijalności ludzkiego życia (vanitas vanitatum et omnia vanitas). Przede wszystkim jednak podkreśla równość wszystkich wobec śmierci. Można się na nią jedynie przygotować, poprzez czerpanie z życia przyjemności.
+
+## Pieśń o Rolandzie
+### 11. Średniowieczny etos rycerski
+Omów zagadnienie na podstawie znanych Ci fragmentów *Pieśni o Rolandzie*. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Średniowieczny etos rycerski to zbiór zasad moralnych i obyczajowych, które wyznaczały sposób życia wzorowego średniowiecznego rycerza. Najważniejsze cechy, których wymagał etos, to honor i uczciwość, odwaga, gotowość do poświęceń, lojalność wobec Boga, władcy, ojczyzny, przyjaciół, obrona słabszych, hojność i szlachetność wobec kobiet.
+
+**Pieśń o Rolandzie**
+Główny bohater *Pieśni o Rolandzie* stanowi wzór rycerza. Wykazuje się odwagą i honorem - gdy tylną straż armii Karola Wielkiego atakują Saraceni, Roland stawia im czoło, mimo ich przytłaczającej przewagi. Wie, że honor wymaga od niego walki do końca, nawet za cenę życia. Odmawia zadęcia w róg w celu wezwania pomocy, postrzegając to za akt tchórzostwa.
+Roland umiera zgodnie z ars moriendi, w ostatnich chwilach życia żałując za grzechy i myśląc o swojej ojczyźnie, co podkreśla jego całkowite oddanie służbie. Ginie z mieczem w ręku, twarzą do wroga.
+
+**Potop**
+Średniowieczny etos rycerski stanowił punkt odniesienia do kreacji postaci pana Michała Wołodyjowskiego, zwanego także *małym rycerzem*. Uchodził za wzór, był honorowy, szlachetny i wolny od wad - w przeciwieństwie do Kmicica. Był wybitnym i pobożnym żołnierzem. W trakcie pojedynku z Kmicicem nakazał mu podniesienie z ziemi wytrąconej z ręki szabli, co było zgodne z etosem rycerskim i nakazem honorowej, równej walki. Po pokonaniu rywala zabronił dobijania go, okazując miłosierdzie i wzywając medyka. 
+
+**Zakończenie**
+Średniowieczny etos rycerski zdefiniował cnoty honorowego rycerza. Był on tak ważny, że pozostał punktem odniesienia również dla twórców w późniejszych epokach, pozostając aktualnym mimo zmieniających się czasów.
+
+# Renesans
+## Makbet
+### 12. Moralna odpowiedzialność za czyny
+Omów zagadnienie na podstawie *Makbeta* Williama Szekspira. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Każdy człowiek, jako istota myśląca, jest moralnie odpowiedzialny za swoje czyny. Każde zło będzie, prędzej czy później, ukarane. Nawet jeśli człowiek nie będzie w stanie tej sprawiedliwości wymierzyć, zrobi to za niego natura. 
+
+**Makbet**
+Pozornie może się wydawać, że losy głównego bohatera są determinowane przez przepowiednie, a zatem nie może on ponosić odpowiedzialności za swoje czyny. Jednak nie bez przyczyny nazywa się ten utwór tragedią wyboru. 
+Tak naprawdę wszystkie działania Makbeta są konsekwencjami jego własnych decyzji. Łatwo to zauważyć, jeśli tylko porównać jak zareagował na słowa wiedźm Banko (ignorując je), a jak Makbet. Zabicie Duncana, a następnie Banka i rodziny Makdufa są decyzjami Makbeta, do których nikt, w tym przeznaczenie, go nie zmusza. 
+Makbet uznał, że przepowiednie usprawiedliwiają jego czyny a przeznaczenie go chroni. W praktyce musiał odpowiedzieć za swoje zbrodnie - sprawiedliwość ostatecznie została wymierzona. Jego historia jest przestrogą przed upadkiem człowieka i przypomina o tym, że działanie sił nadprzyrodzonych nie zwalnia nas z odpowiedzialności za własne czyny.
+
+**Zbrodnia i kara**
+Rodion Raskolnikow był biednym byłym studentem, który, uważając się za nadczłowieka, postanowił zabić lichwiarkę. Jest przekonany o słuszności tego czynu, jako że lichwiarka była społecznym pasożytem. Wierzył, że jako nadczłowiek, Napoleon, ma prawo do łamania zasad moralnych i nie poniesie za to odpowiedzialności.
+Wina Rodiona jest oczywista, a kara nieunikniona. Mimo tego, że jest w stanie sprawnie unikać wymiaru sprawiedliwości, nie może uciec przed własną, ludzką naturą. Sumienie buntuje się przeciw zbrodni, dręczy go koszmarami, Raskolnikow zapada na fizyczną chorobę. Kara, jakiej ostatecznie podlega po przyznaniu się do winy - zesłanie na Syberię - jest drugorzędna, wobec konsekwencji, jakie czekały go ze strony własnego ciała.
+
+**Zakończenie**
+Każdy człowiek ponosi odpowiedzialność za swoje czyny, nawet jeśli wydaje mu się, że okoliczności go z tego zwalniają. Ani społeczny interes ani przeznaczenie nie mogą usprawiedliwiać morderstwa, o czym przekonali się Makbet i Raskolnikow. Kara za łamanie zasad moralnych jest nieunikniona i zostanie wymierzona przez ludzi lub naturę.
+
+### 13. Czy człowiek decyduje o własnym losie?
+Omów zagadnienie na podstawie *Makbeta* Williama Szekspira. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+To, czy człowiek może decydować o własnym losie, czy też jest jedynie marionetką w rękach losu, od zarania dziejów pozostaje przedmiotem sporów oraz inspiracją dla artystów. Choć są czynniki, na które mamy wpływ, każdy z nas musi się również podporządkować siłom zewnętrznym, które również mają na nas wpływ.
+
+**Makbet**
+Pozornie może się wydawać, że losy głównego bohatera dramatu *Makbet* są determinowane przez przepowiednie, jednak nie bez przyczyny nazywa się ten utwór tragedią wyboru. 
+Tak naprawdę wszystkie działania Makbeta są konsekwencjami jego własnych decyzji. Łatwo to zauważyć, jeśli tylko porównać jak zareagował na słowa wiedźm Banko (ignorując je), a jak Makbet. Zabicie Duncana, a następnie Banka i rodziny Makdufa są decyzjami Makbeta, do których nikt, w tym przeznaczenie, go nie zmusza. 
+Makbet uznał, że przepowiednie usprawiedliwiają jego czyny a przeznaczenie go chroni. W praktyce musiał odpowiedzieć za swoje zbrodnie - sprawiedliwość ostatecznie została wymierzona. Jego historia jest przestrogą przed upadkiem człowieka i przypomina o tym, że działanie sił nadprzyrodzonych nie zwalnia nas z odpowiedzialności za własne czyny. 
+
+**Antygona**
+Nad rodem Labdakidów, z którego pochodzi Antygona, ciążyła klątwa. Jej ojciec, Edyp, był przykładem postaci, która próbując uniknąć wyroków losu, nieświadomie je wypełnia. 
+W *Antygonie* fatum przejawia się jako nieuchronność tragicznych wydarzeń - choć bohaterowie mają pewien wpływ na swoje działania, to ich los jest już zdeterminowany. Antygona staje przed wyborem pomiędzy prawem ludzkim a boskim, co ukazuje jej wpływ na własne życie - mogłaby uciekać przed odpowiedzialnością decyzji, a wybiera postawę godnego postępowania mimo tragizmu swojej sytuacji. Ostatecznie jednak niezależnie od jej decyzji czeka ją zguba - w tym sensie jej los jest już zdeterminowany i nie zależy od niej.
+
+**Teza**
+Człowiek decyduje o swoim losie, choć jedynie w ograniczonym stopniu. Mimo tego, że czasem nie mamy wpływu na wszystkie okoliczności, wciąż możemy zachować godność, jak Antygona. Trzeba też pamiętać, że działanie zewnętrznych sił nie zwalnia nas z odpowiedzialności za nasze czyny. 
+### 14. Jaki wpływ na człowieka ma sprawowanie przez niego władzy?
+Omów zagadnienie na podstawie Makbeta Williama Szekspira. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+> Każda władza deprawuje, a władza absolutna deprawuje absolutnie #cytat 
+
+~ Lord Acton
+Zgodnie ze słowami lorda Actona, władza ma na ludzi negatywny, deprawujący wpływ. Stanowi pokusę, której trudno się oprzeć i nie przekraczać danych sobie prerogatyw.
+
+**Makbet**
+Dla Makbeta wizja władzy stanowiła ogromną pokusę. Na początku dramatu jest on dobrym żołnierzem, lojalnym poddanym i przyjacielem króla Duncana. Jednak sama wizja sprawowania władzy, jaką podsuwają mu wiedźmy, wystarcza, aby Makbet zamordował Duncana.
+Samo sprawowanie władzy popychało Makbeta ku dalszym zbrodniom. W obawie przed utratą korony zamordował przyjaciela Banka i próbował zabić również jego syna, Fleance'a. Następnie zleca wymordowanie rodziny Makdufa, w którym widzi zagrożenie. Władza doprowadziła do kompletnego upadku Makbeta, który sprawował w Szkocji despotyczne rządy.
+
+**Antygona**
+W *Antygonie* również widzimy zgubny wpływ władzy na człowieka. Kreon, który przejął władzę w Tebach po śmierci Eteoklesa i Polinejkesa, zakazał grzebać tego drugiego, uznając go za zdrajcę. Było to postąpieniem wbrew prawom boskim. Kreon wykazał się pychą, hybris, uznał, że jego władza uprawnia go do nagięcia boskich zasad zgodnie z pojmowaną przez siebie racją stanu. To właśnie ta pycha, obudzona w nim przez sprawowaną władzę, doprowadziła go do upadku - śmierci siostrzenicy, syna i żony.
+
+**Odprawa posłów greckich**
+
+**Zakończenie**
+Władza ma na ludzi negatywny wpływ, stanowiąc trudną do przezwyciężenia pokusę i prowadząc ich do upadku. 
