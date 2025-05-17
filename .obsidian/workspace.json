@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "motyw/bóg",
+                "query": "motyw/vani",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,8 +186,9 @@
   },
   "active": "00b1266f93e08481",
   "lastOpenFiles": [
-    "03 Renesans/Odprawa posłów greckich.md",
+    "11 Współczesność/Miejsce.md",
     "Pytania jawne 2025.md",
+    "03 Renesans/Odprawa posłów greckich.md",
     "Untitled",
     "11 Współczesność/Dżuma.md",
     "10 II wojna światowa/Zdążyć przed Panem Bogiem.md",
@@ -211,7 +213,6 @@
     "06 Romantyzm/Oda do młodości.md",
     "06 Romantyzm/Król olch.md",
     "06 Romantyzm/Kordian.md",
-    "06 Romantyzm/Konrad Wallenrod.md",
     "11 Współczesność",
     "Sztuka/Barok/Jan Vermeer - Dziewczyna z perłą.png",
     "Sztuka/Barok/Diego Velázquez - Wenus z lustrem.png",
