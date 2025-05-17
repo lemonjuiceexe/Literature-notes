@@ -1,9 +1,10 @@
 ---
 finished: false
 ---
+# Antyk
 ## Biblia
 ### 1. Motyw cierpienia niezawinionego
-Omów zagadnienie na podstawie znanych Ci fragmentów Księgi Hioba. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+Omów zagadnienie na podstawie znanych Ci fragmentów *Księgi Hioba*. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 
 **Teza** 
 Cierpienie człowieka nie zawsze jest karą za winy, czasem wynika z kompletnie niezależnych od niego, zewnętrznych czynników. Jest to temat, który od zawsze wzbudza nasz sprzeciw, chcielibyśmy wierzyć, że świat jest sprawiedliwy. W teologii powstała wręcz cała gałąź, teodycea, która zajmuje się problemem pogodzenia istnienia dobrego Boga i zła. 
@@ -22,7 +23,7 @@ Mickiewicz pogłębia interpretację sensu cierpienia narodu w scenie V, *Widzen
 **Zakończenie**
 Choć może się to wydawać niesprawiedliwe, niezawinione cierpienie jest nieodłączną częścią życia. Zarówno w *księdze Hioba* jak i w trzeciej części *Dziadów*, jest ono częścią większego, niezrozumiałego dla ludzi planu. Bunt, jak widać na przykładzie Konrada, do niczego nie prowadzi. Należy więc z pokorą przyjmować wyroki losu, na które i tak nie mamy wpływu. 
 ### 2. Człowiek wobec niestałości świata
-Omów zagadnienie na podstawie znanych Ci fragmentów Księgi Koheleta. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+Omów zagadnienie na podstawie znanych Ci fragmentów *Księgi Koheleta*. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 
 **Teza**: Niestałość świata jest faktem trudnym do zaakceptowania. Zmienność i przemijalność świata budzi w nas poczucie niepokoju i bezradności. Można przyjmować wobec niej różne postawy - starać się czerpać z życia pełnymi garściami lub oddać się Bogu, licząc na zbawienie i życie wieczne.
 
@@ -37,7 +38,7 @@ Epikureizm z kolei zakłada, że należy czerpać przyjemność z każdej chwili
 **Zakończenie**
 Człowiek od zawsze mierzy się z problemem niestałości świata, w którego obliczu przyjmuje różne postawy: stoicki spokój i akceptację, epikurejską radość z chwili, czasem połączoną z biblijnym zawierzeniem Bogu. Różne systemy religijne i filozoficzne oferują różne sposoby oswojenia niestałości, co potwierdza uniwersalność tego problemu.
 ### 3. Wizja końca świata
-Omów zagadnienie na podstawie znanych Ci fragmentów Apokalipsy św. Jana. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+Omów zagadnienie na podstawie znanych Ci fragmentów *Apokalipsy św. Jana*. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 
 **Teza**: Skoro coś istnieje i miało swój początek, to musi mieć też swój koniec. Ludzie od wieków zastanawiają się więc nad tym jak będzie wyglądał i kiedy nastąpi koniec świata. Przedstawiane w kulturze wizje tego wydarzenia często są od siebie kompletnie różne.
 
@@ -60,7 +61,7 @@ Geneza wiersza ma kontekst biograficzny - Miłosz nawiązuje do 17.09.1939 kiedy
 Koniec świata jest tematem uniwersalnym, inspirującym artystów od zarania dziejów. Choć wizje mogą się od siebie kompletnie różnić (tak jak ta w Apokalipsie od tej Miłosza), to artyści od zawsze je tworzą, starając się odpowiedzieć na pytanie, jak dokładnie będzie wyglądał. 
 ## Mitologia
 ### 4. Poświęcenie się w imię wyższych wartości
-Omów zagadnienie na podstawie Mitologii (cz. I Grecja) Jana Parandowskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+Omów zagadnienie na podstawie *Mitologii (cz. I Grecja)* Jana Parandowskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 
 **Teza**
 Bezinteresowne poświęcenie własnego szczęścia dla wyższych wartości jest godnym podziwu aktem, do którego są zdolni niektórzy ludzie. W literaturze widzimy wiele przykładów poświęcenia, często dla wspólnoty, w tym ojczyzny lub rodziny, wiary czy miłości. 
@@ -80,7 +81,7 @@ Choć główny bohater w walce o ojczyznę kierował się podstępem zgodnie z z
 **Zakończenie**
 Literatura pokazuje, że człowiek jest zdolny do poświęcenia dla wyższych wartości. Bohaterowie poświęcają swoje osobiste szczęście, a czasem nawet życie, dla ojczyzny lub wspólnoty, co stanowi dowód ich odwagi i bezinteresowności. 
 ### 5. Problematyka winy i kary
-Omów zagadnienie na podstawie Mitologii (cz. I Grecja) Jana Parandowskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+Omów zagadnienie na podstawie *Mitologii (cz. I Grecja)* Jana Parandowskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 
 **Teza**: Motyw winy i kary jest jednym z najpopularniejszych w literaturze. Wyraża przekonanie o istnieniu sprawiedliwości - każde zło będzie, prędzej czy później, ukarane. Nawet jeśli człowiek nie będzie w stanie tej sprawiedliwości wymierzyć, zrobi to za niego natura. 
 
@@ -99,7 +100,7 @@ Wina Rodiona jest oczywista, a kara nieunikniona. Mimo tego, że jest w stanie s
 Motyw winy i kary pełni rolę przede wszystkim dydaktyczną, przypominając o odpowiedzialności za czyny i nieuniknioności sprawiedliwości. Od konsekwencji nie może uratować winnego spryt i przebiegłość - ostatecznie kara dosięgnie każdego, kto zawinił - w postaci boskiej (Syzyf) czy własnej reakcji (Raskolnikow).
 
 ### 6. Miłość silniejsza niż śmierć
-Omów zagadnienie na podstawie Mitologii (cz. I Grecja) Jana Parandowskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+Omów zagadnienie na podstawie *Mitologii (cz. I Grecja)* Jana Parandowskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 
 **Teza**
 Miłość jest najsilniejszym z uczuć i od zawsze fascynuje artystów. Jej moc jest tak wielka, że potrafi pokonać nawet śmierć. 
@@ -118,7 +119,7 @@ Miłość jest uczuciem wyjątkowym i niezwykle silnym. Zarówno Orfeuszowi jak 
 
 ## Iliada
 ### 7. Heroizm jako postawa człowieka w zmaganiu się z losem
-Omów zagadnienie na podstawie znanych Ci fragmentów Iliady Homera. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+Omów zagadnienie na podstawie znanych Ci fragmentów *Iliady* Homera. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 
 **Teza**
 Heroizm to szlachetna postawa, cechująca się odwagą i poświęceniem. Nazwa pochodzi z kultury greckiej, w której heros oznaczał dziecko boga i człowieka. Dziś jest jedną z postaw umożliwiających człowiekowi stawianie czoła przeciwnościom losu. 
@@ -138,3 +139,42 @@ Rieux nie oczekuje zwycięstwa ani nagrody, zarówno w tym życiu, jak i wieczny
 
 **Zakończenie**
 Heroizm jest ponadczasową postawą człowieka, który z odwagą i poświęceniem mierzy się z przeciwnościami losu. Może przybierać kompletnie różne formy - odwagi na polu bitwy (Achilles), wzięcia odpowiedzialności za ojczyznę (Hektor) czy cichej, konsekwentnej pracy (Rieux). Zawsze jednak opiera się na jakiegoś rodzaju działaniu dla wyższych wartości. 
+
+## Antygona
+### 8. Konflikt racji moralnych
+Omów zagadnienie na podstawie *Antygony* Sofoklesa. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Konflikt racji moralnych jest jednym z podstawowych źródeł tragizmu. Jest to sytuacja, w której człowiek jest postawiony przed wyborem wzajemnie się wykluczających racji. 
+
+**Antygona**
+Klasyczny model równouprawnionych racji został wprowadzony w tragedii antycznej. Idealnym przykładem jest *Antygona*, w której główna bohaterka zmuszona jest do podjęcia wyboru - może przestrzegać prawa boskiego lub ludzkiego.
+Eteokles i Polinejkes, bracia Antygony, mieli rządzić Tebami na zmianę, Eteokles złamał jednak umowę. Polinejkes powiódł więc przeciwko ojczyźnie wojska i obydwaj bracia zginęli. Kreon, wuj Antygony, zakazał chowania Polinejkesa, którego uznał za zdrajcę.
+Zgodnie z wierzeniami Greków brak pochówku uniemożliwia duszy zmarłego przejście do Hadesu. Antygona chowa więc brata, uważając pochówek za obowiązek wynikający z woli bogów i tradycji, niezbywalny prawem ludzkim. Kreon, reprezentujący ludzką władzę, skazuje ją na śmierć, uznając, że musi dbać o autorytet prawa. 
+W sytuacji Antygony nie było dobrego wyboru. Każda decyzja doprowadzała do katastrofy, Antygona mogła jedynie wybrać, czy będzie sądzona przez ludzi czy bogów. Umiała jednak podjąć decyzję i mierzyć się z jej konsekwencjami, co doprowadziło do jej śmierci.
+
+**Konrad Wallenrod**
+Konrad Wallenrod walczy o Litwę, swoją ojczyznę, z Krzyżakami. Realizuje podstępny plan, zdobywając w zakonie pozycję wielkiego mistrza i doprowadzając go do klęski, sabotując jego działania.
+Choć główny bohater w walce o ojczyznę kierował się podstępem zgodnie z zasadami makiawelizmu, nie przychodziło mu to z łatwością - było wynikiem moralnego dylematu. Podstępna walka, na którą się zdecydował, była sprzeczna z etosem rycerskim. Wallenrod stał więc między wyborem - ojczyzna a honor, cel a środki. W tej sytuacji również nie było poprawnej decyzji, każda niosła za sobą fatalne skutki. Ostatecznie decyzje Wallenroda, choć pomogły Litwie, doprowadziły do jego śmierci.
+
+**Zakończenie**
+Konflikty racji moralnych to uniwersalne zjawiska. Często dotyczą fundamentalnych wartości, takich jak prawo, wiara, lojalność, przyjaźń, miłość czy patriotyzm. Literatura pokazuje, że w tych sytuacjach wybory, choć konieczne, zawsze wiążą się z ogromnymi kosztami.
+
+### 9. Człowiek wobec przeznacznia
+Omów zagadnienie na podstawie *Antygony* Sofoklesa. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Przeznaczenie od zawsze fascynowało twórców. Bohaterowie mogą przyjmować wobec niego różne postawy, lecz z reguły okazuje się ono niemożliwe do pokonania.
+
+**Antygona**
+Nad rodem Labdakidów, z którego pochodzi Antygona, ciąży klątwa. Jej ojciec, Edyp, był przykładem postaci, która próbując uniknąć wyroków losu, nieświadomie je wypełnia. 
+W *Antygonie* fatum przejawia się jako nieuchronność tragicznych wydarzeń - choć bohaterowie mają pewien wpływ na swoje działania, to ich los jest już zdeterminowany. Antygona staje co prawda przed wyborem pomiędzy prawem ludzkim a boskim, jednak niezależnie od jej decyzji czeka ją zguba - w tym sensie jej wybór jest jedynie pozorny. 
+Antygona wybiera postawę godnego postępowania mimo tragizmu swojej sytuacji. Podejmuje zgodne ze swoją moralnością decyzje i nie boi się ponieść ich konsekwencji. Nie walczy z losem, lecz z godnością przyjmuje jego wyroki.
+
+**Makbet**
+Kompletnie inną sytuację widzimy w *Makbecie*. Pozornie może się wydawać, że losy głównego bohatera są determinowane przez przepowiednie, jednak nie bez przyczyny nazywa się ten utwór tragedią wyboru. 
+Tak naprawdę wszystkie działania Makbeta są konsekwencjami jego własnych decyzji. Łatwo to zauważyć, jeśli tylko porównać jak zareagował na słowa wiedźm Banko (ignorując je), a jak Makbet. Zabicie Duncana, a następnie Banka i rodziny Makdufa są decyzjami Makbeta, do których nikt, w tym przeznaczenie, go nie zmusza. 
+Makbet uznał, że przepowiednie usprawiedliwiają jego czyny a przeznaczenie go chroni. Jego historia jest przestrogą przed upadkiem człowieka i przypomina o tym, że działanie sił nadprzyrodzonych nie zwalnia nas z odpowiedzialności za własne czyny. 
+
+**Zakończenie**
+Przeznaczenie odgrywa kluczową rolę w kształtowaniu losów bohaterów. Choć każde z nich czeka zguba, postawa Antygony, z godnością przyjmującej swój los, jest kompletnie odmienna od zachowania jej ojca, próbującego przechytrzyć fatum czy Makbeta, przekonanego o tym, że przeznaczenie zapewnia mu nietykalność.
