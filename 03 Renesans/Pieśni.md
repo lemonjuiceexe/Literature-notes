@@ -27,6 +27,6 @@ Hymn pochwalny skierowany do Boga. Podmiot liryczny dziękuje za stworzenie świ
 ### Nie porzucaj nadzieje
 Pieśń również odwołuje się do motywów [stoickich](Filozofia%20starożytna#^stoicyzm). Podmiot liryczny przestrzega nas przed utratą nadziei, przypominając, że zawsze po złych chwilach przychodzą lepsze.
 ### Wy, którzy Pospolitą Rzeczą władacie
-Część [Odprawy posłów greckich](Odprawa%20posłów%20greckich), wyodrębniona później jako osobny utwór.
+Część [Odprawy posłów greckich](Odprawa%20posłów%20greckich.md), wyodrębniona później jako osobny utwór.
 Wiersz jest apelem do rządzących, którzy zajmują miejsce Boga na ziemi. Podmiot liryczny nawołuje do sprawiedliwości, przypominając, że dobro wspólne jest ważniejsze od indywidualnych interesów. 
 Władcy zostaną przez Boga rozliczeni ze sprawowanych rządów, a wobec niego równi są wszyscy, bez względu na stan społeczny. Ponadto zwykły człowiek ma wobec świata mniejszą odpowiedzialność niż władca. #motyw/władza 

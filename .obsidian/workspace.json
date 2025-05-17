@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "55df88f3f64eb2b2",
+        "id": "4589551782583274",
         "type": "tabs",
         "children": [
           {
-            "id": "a4e41dbce67d29c8",
+            "id": "7af68038db2592e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11 Współczesność/Dżuma.md",
-                "mode": "preview",
+                "file": "03 Renesans/Odprawa posłów greckich.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dżuma"
+              "title": "Odprawa posłów greckich"
+            }
+          },
+          {
+            "id": "00b1266f93e08481",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pytania jawne 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pytania jawne 2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11 Współczesność/Dżuma.md",
+                "file": "Pytania jawne 2025.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dżuma"
+              "title": "Outline of Pytania jawne 2025"
             }
           }
         ],
@@ -168,8 +183,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a4e41dbce67d29c8",
+  "active": "00b1266f93e08481",
   "lastOpenFiles": [
+    "03 Renesans/Odprawa posłów greckich.md",
+    "Pytania jawne 2025.md",
+    "Untitled",
+    "11 Współczesność/Dżuma.md",
     "10 II wojna światowa/Zdążyć przed Panem Bogiem.md",
     "09 Dwudziestolecie międzywojenne/Sklepy cynamonowe.md",
     "09 Dwudziestolecie międzywojenne/Przedwiośnie.md",
@@ -193,9 +212,6 @@
     "06 Romantyzm/Król olch.md",
     "06 Romantyzm/Kordian.md",
     "06 Romantyzm/Konrad Wallenrod.md",
-    "06 Romantyzm/Filozofia romantyzmu.md",
-    "06 Romantyzm/Dziady cz. III.md",
-    "06 Romantyzm/Cierpienia młodego Wertera.md",
     "11 Współczesność",
     "Sztuka/Barok/Jan Vermeer - Dziewczyna z perłą.png",
     "Sztuka/Barok/Diego Velázquez - Wenus z lustrem.png",
@@ -210,7 +226,6 @@
     "Sztuka/Barok/Rubens - Przebicie włócznią.png",
     "Sztuka/Barok/Rubens - Zdjęcie z krzyża.png",
     "Sztuka/Barok",
-    "Sztuka",
     "Excalidraw/Jaskinia Platona.png"
   ]
 }
