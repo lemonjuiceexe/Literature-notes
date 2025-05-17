@@ -97,3 +97,21 @@ Wina Rodiona jest oczywista, a kara nieunikniona. Mimo tego, że jest w stanie s
 
 **Zakończenie**
 Motyw winy i kary pełni rolę przede wszystkim dydaktyczną, przypominając o odpowiedzialności za czyny i nieuniknioności sprawiedliwości. Od konsekwencji nie może uratować winnego spryt i przebiegłość - ostatecznie kara dosięgnie każdego, kto zawinił - w postaci boskiej (Syzyf) czy własnej reakcji (Raskolnikow).
+
+### 6. Miłość silniejsza niż śmierć
+Omów zagadnienie na podstawie Mitologii (cz. I Grecja) Jana Parandowskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Miłość jest najsilniejszym z uczuć i od zawsze fascynuje artystów. Jej moc jest tak wielka, że potrafi pokonać nawet śmierć. 
+
+**Mit o Orfeuszu i Eurydyce**
+Orfeusz nie mógł pogodzić się z przedwczesną śmiercią ukochanej, udał się więc do Hadesu, aby ją stamtąd odzyskać. Swoją muzyką oczarował Charona, Cerbera oraz Hadesa i Persefonę. Hades pozwolił mu zabrać Eurydykę na powierzchnię, pod warunkiem, że nie odwróci się po drodze by na nią spojrzeć. Orfeusz nie był pewien, czy Eurydyka za nim podąża, uległ więc pokusie i odwrócił się, tracąc ukochaną na zawsze.
+Choć Orfeusz nie zdołał przezwyciężyć losu, poświęcił się dla ukochanej, ryzykując wszystkim. Jego miłość do Eurydyki była tak wielka, że zdołał zaprzeczyć wszystkim prawom natury i, jako żywy człowiek, wejść i wyjść z Hadesu. 
+
+**Romantyczność**
+Karusia nie może pogodzić się ze śmiercią ukochanego Jasia. Jej cierpienie jest tak silne, że w jej oczach ukochany powraca z zaświatów i z nią rozmawia. Choć jest to sprzeczne z zasadami racjonalizmu, jej uczucie - miłość - było ważniejsze i silniejsze od rozsądku - śmierci. 
+> Czucie i wiara silniej mówi do mnie
+> Niż mędrca szkiełko i oko
+
+**Zakończenie**
+Miłość jest uczuciem wyjątkowym i niezwykle silnym. Zarówno Orfeuszowi jak i Karusi daje możliwość przekroczenia granic wyznaczonych przez śmierć, rozsądek i prawa natury. 
