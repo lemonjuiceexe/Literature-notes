@@ -254,7 +254,7 @@ W *Antygonie* fatum przejawia się jako nieuchronność tragicznych wydarzeń - 
 **Teza**
 Człowiek decyduje o swoim losie, choć jedynie w ograniczonym stopniu. Mimo tego, że czasem nie mamy wpływu na wszystkie okoliczności, wciąż możemy zachować godność, jak Antygona. Trzeba też pamiętać, że działanie zewnętrznych sił nie zwalnia nas z odpowiedzialności za nasze czyny. 
 ### 14. Jaki wpływ na człowieka ma sprawowanie przez niego władzy?
-Omów zagadnienie na podstawie Makbeta Williama Szekspira. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+Omów zagadnienie na podstawie *Makbeta* Williama Szekspira. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 
 **Teza**
 > Każda władza deprawuje, a władza absolutna deprawuje absolutnie #cytat 
@@ -273,3 +273,44 @@ W *Antygonie* również widzimy zgubny wpływ władzy na człowieka. Kreon, któ
 
 **Zakończenie**
 Władza ma na ludzi negatywny wpływ, stanowiąc trudną do przezwyciężenia pokusę i prowadząc ich do upadku. 
+
+# Barok
+## Skąpiec
+### 15. Czy dobra materialne czynią człowieka szczęśliwym
+Omów zagadnienie na podstawie *Skąpca* Moliera. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Dobra materialne odgrywają istotną rolę w życiu człowieka, zapewniając mu komfort i bezpieczeństwo. Nie gwarantują jednak szczęścia jako takiego, szczególnie nie wtedy, gdy stają się celem samym w sobie. Mogą raczej być elementem jednej z możliwych dróg do szczęścia, a nie jej celem.
+
+**Skąpiec**
+Harpagon jest postacią komiczną, która ma właściwie tylko jedną cechę charakteru - patologiczne skąpstwo. Wszystkie jego decyzje i działania są w pełni podporządkowane zdobywaniu pieniędzy. Wydaje córkę za bogatego Anzelma, mimo że ona go nie kocha, ponieważ ten nie chce posagu. Planuje ożenić się z Marianną tylko dlatego, że naiwnie liczy na posag. Gani Kleanta, że ten pożycza pieniądze na wysoki procent, ponieważ w ten sposób traci pieniądze - sam znajduje się po drugiej stronie barykady, zarabiając.
+Postawa Harpagona zatruwa życie wszystkim dookoła. Jego rodzina jest od niego uzależniona ekonomicznie i tylko dlatego wciąż się z nim zadaje, unieszczęśliwia ją jednak, uniemożliwiając małżeństwa dyktowane uczuciem. Niszczy również własne życie, skazując się na samotność. 
+Dobitnie pokazuje to zakończenie komedii. Harpagon odzyskuje utraconą szkatułkę, którą przytula, zaś jego dzieci wybierają miłość do drugiej osoby, zostawiając ojca, gdy tylko mogą się od niego uniezależnić. Rzecz kończy się szczęśliwie, jednak Harpagon pozostaje kompletnie osamotniony, jedynie ze swoją szkatułką - pozostaje mu samotne życie.
+
+**Mit o złotym dotyku**
+Midas był królem Frygii, który kochał złoto. Godnie przyjął zagubionego Sylena z orszaku Dionizosa, za co bóg nagrodził go spełnieniem jednego życzenia. Władca poprosił, aby wszystko czego dotknie zmieniało się w złoto. Szybko zorientował się, że grozi mu śmierć głodowa - jedzenie zamieniało się w złoto. Dodatkowo przypadkiem przemienił swoją córkę w złotą statuę. Ubłagał więc u Dionizosa utratę daru - musiał jedynie obmyć się w rzece Paktol. 
+Historia Midasa jasno pokazuje, jak nadmierna chciwość przemienia życie w koszmar. Jego krótkowzroczność doprowadziła do utraty córki. Nadmierne skupienie się na dobrach materialnych może prowadzić do upadku.
+
+**Księga Koheleta**
+
+**Zakończenie**
+Choć dobra materialne mogą być jednym z elementów drogi do szczęścia, nie powinny być celem samym w sobie. Nadmierne skupienie na nich prowadzi do upadku.
+### 16. Przyczyny nieporozumień między rodzicami a dziećmi
+Omów zagadnienie na podstawie *Skąpca* Moliera. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Przyczyny konfliktów pokoleniowych mogą być różne. Czasem wynikają z okresu buntu u dzieci, a czasem ze zbyt autorytarnej władzy dorosłych. Często przyczyną są też pieniądze. Z reguły te konflikty można jednak sprowadzić po prostu do braku komunikacji.
+
+**Skąpiec**
+W *Skąpcu* widzimy obraz patologicznej rodziny, ekonomicznie uzależnionej od ojca. Kleant i Eliza utrzymują kontakt z Harpagonem tylko dlatego, że potrzebują jego pieniędzy i nie są w stanie się uniezależnić. Harpagona zaś nie kompletnie nie interesuje dobro dzieci - dla niego ważne są tylko i wyłącznie pieniądze. Nie słucha dzieci, ciągle je krytykuje, wymusza na nich małżeństwa zgodne z jego interesem finansowym. 
+Brak jakiegokolwiek dialogu i zainteresowania dziećmi ze strony Harpagona doprowadza do stałego rozpadu więzi rodzinnych. Dzieci przy pierwszej możliwej okazji opuszczają ojca, którego nawet to nie martwi - liczy się dla niego tylko odnaleziona szkatułka. 
+
+**Chłopi**
+Antek pragnie własnego gospodarstwa i niezależności, nie chce dłużej być parobkiem we własnym domu. Boryna natomiast nie chce wyzbywać się ziemi, która stanowi dla niego sens życia. Ponadto nie chce iść **na wycug** (utrzymanie starych rodziców przez dzieci), ponieważ boi się podzielenia losu np. Jagustynki, która została wyrzucona przez dzieci po przepisaniu im ziemi. Obydwaj mężczyźni są uparci, dumni i porywczy, co uniemożliwia kompromis.
+Sytuacji nie ułatwia romans Antka z Jagną, którą Maciej postanawia poślubić. Ślub wywołuje gniew Antka, zaś Boryna przyłapuje młodych na schadzce w stogu siana, który następnie podpala. 
+Choć ostatecznie nawiązuje się między mężczyznami nić porozumienia, jest już za późno. Antek staje w obronie ojca podczas bitwy o las i zabija napastnika, który go ranił. Boryna umiera jednak zanim Antek wychodzi z więzienia.
+
+**Romeo i Julia**
+
+**Zakończenie**
+Konflikty międzypokoleniowe mogą mieć różne przyczyny, choć zwykle sprowadzają się do braku komunikacji i chęci do porozumienia, przekonania jednej lub obu ze stron o swojej absolutnej racji. Literatura pokazuje, że często są niemożliwe do rozwiązania zanim nie jest za późno.
