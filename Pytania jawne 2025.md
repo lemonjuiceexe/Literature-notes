@@ -273,7 +273,6 @@ W *Antygonie* również widzimy zgubny wpływ władzy na człowieka. Kreon, któ
 
 **Zakończenie**
 Władza ma na ludzi negatywny wpływ, stanowiąc trudną do przezwyciężenia pokusę i prowadząc ich do upadku. 
-
 # Barok
 ## Skąpiec
 ### 15. Czy dobra materialne czynią człowieka szczęśliwym
@@ -314,3 +313,77 @@ Choć ostatecznie nawiązuje się między mężczyznami nić porozumienia, jest 
 
 **Zakończenie**
 Konflikty międzypokoleniowe mogą mieć różne przyczyny, choć zwykle sprowadzają się do braku komunikacji i chęci do porozumienia, przekonania jednej lub obu ze stron o swojej absolutnej racji. Literatura pokazuje, że często są niemożliwe do rozwiązania zanim nie jest za późno.
+
+# Oświecenie
+## Wybrana satyra
+### 17. Wady ludzkie w krzywym zwierciadle satyry
+Omów zagadnienie na podstawie znanej Ci satyry Ignacego Krasickiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Sztuka jest medium umożliwiającym krytykę wad ludzkich i przestrzeganie przed nimi społeczeństwa. Pozwala na realizację funkcji dydaktycznej w formie przystępnej, łatwej do przyswojenia dla każdego, nawet mnie wyedukowanego odbiorcy. Szczególnie ironia i wyolbrzymienie są efektywnymi środkami dla dydaktyki - łatwo operować absurdem i piętnować w ten sposób pewne cechy i zachowania.
+
+**Do króla**
+W dosłownej warstwie znaczeniowej utwór krytykuje Stanisława Augusta Poniatowskiego, jednak zarzuty, jakie mu stawia, są absurdalne: przesadna dobroć, mądrość, brak królewskich korzeni. Ironizując, podmiot liryczny skłania do refleksji nad stanem społeczeństwa, które stawia władcy takie zarzuty. Zwierciadło tej satyry jest zatem wyjątkowo krzywe, zmuszając czytelnika do zastanowienia się nad tym, czyje wady są tu tak naprawdę piętnowane. 
+
+**Pijaństwo**
+(bardziej zachowawcza niż *Do króla* dla tego pytania być może)
+Ironiczny utwór krytykujący pijaństwo i ośmieszający szlachtę. Autor ukazuje jej zachowania - każda okazja jest dobra, żeby się napić, a jeśli żadnej nie ma, to można ją stworzyć. Picie prowadzi do dalszego picia a to do bijatyk. Szlachcice, ponarzekawszy na skutki picia, postanawiają się napić. Krasicki wyśmiewa tu krytykanctwo i bezskuteczne moralizowanie. Rzeczywistość jest zhiperbolizowana w sposób karykaturalny - krzywe zwierciadło.
+
+**Skąpiec**
+Molier posługuje się ironią i hiperbolizacją w celu krytyki skąpstwa. Harpagon jest postacią jednowymiarową, skąpstwo jest jedyną cechą charakteru. Poprzez zastosowanie takiego wyolbrzymienia oraz wprowadzenie komizmu łatwo jest autorowi piętnować tę negatywną cechą, pokazując absurdalne sytuacje, do których prowadzi. 
+
+**Zakończenie**
+Satyra, przejaskrawiając rzeczywistość, ukazując ją jako pełną wad, pełnią funkcję dydaktyczną i przestrzegają czytelnika przed zgubnymi nawykami i cechami. Taki zabieg umożliwia uzyskanie prostego i efektywnego przekazu. 
+# Romantyzm
+## Wybrane ballady
+### 18. Świat ducha a świat rozumu
+Omów zagadnienie na podstawie *Romantyczności* Adama Mickiewicza. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Konflikt między duchem a rozumem, mózgiem a sercem, racjonalizmem a uczuciami, funkcjonował w praktycznie każdej epoce literackiej. Według teorii sinusoidy epok Krzyżanowskiego, każda z epok charakteryzowała się racjonalnością lub irracjonalnością, była apollińska lub dionizyjska. Ten konflikt wartości był założycielski dla romantyzmu, którego przedstawiciele, w przeciwieństwie do pokolenia działaczy oświecenia, za nadrzędną wartość w życiu uznawali uczucia.
+
+**Romantyczność**
+Jasno ukazuje to Adam Mickiewicz w utworze programowym polskiego romantyzmu - *Romantyczności*.
+Bohaterką ballady jest Karusia, która widzi swojego, zmarłego dwa lata wcześniej, kochanka Jasia. Zachowuje się jak szalona. Obserwujący ją prości ludzie wierzą jej i modlą się za nią. Starzec, utożsamiany z Janem Śniadeckim, profesorem i krytykiem romantyzmu, nie wierzy w zjawiska nadnaturalne i kwestionuje prawdomówność dziewczyny.
+W utworze dochodzi do konfrontacji dwóch światopoglądów. Starzec reprezentuje podejście oświeceniowe, stawiając na racjonalizm oraz „szkiełko i oko". Narrator podkreśla znaczenie uczuć i intuicji w poznawaniu rzeczywistości, skłania się ku ludowości. Mówi jasno:
+> Czucie i wiara silniej mówi do mnie,
+> Niż mędrca szkiełko i oko
+
+Utwór nawiązuje do praojca romantyzmu, Szekspira - motto z Hamleta:
+> Zdaje mi się, że widzę… Gdzie?
+Przed oczyma duszy mojej.
+
+Zaznacza więc wyższość świata ducha nad rozumem i możliwość poznania nie tylko zmysłami, ale też emocjami.
+
+**Wesele**
+Młoda Polska to epoka nazywana też neoromantyzmem. Pierwszy akt *Wesela* jest realistyczny, jednak od momentu zaproszenia chochoła na wesele przez Pana Młodego na uroczystości zaczynają pojawiać się różne zjawy. Różnym gościom ukazują się różne postaci, przypominające im o przeszłości, piętnujące postawy lub zachęcające do działania.
+Scena, w której Marysi ukazuje się widmo zmarłego kochanka, jest bezpośrednim nawiązaniem do *Romantyczności*, kontrastuje z nią jednak. Marysia, w przeciwieństwie do Karusi, ostatecznie odpycha Widmo, wybierając żywego mężczyznę zamiast wspominania przeszłości. Wyspiański podkreśla tu odrzucenie dawnych, romantycznych wartości. Rycerz ukazuje się Poecie, przypomina on o dawnej potędze Rzeczypospolitej, kontrastowanej z aktualnie trawiącym ojczyznę marazmem. Stańczyk ukazuje się Dziennikarzowi, dla którego stanowi antytezę. Publicysta powinien angażować się w politykę, motywować naród do walki. Stańczyk przypomina mu o tej roli i wyrzuca brak zaangażowania. Upiór, duch Jakuba Szeli, ukazujący się Dziadowi, przypomina widzowi o rabacji galicyjskiej, a więc i o napięciach pomiędzy chłopstwem a inteligencją. Do Gospodarza przybywa zaś Wernyhora, zlecając mu organizację zrywu narodowowyzwoleńczego. 
+W dramacie Wyspiańskiego elementy fantastyczne są integralną częścią rzeczywistego świata i na niego oddziałują. Są sposobem autora na ukazanie pewnych dynamik w społeczeństwie oraz krytykę aktualnych postaw.
+
+**Król olch**
+(Jeśli się nie pamięta dobrze *Wesela* to *Król olch* jest dużo łatwiejszy)
+Ballada opowiada o ojcu i synu, którzy gnają przez las konno, wracając do domu. Dziecko widzi króla olch, który zaprasza je do dołączenia do jego dworu. Ojciec nic takiego nie widzi. 
+Mamy paralelizm światów rzeczywistego i fantastycznego, Goethe nie odpowiada, który jest prawdziwy - jeden oddziałuje na drugi, dziecko naprawdę umiera. Obydwa światy ukazane są więc jako równorzędne.
+
+**Zakończenie**
+Choć mamy tendencję do faworyzowania rozumu, świata rzeczywistego i racjonalnego myślenia, literatura pokazuje, że zarówno świat ducha jak i rozumu są ważne. Często wzajemnie na siebie oddziałują. Nie możemy ignorować świata emocji i przeczuć, który może wiele nam powiedzieć o świecie rzeczywistym.
+
+### 19. Jakie znaczenie dla człowieka ma przyroda
+Omów zagadnienie na podstawie znanych Ci ballad Adama Mickiewicza. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Przyroda od zawsze była postrzegana jako życiodajna siła, z której człowiek pochodzi i która zapewnia mu przetrwanie. W epoce romantyzmu zmieniło się jednak jej postrzeganie, artystów zaczęła fascynować jej groźna i tajemnicza strona. To u niej doszukiwali się sprawiedliwości w sytuacjach, w których ludzki system zawodził.
+
+**Świtezianka, Lilije**
+W balladach Mickiewicza natura pełni właśnie taką rolę - strażniczki sprawiedliwości, wykonawczyni boskich wyroków. 
+W *Świteziance* dochodzi do złamania przysięgi wierności, którą strzelec złożył ukochanej. Daje się on uwieść wodnej nimfie. Okazuje się jednak, że jest to ta sama dziewczyna, badająca jego wierność. W zemście za jego zdradę zostaje pochłonięty przez jezioro, a jego dusza zostaje zaklęta pod modrzewiem. Widać, jak przyroda jest zaangażowana w wymierzenie kary za niesprawiedliwość.
+Podobną funkcję pełni przyroda w *Lilijach*. Lilie, zasiane przez kobietę na grobie męża, miały ukryć zbrodnię, a stają się jej symbolem. Natura demaskuje zbrodnię a następnie wymierza karę - cerkiew zapada się w trzęsieniu ziemi, a na niej wyrastają lilie. Przyroda jest strażniczką zasady, że *nie masz zbrodni bez kary*.
+
+**Chłopi**
+Inną rolę odgrywa natura w *Chłopach*. Reymont powraca do realistycznego przedstawienia przyrody jako karmicielki, której podporządkowany jest rytm ludzkiego życia i od której kaprysów zależy ich egzystencja.
+Chłopi, którzy żyją dzięki jej plonom - uprawom i zwierzętom - są kompletnie od niej zależni. Nie jest ona już metafizycznym strażnikiem moralności, a namacalnym czynnikiem, dającym urodzaj lub biedę. 
+Nie bez przyczyny Reymont podzielił swoją powieść na części o nazwach odpowiadających porom roku. Podkreśla w ten sposób, że to właśnie rytmowi natury podporządkowane było chłopskie życie. Stałe były w tym cyklu zarówno prace rolne (siew, żniwo, wykopki, obieranie kapusty) jak i obrzędy (Wielkanoc, Dożynki, Boże Narodzenie). 
+
+**Zakończenie**
+Przyroda pełni kluczową rolę w życiu człowieka. Literatura ukazuje jednak różne aspekty tej roli - od karmicielki, zapewniającej przeżycie i dobrobyt, po strażniczkę moralności i wykonawczynię boskich wyroków.
+
