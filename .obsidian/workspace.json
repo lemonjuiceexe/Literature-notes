@@ -24,17 +24,31 @@
             }
           },
           {
-            "id": "b11ad877b8e58bc8",
+            "id": "4701fbb5e3585817",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Romantyzm/Ballady.md",
+                "file": "07 Pozytywizm/Zbrodnia i kara.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ballady"
+              "title": "Zbrodnia i kara"
+            }
+          },
+          {
+            "id": "d5c1873ab691cd6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "09 Dwudziestolecie międzywojenne/Mistrz i Małgorzata.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mistrz i Małgorzata"
             }
           }
         ]
@@ -186,8 +200,16 @@
   },
   "active": "6979d24833da34bd",
   "lastOpenFiles": [
-    "06 Romantyzm/Ballady.md",
+    "09 Dwudziestolecie międzywojenne/Mistrz i Małgorzata.md",
     "Pytania jawne 2025.md",
+    "07 Pozytywizm/Zbrodnia i kara.md",
+    "06 Romantyzm/Dziady cz. III.md",
+    "11 Współczesność/Dżuma.md",
+    "04 Barok/Poezja baroku.md",
+    "07 Pozytywizm/Gloria victis.md",
+    "06 Romantyzm/Ballady.md",
+    "07 Pozytywizm/Nowele.md",
+    "06 Romantyzm/Poezja Adama Mickiewicza.md",
     "06 Romantyzm/Król olch.md",
     "06 Romantyzm/Romantyzm.md",
     "06 Romantyzm/Ballada.md",
@@ -204,15 +226,7 @@
     "06 Romantyzm/Filozofia romantyzmu.md",
     "06 Romantyzm/Cierpienia młodego Wertera.md",
     "01 Antyk/Antygona.md",
-    "11 Współczesność/Dżuma.md",
-    "11 Współczesność/Miejsce.md",
-    "03 Renesans/Odprawa posłów greckich.md",
     "Untitled",
-    "10 II wojna światowa/Zdążyć przed Panem Bogiem.md",
-    "09 Dwudziestolecie międzywojenne/Sklepy cynamonowe.md",
-    "09 Dwudziestolecie międzywojenne/Przedwiośnie.md",
-    "09 Dwudziestolecie międzywojenne/Poezja dwudziestolecia międzywojennego.md",
-    "09 Dwudziestolecie międzywojenne/Mistrz i Małgorzata.md",
     "11 Współczesność",
     "Sztuka/Barok/Jan Vermeer - Dziewczyna z perłą.png",
     "Sztuka/Barok/Diego Velázquez - Wenus z lustrem.png",

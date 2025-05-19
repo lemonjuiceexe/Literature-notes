@@ -387,3 +387,177 @@ Nie bez przyczyny Reymont podzielił swoją powieść na części o nazwach odpo
 **Zakończenie**
 Przyroda pełni kluczową rolę w życiu człowieka. Literatura ukazuje jednak różne aspekty tej roli - od karmicielki, zapewniającej przeżycie i dobrobyt, po strażniczkę moralności i wykonawczynię boskich wyroków.
 
+## Dziady cz. III
+### 20. Losy młodzieży polskiej pod zaborami
+Omów zagadnienie na podstawie *Dziadów części III* Adama Mickiewicza. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Polska młodzież pod zaborami odznaczała się często ogromną odwagą i niezłomnym duchem walki. Działając w celu podtrzymania narodowej tożsamości, podlegała okrutnym prześladowaniom, lecz nie łamała się.
+
+**Dziady cz. III**
+W dramacie Mickiewicz ukazał poruszające portrety młodych patriotów, często bazowane na historycznych postaciach. 
+Na skutek represji Senatora Nowosilcowa litewska młodzież była więziona, mimo braku jakiejkolwiek winy - Senator chciał przypodobać się carowi, wyszukiwał więc na siłę nieistniejący spisek. Patrioci byli więzieni przez wiele miesięcy bez procesu, wywożeni na Syberię oraz brutalnie torturowani.
+Widzimy męczeństwo Janczewskiego, który, mimo brutalnych tortur, po których nie jest w stanie samodzielnie iść i jest wspierany przez strażników, wykrzykuje z kibitki *Jeszcze Polska nie zginęła!* W Salonie warszawskim opowiadane są losy Cichowskiego, który został aresztowany i przez lata torturowany. Mimo ciężkiego okaleczenia nie zdradził towarzyszy, jednak po zwolnieniu stał się cieniem człowieka, nie poznawał bliskich i popadł w paranoję. 
+Mickiewicz, ustami Piotra Wysockiego, wyraża pogląd, że patriotyczna młodzież stanowi trzon polskiego narodu, który zapewni przetrwanie narodowej tożsamości przez lata niewoli:
+> Nasz naród jak lawa, 
+> Z wierzchu zimna i twarda, sucha i plugawa, 
+> Lecz wewnętrznego ognia sto lat nie wyziębi; 
+> Plwajmy na tę skorupę i zstąpmy do głębi.
+
+**Gloria victis**
+Orzeszkowa przypomina o roli powstańców, których znaczną część stanowili młodzi ludzie. Nie bali się oddać życia w powstaniu za ojczyznę, Orzeszkowa przypomina o ich poświęceniu, sprzeciwiając się zanikowi pamięci o zrywach.
+Maryś Tarłowski symbolizuje pokolenie, które, oprócz odważnego zaangażowania w powstanie, pracowało na rzecz polski w ramach pracy u podstaw. Był przyrodnikiem, który nauczał biednych. Jego śmierć symbolizuje stratę pokolenia, które mogło przyczynić się dla Polski.
+
+**Zakończenie**
+Postawa młodzieży podczas zaborów charakteryzowała się odwagą i niezłomnością, do dziś budzącą podziw i szacunek. Odegrali znaczącą rolę w procesie zachowania polskiej tożsamości w czasach zaborów i przyłożyli się do tego, że dziś możemy żyć w wolnej Polsce.
+
+### 21. Mesjanizm jako romantyczna idea poświęcenia
+Omów zagadnienie na podstawie *Dziadów części III* Adama Mickiewicza. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Polski mesjanizm był odpowiedzią na potrzebę wytłumaczenia sensu cierpienia Polaków pod zaborami. Stanowił w pewnym sensie odpowiedź na zagadnienie teodycei w obliczu represji zaborców.
+Wywodzi się z judeochrześcijańskiej tradycji biblijnej, według której świat zostanie zbawiony przez mesjasza, który odkupi ludzkość poprzez swoje cierpienie. W tej teorii historiozoficznej to naród polski jest mesjaszem - jego cierpienia mają więc sens, ponieważ doprowadzą do zbawienia wszystkich narodów.
+
+**Dziady cz. III**
+Mickiewicz przedstawia tę teorię w scenie V swojego dramatu - *Widzeniu Księdza Piotra*. Ksiądz Piotr błaga Boga o wybaczenie Konradowi, który przeciw niemu zbluźnił i przyjmuje na siebie jego grzechy. W odpowiedzi na pobożną postawę jest mu zesłana wizja.
+Najważniejsze elementy wizji to
+1. **Rzeź niewiniątek** - ks. Piotr widzi młodzież wywożoną kibitkami na Sybir, co nawiązuje do rzezi niewiniątek. Herod symbolizuje cara.
+2. **Mesjasz** - tajemniczy "Czterdzieści i cztery", jak Jezus uniknął śmierci z rąk prześladowców. Typowa dla Apokalipsy symbolika liczb. 
+3. Krzyż, rozciągający się na całą Europę, z trzech wyschłych ludów - cierpienie pod zaborami
+4. **Żołnierze** symbolizują zaborców. Austriak poi Naród octem, Prusak żółcią, Moskal przebija jego bok kopią i upuszcza jego krew.
+5. **Sędzia Gal - Piłat**, symbolizuje Francję, umywa ręce. Reprezentuje obojętność Europy wobec losu Polski. Krzyczy *Oto naród wolny, niepodległy!*, nawiązując do piłatowskiego *Ecce homo* - oto człowiek.
+6. **Matka Wolność** - analogicznie do Maryi, cierpiąca wobec losu Polski
+7. **Zmartwychwstanie** - wizja kończy się tryumfem. Naród umiera na krzyżu ale ulatuje ku niebu i zmartwychwstaje. 
+
+Mesjanizm staje się sposobem Polaków na przetrwanie w trudnych czasów, daje im uzasadnienie ich cierpienia.
+
+**Biblia**
+Wizja ks. Piotra nawiązuje do biblijnej historii o męce Chrystusa. Elementy, które widzi ks. Piotr, wprost nawiązują do ewangelii - mesjasz 44 jako Chrystus, krzyż, wykonany z zaborców, rzymscy żołnierze, wykonujący wyrok, symbolizujący zaborców, Gal jako Piłat, Wolność jako Maryja.
+To bezpośrednie nawiązanie uwydatnia uniwersalizm prawd - historia biblijna dzieje się na nowo, lecz męczennikiem staje się Polska. Możemy zatem przypuszczać, że koniec również będzie taki sam - zbawienie.
+
+**Zakończenie**
+Historiozofia mesjanistyczna, poprzez nawiązanie do znanej wszystkim historii o męce Chrystusa, daje wytłumaczenie i uzasadnienie męczeństwa narodu polskiego. Daje nadzieję zbawienia, ułatwiając znoszenie represji.
+
+### 22. Postawy społeczeństwa polskiego wobec zaborcy
+Omów zagadnienie na podstawie *Dziadów części III* Adama Mickiewicza. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Polskie społeczeństwo przyjmowało wobec zaborców różnorodne postawy. Najszerzej przedstawianą w literaturze była ta aktywna, wyrażająca się w buncie i niezgodzie, zaangażowaniu w konspirację i powstania. Zdarzały się również postawy bierne, ludzi, którzy przedkładali własny interes nad dobro wspólnoty. 
+W pozytywizmie wykształciła się z kolei postawa współpracy z zaborcą, podejmowana jednak nie w imię zdrady, a poprawy życia społecznego. 
+
+**Dziady cz. III**
+W dramacie Mickiewicz ukazał poruszające portrety młodych patriotów, często bazowane na historycznych postaciach. 
+Na skutek represji Senatora Nowosilcowa litewska młodzież była więziona, mimo braku jakiejkolwiek winy - Senator chciał przypodobać się carowi, wyszukiwał więc na siłę nieistniejący spisek. Patrioci byli więzieni przez wiele miesięcy bez procesu, wywożeni na Syberię oraz brutalnie torturowani.
+Widzimy męczeństwo Janczewskiego, który, mimo brutalnych tortur, po których nie jest w stanie samodzielnie iść i jest wspierany przez strażników, wykrzykuje z kibitki *Jeszcze Polska nie zginęła!* W Salonie warszawskim opowiadane są losy Cichowskiego, który został aresztowany i przez lata torturowany. Mimo ciężkiego okaleczenia nie zdradził towarzyszy, jednak po zwolnieniu stał się cieniem człowieka, nie poznawał bliskich i popadł w paranoję. 
+Mickiewicz, ustami Piotra Wysockiego, wyraża pogląd, że patriotyczna młodzież stanowi trzon polskiego narodu, który zapewni przetrwanie narodowej tożsamości przez lata niewoli:
+> Nasz naród jak lawa, 
+> Z wierzchu zimna i twarda, sucha i plugawa, 
+> Lecz wewnętrznego ognia sto lat nie wyziębi; 
+> Plwajmy na tę skorupę i zstąpmy do głębi.
+
+W tej wypowiedzi Wysocki zwraca jednak też uwagę na *skorupę*. Są to Polacy, którzy przedkładają komfort nad patriotyzm. W dramacie reprezentowani przez towarzystwo stolikowe mówią dużo po francusku, interesuje ich prosta literatura, nie chcą mówić o tematach patriotycznych. Mickiewicz, nazywając ich skorupą, podkreśla jednak również, że jest to grupa niereprezentatywna dla całego społeczeństwa.
+
+**Lalka**
+Inne postawy wobec zaborców wykształciły się w epoce pozytywizmu. Choć wyrażano się z szacunkiem o powstańcach, odrzucano ideę walki zbrojnej jako nieefektywną. Skupiano się raczej, w duchu utylitaryzmu i organicyzmu, na pracy organicznej, mającej na celu poprawę jakości życia całego społeczeństwa polskiego. 
+Idealnym przykładem jest Stanisław Wokulski. W młodości powstaniec styczniowy, po powrocie z zesłania zmienił swoją postawę. Robi interesy z Rosjanami (Suzin, Spółka do handlu ze Wschodem), zarabiając na tym ogromne pieniądze. Umożliwia mu to jednak prowadzenie działalności przedsiębiorczej i charytatywnej. Działania te można postrzegać jako przejaw nowoczesnego patriotyzmu, stawiającego na rozwój społeczny zamiast walki zbrojnej. 
+
+**Zakończenie**
+Choć możemy dojrzeć różnorodne postawy wobec zaborcy, w większości były one zorientowane na poprawę losu narodu polskiego. Występowały od tego niechlubne wyjątki, jak towarzystwo stolikowe, nie były one jednak reprezentatywne dla całego społeczeństwa. 
+
+### 23. Różne postawy człowieka wobec Boga
+Omów zagadnienie na podstawie *Dziadów części III* Adama Mickiewicza. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Wobec Boga można przyjmować różne postawy. Tradycyjnie był on ostoją w trudnych czasach, jednak ogrom cierpienia potrafił być tak duży, że ludzie odwracali się od Boga, nie potrafiejąc zrozumieć, jak może on na coś takiego pozwolić.
+
+**Dziady cz. III**
+Konrad jest rozdarty. Widzi ogromne cierpienie narodu polskiego, męczonego okrutnymi represjami i nie rozumie, czemu Bóg nie reaguje. Domaga się od niego władzy nad duszami, zarzuca, że nie jest miłością, a mądrością. Uważa, że jest w stanie lepiej rządzić światem, wyzywa Boga na pojedynek. Bóg nie odpowiada na te prowokacje, nie daje Konradowi zrozumienia.
+> Ja chcę mieć władzę, jaką Ty posiadasz, 
+> Ja chcę duszami władać, jak Ty nimi władasz.
+
+> Kłamca, kto Ciebie nazywał miłością, 
+> Ty jesteś tylko mądrością. 
+
+
+Odmienną postawę prezentuje ks. Piotr. Pokorny bernardyn błaga Boga o przebaczenie win Konradowi i przejmuje na siebie jego grzechy. Podkreśla swoją marność wobec Boga
+> Panie! czymże ja jestem przed Twoim obliczem -
+> Prochem i niczem;
+
+Nie butnemu Konradowi, ale właśnie pokornemu księdzu Bóg zsyła wizję przyszłości Polski.
+
+**Sonet IV o wojnie naszej, którą wiedziemy z szatanem, światem i ciałem**
+Opisuje rozdarcie, zagubienie i niepokój człowieka baroku, rozdartego między życiem wiecznym a doczesnym. Skazany na walkę z szatanem, ziemskimi pokusami i ciałem. Potrzebuje wsparcia w walce w postaci Boga, on staje się dla marnego człowieka ostoją.
+
+**Dżuma**
+Ojciec Paneloux początkowo wierzy, że dżuma to kara boska za grzechy, tak przedstawia ją w swoim pierwszym kazaniu. Przemiana następuje po obserwacji agonii syna sędziego Othona (Filipa), która nie jest w ten sposób wytłumaczalna. Wstępuje do formacji sanitarnych. W drugim kazaniu zamiast *wy* mówi o mieszkańcach *my*, uznaje epidemię za próbę wiary, twierdzi, że cierpienie należy zaakceptować, a wręcz go chcieć, skoro Bóg go chce. 
+Rieux stanowi przeciwwagę dla Paneloux. Jako ateista odrzuca religijne tłumaczenie epidemii. Jego heroizm wynika zaś z humanizmu, nie z wiary. Nie może zgodzić się na istnienie Boga w świecie, w którym istnieje taki ogrom niezawinionego cierpienia. 
+
+> Skoro jednak śmierć ustanawia porządek świata, może lepiej jest dla Boga, że nie wierzy się w niego i walczy ze wszystkich sił ze śmiercią, nie wznosząc oczu ku temu niebu, gdzie on milczy.
+
+Również Tarrou chce wiedzieć, czy można być *świętym bez Boga* - próbuje, poprzez bunt przeciwko absurdowi, prowadzić dobre, etyczne życie. Nie wierzy jednak w Boga i nie potrzebuje go, aby być dobrym człowiekiem. 
+
+**Zakończenie**
+Na przestrzeni wieków człowiek przyjmował wobec Boga różne postawy. Często jest on dla ludzi opoką, ostoją w trudnych czasach, opiekunem, któremu można było zaufać (Sęp-Szarzyński, ks. Piotr). Kiedy jednak ogrom cierpienia staje się tak wielki, że problem teodycei staje się trudny do rozwiązania, ludzie często odwracają się od Boga, w najlepszym wypadku kwestionując jego istnienie (Dżuma), a w najgorszym zarzucając mu obojętność (Konrad).
+
+### 24. Jakie prawdy o człowieku ujawniają jego sny albo widzenia
+Omów zagadnienie na podstawie *Dziadów części III* Adama Mickiewicza. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Wstęp**
+Sny i widzenia często dają nam wgląd w psychikę i podświadomość bohatera, ujawniając prawdy, których nawet on sam może nie być świadom.
+
+**Dziady cz. III**
+W stanie profetycznego uniesienia, Konrad doznaje wizji, w której widzi siebie jako orła, mającego wgląd w przyszłość ojczyzny. Jego wzrok zostaje jednak przesłonięty przez kruka. Wizja jest pierwszą zapowiedzią roli, w jakiej widzi się Konrad - wielkiego profety, równocześnie ucieleśniającego cały naród (orzeł). 
+Najistotniejszym widzeniem w utworze jest *Widzenie Księdza Piotra* - scena V. Duchowny doznaje profetycznej wizji, w której, według logiki mesjanistycznej, martyrologia narodu polskiego zostaje porównana do męki Chrystusa. Wizja stanowi wytłumaczenie sensu cierpienia i obietnicę zbawienia. Widzenie ujawnia pokorę i duchową siłę Księdza Piotra. Kontrastuje on z Konradem, który, bluźniąc przeciw Bogu, nie zasłużył na widzenie. Ks. Piotr, jako moralny przewodnik, dostrzega boski plan dla ojczyzny.
+W następnej scenie (VI - *Sen Senatora*) widzimy sen Nowosilcowa. Nowosilcow we śnie zyskuje względy cara. Czuje nienawiść innych dworzan, którzy kłaniają mu się, choć go nienawidzą. Ostatecznie cesarz ponownie się od niego odwraca, co jest dla Senatora najgorszym wyrokiem. Nie może odpędzić się od robaków. Sen odsłania przed czytelnikiem motywacje bohatera, jego największe pragnienia i lęki - łaska cara lub jej brak. Robaki, pojawiające się na końcu snu, można interpretować jako wyrzut podświadomości Senatora, buntującej się przeciwko jego okrucieństwu.
+
+**Zbrodnia i kara**
+Sny odgrywają istotną rolę w powieści psychologicznej, jaką jest *Zbrodnia i kara*. Jeszcze przed zabójstwem Rodion ma sen o klaczy. W śnie Raskolnikow wraca do dzieciństwa. Z ojcem przechodzą obok grupy pijanych chłopów, katujących starą klacz. Rodion próbuje ich powstrzymać, widzimy jego empatyczną stronę. W społeczności jest przyzwolenie na przemoc wobec konia. 
+Sen możemy rozumieć jako projekcję podświadomości, sprzeciwiającej się planowanemu morderstwu.
+Po zabójstwie, Raskolnikowa zaczynają dręczyć jeszcze silniejsze przeżycia senne, o pobiciu gospodyni i o ponownym zabójstwie:
+- Sen ma miejsce krótko po zabójstwie. Raskolnikowowi wydaje się, ze śledczy Pietrowicz bije gospodynię przed drzwiami mieszkania. Słyszy piski i jęki. Sen możemy rozumieć jako manifestacje strachu przed konsekwencjami, Rodion boi się, że zmierza po niego policja.
+- We śnie Raskolnikow wraca na miejsce zbrodni i ponownie zabija lichwiarkę. Wydaje mu się, że tej nic się nie stało i że śmieje się z niego.
+Sny te są elementem kary Rodiona, który był przekonany, że jako nadczłowiek będzie w stanie popełnić zbrodnię bez żadnych konsekwencji. Mimo że pozostaje nieuchwytny wobec wymiaru sprawiedliwości, kara manifestuje się w postaci reakcji jego ciała na zbrodnię - oprócz fizycznej choroby, jego podświadomość i sumienie buntują się, co manifestuje się właśnie w snach. 
+
+W analogiczny sposób buntuje się sumienie Swidrygajłowa:
+- Śni mu się, że chodzi po nim mysz, od której nie może się odpędzić. Mysz może symbolizować sumienie.
+- Śni mu się trumna jednej z jego ofiar, 10-letniej samobójczyni.
+- Śni mu się, że znajduje małą dziewczynkę i jej pomaga. Kładzie ją do snu, a później ona się z niego śmieje.
+
+**Zakończenie**
+Sny i widzenia są narzędziami autora, umożliwiającymi odkrycie przed czytelnikiem ukrytych motywacji i lęków bohatera, często nieznanych jemu samemu. Może nam ukazać prawdziwą naturę bohatera (np. ks. Piotr i Konrad, którzy widzą się jako przewodnicy narodu). Są również narzędziem kary wobec zbrodniarzy - jeśli nie daje im rady ludzki system sprawiedliwości, są karani przez własne sumienie, m.in. przy pomocy snów (Nowosilcow, Raskolnikow, Swidrygajłow).
+
+### 25. W jakim celu twórca nawiązuje do motywów biblijnych?
+Omów zagadnienie na podstawie *Dziadów części III* Adama Mickiewicza. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Nawiązywanie do motywów biblijnych ma na celu podkreślenie uniwersalności pewnych prawd. Biblia, jeden z fundamentów kultury europejskiej, jest pełna opowieści o charakterze parabolicznym i ponadczasowych prawideł, które wciąż pozostają aktualne, mimo zmieniających się okoliczności.
+
+**Dziady cz. III**
+Polski mesjanizm był odpowiedzią na potrzebę wytłumaczenia sensu cierpienia Polaków pod zaborami. Stanowił w pewnym sensie odpowiedź na zagadnienie teodycei w obliczu represji zaborców.
+Wywodzi się z judeochrześcijańskiej tradycji biblijnej, według której świat zostanie zbawiony przez mesjasza, który odkupi ludzkość poprzez swoje cierpienie. W tej teorii historiozoficznej to naród polski jest mesjaszem - jego cierpienia mają więc sens, ponieważ doprowadzą do zbawienia wszystkich narodów.
+Mickiewicz przedstawia tę teorię w scenie V swojego dramatu - *Widzeniu Księdza Piotra*. Ksiądz Piotr błaga Boga o wybaczenie Konradowi, który przeciw niemu zbluźnił i przyjmuje na siebie jego grzechy. W odpowiedzi na pobożną postawę jest mu zesłana wizja, wprost nawiązująca do biblijnej historii o męce Chrystusa. 
+Najważniejsze elementy wizji to
+1. **Rzeź niewiniątek** - ks. Piotr widzi młodzież wywożoną kibitkami na Sybir, co nawiązuje do rzezi niewiniątek. Herod symbolizuje cara.
+2. **Mesjasz** - tajemniczy "Czterdzieści i cztery", jak Jezus uniknął śmierci z rąk prześladowców. Typowa dla Apokalipsy symbolika liczb. 
+3. Krzyż, rozciągający się na całą Europę, z trzech wyschłych ludów - cierpienie pod zaborami
+4. **Żołnierze** symbolizują zaborców. Austriak poi Naród octem, Prusak żółcią, Moskal przebija jego bok kopią i upuszcza jego krew.
+5. **Sędzia Gal - Piłat**, symbolizuje Francję, umywa ręce. Reprezentuje obojętność Europy wobec losu Polski. Krzyczy *Oto naród wolny, niepodległy!*, nawiązując do piłatowskiego *Ecce homo* - oto człowiek.
+6. **Matka Wolność** - analogicznie do Maryi, cierpiąca wobec losu Polski
+7. **Zmartwychwstanie** - wizja kończy się tryumfem. Naród umiera na krzyżu ale ulatuje ku niebu i zmartwychwstaje. 
+
+Nawiązanie do motywów biblijnych daje Polakom uzasadnienie ich cierpienia, porównując naród polski do Chrystusa, Mickiewicz daje nadzieję na zbawienie.
+
+**Mistrz i Małgorzata**
+Bułhakow nawiązuje do motywów biblijnych poprzez umieszczenie, w ramach kompozycji szkatułkowej, w swojej powieści następnej powieści, której akcja dzieje się w Jerozolimie podczas skazania, męki i śmierci Chrystusa: 
+Jeszua Ha-Nocri to człowiek dobry i szlachetny, którego świat zniszczy. Jeszua jest zupełnie ludzki, nie zawsze radzi sobie z życiem. Piłat odbiera go jako człowieka naiwnego - Jeszua uważa, że wszyscy ludzi są dobrzy, nawet nazywa prokuratora dobrym człowiekiem. 
+Piłat nie chce skazywać Jeszui, ale jest konformistą - działa w ramach systemu i nie uważa, że nie może sobie pozwolić na darowanie mu życia, boi się. Popełnia **grzech zaniechania** - nie ratuje Jeszui chociaż mógłby, nie reaguje na zło. 
+Mistrz jest podobno do Jeszui - broni prawdy, prostolinijny, dobry, szlachetny. Piłat z kolei symbolicznie reprezentuje *homo sovieticus* - boi się przeciwstawić niesprawiedliwości ze względu na potencjalne konsekwencje.
+**Kompozycja szkatułkowa uwydatnia uniwersalność praw moralnych** - w sensie etycznym następuje analogia między Piłatem a mieszkańcami ZSRR, między Jeszuą a Mistrzem. 
+*Homo sovieticus* - wprowadzone przez Aleksandra Zinowjewa. Termin opisujący członka zdemoralizowanego społeczeństwa komunistycznego:
+- oportunista
+- wyzbywa się dążeń i pragnień, podporządkowuje życie kolektywowi
+- uniżoność wobec silniejszych, odreagowuje na słabszych
+
+**Zakończenie**
+Podejmowanie motywów biblijnych umożliwia uwydatnienie uniwersalności i ponadczasowości pewnych prawd i pozwala dostrzec sens w trudnych momentach dziejowych.
+
