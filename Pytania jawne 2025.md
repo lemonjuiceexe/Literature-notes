@@ -697,4 +697,101 @@ Miasto jest przestrzenią wrogą bohaterowi, symbolizuje rzeczywistość PRL, kt
 
 **Zakończenie**
 Miasto jest zjawiskiem wielowymiarowym i może mieć rozmaity wpływ na psychikę bohaterów. Daje szanse, ale i stawia wyzwania - z reguły jednak bohaterowie nie radzą sobie z nimi i upadają.
+## Potop
+### 33. Postawy odwagi i tchórzostwa
+Omów zagadnienie na podstawie znanych Ci fragmentów *Potopu* Henryka Sienkiewicza. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 
+**Teza**
+Odwaga i tchórzostwo to naturalne postawy człowieka w obliczu zagrożenia.
+
+**Potop**
+Kmicicowi można zarzucić wiele, ale nie tchórzostwo. Był odważny, zawsze rzucał się w środek walki. Na początku powieści, gdy Kmicic jest zwykłym awanturnikiem, ta cecha przypomina bardziej brawurę. Jednak w ramach jego przemiany z czasem widzimy, że wykorzystuje swoją odwagę w służbie ojczyźnie - broniąc Jasnej Góry podejmuje się samobójczej misji wysadzenia kolubryny, własną piersią broni króla Jana Kazimierza.
+Zaprzeczeniem tej postawy jest Janusz Radziwiłł. Kieruje się egoistycznymi pobudkami i strachem przed potęgą Szwedów zdradza ojczyznę, poddając się pod panowanie króla szwedzkiego. Jego tchórzostwo i egoizm kontrastuje z odwagą i patriotyzmem Kmicica.
+
+**Iliada**
+Achilles jest największym wojownikiem Achajów. Jego życie jest zdeterminowane przez przepowiednię - może żyć długo, lecz umrzeć zapomnianym lub zginąć młodo i chwalebnie. Decydując się wziąć udział w wojnie trojańskiej, która nie mogła zostać wygrana bez niego, prezentuje postawę heroiczną - poświęca swoje życie dla większej sprawy. 
+Hektor prezentuje odmienny rodzaj heroizmu, oparty na trosce o ojczyznę i rodzinę. Ma świadomość, że Troja jest skazana na upadek a on na śmierć - losy wojny są z góry przewidziane przez wyrocznie. To jednak nie powstrzymuje go przed stawieniem czoła Achillesowi, poświęcając się dla ojczyzny i rodziny.
+Po wyjściu z miasta w celu stawienia czoła Achillesowi, Hektor zaczyna uciekać. Ostatecznie jednak konfrontuje się z herosem. Pokazuje to, że nawet największy bohater może odczuwać strach, który jest normalną, ludzką reakcją. Postawa Hektora pokazuje, że prawdziwa odwaga to przezwyciężenie strachu, a nie jego brak.
+
+**Zakończenie**
+Odwaga to postawa wynikająca z gotowości do poświęceń dla wyższych wartości. Tchórzostwo wynika z kolei z egoizmu i przedkładania własnego interesu nad ten kolektywny.
+## Zbrodnia i kara
+### 34. Walka człowieka ze swoimi słabościami
+Omów zagadnienie na podstawie *Zbrodni i kary* Fiodora Dostojewskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Walka z własnymi słabościami to nieodłączna część życia. Bycie dobrym człowiekiem to nie brak słabości a ich przezwyciężanie.
+
+**Zbrodnia i kara**
+Rodion Raskolnikow był biednym byłym studentem, który, uważając się za nadczłowieka, postanowił zabić lichwiarkę. Jest przekonany o słuszności tego czynu, jako że lichwiarka była społecznym pasożytem.
+Mimo tego, że jest w stanie sprawnie unikać wymiaru sprawiedliwości, nie może uciec przed własną, ludzką naturą. Sumienie buntuje się przeciw zbrodni, dręczy go koszmarami, Raskolnikow zapada na fizyczną chorobę. Kara, jakiej ostatecznie podlega po przyznaniu się do winy - zesłanie na Syberię - jest drugorzędna, wobec konsekwencji, jakie czekały go ze strony własnego ciała.
+Raskolnikow zmaga się z wyrzutami sumienia i lękiem przed karą, walczy w nim usprawiedliwianie zbrodni z naturalnymi ludzkimi odczuciami, takimi jak empatia i poczucie moralności. Symbolicznie jest to konfrontacja dobra ze złem.
+Dopiero spotkanie z Sonią umożliwia mu zrozumienie, że jedynym wyjściem jest przyznanie się do winy i odpokutowanie. Zesłany na Syberię przechodzi przemianę i dopiero wtedy koi dręczące go sumienie.
+
+**Potop**
+Początkowo Kmicic jest impulsywnym, porywczym, brawurowym szlachcicem, znanym z przemocy i hulaszczego trybu życia - patrz:
+- zniszczenie portretów rodziny Billewiczów podczas pijatyki
+- spalenie Wołmontowicz w wyniku sporu z rodziną Butrymów
+- porwanie Oleńki - dziewczyna straciła do niego szacunek po spaleniu Wołmontowicz, więc postanawia ją porwać, aby wymusić małżeństwo
+Kmicic w dobrej wierze składa Januszowi Radziwiłłowi przysięgę wierności, przez co pozostaje przy jego boku gdy ten przechodzi na stronę króla szwedzkiego. Swój błąd zaczyna rozumieć po rozmowie z Bogusławem, kiedy pojmuje, że Radziwiłłowie nie działają dla dobra ojczyzny. Czuje się wykorzystany i oszukany, porywa więc Bogusława, co jest początkiem jego przemiany. Zrywa z dawnym życiem i przyjmuje nazwisko **Babinicz**. 
+Jako Babinicz bierze udział w obronie Jasnej Góry, wykazując się odwagą i poświęceniem (np. wysadzenie kolubryny). Później ratuje króla Jana Kazimierza, walczy ze Szwedami. Każdy czyn jest próbą rehabilitacji wobec ojczyzny i Oleńki.
+Ostateczną próbą okazuje się moment, w którym Kmicic dowiaduje się o miejscu pobytu Oleńki. W pierwszym odruchu chciał porzucić pole walki aby zobaczyć się z ukochaną. Postanowił jednak pozostać na stanowisku, wierząc, że jedynie w ten sposób będzie mógł zrehabilitować się w jej oczach. Jest to dowód dokonanej przemiany i dojrzałości bohatera - przezwyciężył swoje słabości.
+Ostatecznie dochodzi do moralnej rehabilitacji Kmicica - z awanturnika i warchoła stał się gotowym do poświęceń patriotą. Zasłużył na przebaczenie Oleńki, która zgadza się za niego wyjść oraz na oficjalną rehabilitację od króla.
+
+**Zakończenie**
+Choć człowiek jest istotą niedoskonałą i zawsze ma jakieś słabości, dobre życie polega właśnie na ich przezwyciężaniu.
+### 35. Motyw winy i kary
+Omów zagadnienie na podstawie *Zbrodni i kary* Fiodora Dostojewskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**: Motyw winy i kary jest jednym z najpopularniejszych w literaturze. Wyraża przekonanie o istnieniu sprawiedliwości - każde zło będzie, prędzej czy później, ukarane. Nawet jeśli człowiek nie będzie w stanie tej sprawiedliwości wymierzyć, zrobi to za niego natura. 
+
+**Zbrodnia i kara**
+Rodion Raskolnikow był biednym byłym studentem, który, uważając się za nadczłowieka, postanowił zabić lichwiarkę. Jest przekonany o słuszności tego czynu, jako że lichwiarka była społecznym pasożytem.
+Wina Rodiona jest oczywista, a kara nieunikniona. Mimo tego, że jest w stanie sprawnie unikać wymiaru sprawiedliwości, nie może uciec przed własną, ludzką naturą. Sumienie buntuje się przeciw zbrodni, dręczy go koszmarami, Raskolnikow zapada na fizyczną chorobę. Kara, jakiej ostatecznie podlega po przyznaniu się do winy - zesłanie na Syberię - jest drugorzędna, wobec konsekwencji, jakie czekały go ze strony własnego ciała.
+
+**Mit o Syzyfie**
+Syzyf był królem Koryntu, ulubieńcem bogów. Często bywał zapraszany na Olimp, podkradał ambrozję i rozpowiadał boskie sekrety. Do czasu było to tolerowane, później jednak Zeus się rozwścieczył i wysłał po niego bożka śmierci, Tanatosa. Syzyf uwięził Tanatosa, przez co ludzie przestali umierać. Bogowie to zauważyli i uwolnili Tanatosa, Syzyf zdążył jednak powiedzieć żonie, by nie składała ofiar pogrzebowych. Przez to jego dusza nie mogła przeprawić się przez Styks, więc Hades pozwolił mu wrócić na ziemię, by dopilnować pochówku, co Syzyf wykorzystał by znów ukrywać się przed bogami.
+Ostatecznie został schwytany i skazany na wieczne wtaczanie na górę głazu, który każdorazowo staczał się na sam dół. 
+Winą Syzyfa była pycha. Mimo ogromnego sprytu, który umożliwił mu tak długie uciekanie przed sprawiedliwością, ostatecznie nie przechytrzył bogów, ponieważ na dłuższą metę jest to niemożliwe.
+
+**Świtezianka**
+
+**Zakończenie**
+Motyw winy i kary pełni rolę przede wszystkim dydaktyczną, przypominając o odpowiedzialności za czyny i nieuniknioności sprawiedliwości. Od konsekwencji nie może uratować winnego spryt i przebiegłość - ostatecznie kara dosięgnie każdego, kto zawinił - w postaci boskiej (Syzyf) czy własnej reakcji (Raskolnikow).
+### 36. Ile człowiek jest gotów poświęcić dla innych
+Omów zagadnienie na podstawie *Zbrodni i kary* Fiodora Dostojewskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Niektórzy ludzie są gotowi do wielkich poświęceń dla innych, potrafiąc przedłożyć cudzy interes nad własny, co jest godne podziwu i naśladowania.
+
+**Zbrodnia i kara**
+Dunia, siostra Raskolnikowa, ceni dobro bliskich ponad własne - poświęca się dla nich, chcąc wyjść za niekochanego przez siebie Łużyna, co zapewniłoby im stabilną sytuację materialną.
+Również jej matka, Pulcheria Aleksandrowna, całe swoje życie podporządkowuje swoim dzieciom. Mimo złej sytuacji materialnej wspiera finansowo Rodiona i wspiera go bezgranicznie, bez względu na jego, niezrozumiałe dla niej i często ją raniące, zachowanie. 
+Podobną postawę prezentuje Sonia, która mimo bycia pobożną chrześcijanką oddaje się prostytucji, aby zapewnić byt swojej rodzinie.
+Widzimy, że kobiety te potrafiły poświęcić swoją godność i przyszłość aby wesprzeć najbliższą rodzinę.
+
+**Mistrz i Małgorzata**
+Małgorzata poświęca dla Mistrza całe swoje dotychczasowe życie - praktycznie bez namysłu porzuca męża i mieszkanie w bogatej willi z służącą po to, aby wybrać życie w niewielkim pokoiku z ukochanym.
+Kiedy traci Mistrza nie waha się zawrzeć paktu z diabłem tylko po to, żeby go odzyskać. Ryzykuje dla niego wiecznym potępieniem i igraniem z nieznanymi sobie siłami.
+Mimo tego, że miłość do Mistrza była dla Małgorzaty najwyższą wartością w życiu, potrafiła ona ją poświęcić dla innej, obcej osoby. Na bal, którego Małgorzata jest gospodynią, przychodzi Frieda, która udusiła dziecko, bo nie mogła go utrzymać (ponowne nawiązanie do Fausta - do Małgorzaty). Małgorzata współczuje jej wiecznego potępienia, dostrzega, że potępiony powinien być ojciec dziecka i, w ramach jednej rzeczy, o jaką mogła prosić Wolanda, daruje jej przebaczenie. Naraża w ten sposób na poświęcenie swoje uczucie do Mistrza. Woland to szanuje i pozwala jej oprócz tego wybrać kolejne życzenie - Mistrza. Przedłożyła cudze dobro nad własne.
+
+**Zakończenie**
+Co godne podziwu, niektórzy ludzie są w stanie poświęcić dla innych swoją miłość, godność, przyszłość lub cały sens życia. Jest to godne podziwu i stanowi miarę człowieczeństwa.
+### 37. Co może determinować ludzkie postępowanie
+Omów zagadnienie na podstawie *Zbrodni i kary* Fiodora Dostojewskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Ludzkie postępowanie może być determinowane przez wachlarz różnorodnych czynników. Mogą być to motywacje zarówno wewnętrzne, jak uczucia, jak i zewnętrzne, jak sytuacja majątkowa.
+
+**Zbrodnia i kara**
+Raskolnikowa do zbrodni popychały dwa kluczowe czynniki. Pierwszy z nich był zewnętrzny i dotyczył jego fatalnej sytuacji materialnej. Choć często pomijany w kontekście drugiego z czynników, ten również był bardzo ważny. Raskolnikow żył w biedzie, w fatalnych warunkach, był wyzyskiwany przez lichwiarkę przez wzgląd na swoją trudną sytuację finansową. Zamordowanie jej dawało mu nadzieję na pozbycie się długów i poprawienie sytuacji materialnej.
+Drugi czynnik był wewnętrzny, psychiczny i dotyczył ideologii. Dla Raskolnikowa morderstwo było filozoficznym eksperymentem na samym sobie, chciał sprawdzić, czy jest nadczłowiekiem.
+
+**Lalka**
+Wszystkie działania Wokulskiego są absolutnie podporządkowane tylko i wyłącznie jednemu celowi - zbliżeniu się do panny Izabeli. Miłość, jako jedno z najsilniejszych uczuć, jest jego jedynym motywatorem. Dzięki niej osiąga wielkie rzeczy - zdobywa ogromny majątek, awansuje społecznie. Uczucie popycha go również do podejmowania ryzykownych decyzji, takich jak wyjazd na wojnę czy sprzedaż sklepu. 
+Moc miłości okazuje się jednak zgubna - choć umożliwia osiąganie celów na polu biznesowym czy filantropii, Wokulski ponosi klęskę na polu osobistym, nie zdobywając Izabeli.
+
+**Skąpiec**
+
+**Zakończenie**
+Ludzkie zachowania determinowane są przez różne czynniki, w tym wewnętrzne i zewnętrzne. Literatura pokazuje jednak, że najsilniej wpływają na nas czynniki wewnętrzne - emocje.
