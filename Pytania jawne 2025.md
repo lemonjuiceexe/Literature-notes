@@ -1004,7 +1004,7 @@ Suma rozczarowań doprowadza do przełomu. Kordian wygłasza na górze Mont Blan
 **Zakończenie**
 Przykłady Baryki i Kordiana jasno pokazują, że młodość to czas, w którym człowiek dopiero odnajduje swoje powołanie i wartości.
 ## Ferdydurke
-### Groteskowy obraz świata
+### 48. Groteskowy obraz świata
 Omów zagadnienie na podstawie znanych Ci fragmentów *Ferdydurke* Witolda Gombrowicza. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 
 **Teza**
@@ -1131,3 +1131,70 @@ Podmiot liryczny myśli o tym, że każdy, kto umiera, ostatecznie jest zupełni
 
 **Zakończenie**
 Skala tragedii odbiera indywidualizm ofiarom, a historie świadkom pozwalają im odzyskać podmiotowość. 
+# Współczesność
+## Dżuma
+### 55. Co skłania człowieka do poświęceń
+Omów zagadnienie na podstawie *Dżumy* Alberta Camusa. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Bezinteresowne poświęcenie własnego szczęścia dla wyższych wartości jest godnym podziwu aktem, do którego są zdolni niektórzy ludzie. W literaturze widzimy wiele przykładów poświęcenia, często dla wspólnoty, w tym ojczyzny lub rodziny, wiary czy miłości. Niektórzy poświęcają się jednak dla dobra ludzkości, widząc to jako miarę swojego człowieczeństwa.
+
+**Dżuma**
+U Camusa heroizm nie przyjmuje formy wielkich bitew, a przejawia się w osobistej, codziennej walce ze złem i absurdem świata. Doktor Rieux poświęca cały swój czas i energię na walkę z epidemią i pomaganie innym. Doskonale zdaje sobie sprawę, że jego zwycięstwa mogą być tylko chwilowe i nigdy nie przeważą szali na niekorzyść epidemii - nie jest to jednak dla niego powód, aby zaprzestać walki:
+> — Tak — potwierdził Tarrou — rozumiem. Ale pańskie zwycięstwa zawsze będą tymczasowe, tylko tyle. 
+> Rieux jakby się zasępił. 
+> — Zawsze, wiem o tym! Ale to nie powód, żeby zaniechać walki.
+> — Nie, to nie powód. (…)
+
+Rieux nie oczekuje zwycięstwa ani nagrody, zarówno w tym życiu, jak i wiecznym - nie wierzy w Boga. Działa, ponieważ wierzy, że tylko tak będzie człowiekiem i że to sprzeciw przeciwko złu stanowi sens życia. 
+
+**Konrad Wallenrod**
+Konrad Wallenrod walczy o Litwę, swoją ojczyznę, z Krzyżakami. Realizuje podstępny plan, zdobywając w zakonie pozycję wielkiego mistrza i doprowadzając go do klęski, sabotując jego działania.
+Choć główny bohater w walce o ojczyznę kierował się podstępem zgodnie z zasadami makiawelizmu, nie przychodziło mu to z łatwością - było wynikiem moralnego dylematu. Podstępna walka, na którą się zdecydował, była sprzeczna z etosem rycerskim. Wallenrod poświęcał więc dla dobra ojczyzny swój honor. Ponadto rezygnuje ze związku z Aldoną. Młodzi decydują się na rozłąkę, ponieważ dobro ojczyzny jest ważniejsze od ich szczęścia. Wallenrod ostatecznie oddaje za swój kraj również życie, popełniając samobójstwo, kiedy jego podstęp zostaje odkryty.
+### 56. Człowiek wobec cierpienia i śmierci
+Omów zagadnienie na podstawie *Dżumy* Alberta Camusa. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Człowiek wobec cierpienia i śmierci może zwracać się do Boga. Jego wielka skala może jednak sprawiać, że człowiek zaczyna w niego wątpić, nie radząc sobie z problemem teodycei.
+
+**Dżuma**
+Ojciec Paneloux początkowo wierzy, że dżuma to kara boska za grzechy, tak przedstawia ją w swoim pierwszym kazaniu. Przemiana następuje po obserwacji agonii syna sędziego Othona (Filipa), która nie jest w ten sposób wytłumaczalna. Wstępuje do formacji sanitarnych. W drugim kazaniu zamiast *wy* mówi o mieszkańcach *my*, uznaje epidemię za próbę wiary, twierdzi, że cierpienie należy zaakceptować, a wręcz go chcieć, skoro Bóg go chce. 
+Rieux stanowi przeciwwagę dla Paneloux. Jako ateista odrzuca religijne tłumaczenie epidemii. Jego heroizm wynika z humanizmu, nie z wiary. Nie może zgodzić się na istnienie Boga w świecie, w którym istnieje taki ogrom niezawinionego cierpienia. 
+Również Tarrou chce wiedzieć, czy można być *świętym bez Boga* - próbuje, poprzez bunt przeciwko absurdowi, prowadzić dobre, etyczne życie. 
+
+**Dziady cz. III**
+Postawę buntowniczą reprezentuje również Konrad. Niewinna młodzież litewska pada ofiarą brutalnych prześladowań ze strony Nowosilcowa. Są przetrzymywani, torturowani i wywożeni na Sybir. Konrad nie jest w stanie pogodzić się z tą niesprawiedliwością i w *Wielkiej Improwizacji* oskarża Boga o niesprawiedliwość i brak współczucia. Postawiony przed problemem teodycei domaga się władzy, by ulżyć cierpieniom narodu.
+Mickiewicz pogłębia interpretację sensu cierpienia narodu w scenie V, *Widzeniu Księdza Piotra*. Przedstawia swoją historiozoficzną koncepcję mesjanizmu. Poprzez zestawienie losów narodu polskiego z losami Chrystusa sugeruje, że martyrologia ma głębszy sens i ostatecznie doprowadzi do zbawienia wszystkich narodów. Cierpienie jest więc, podobnie jak w księdze Hioba, częścią bożego planu. 
+### 57. Czy możliwa jest przyjaźń w sytuacjach skrajnych
+Omów zagadnienie na podstawie *Dżumy* Alberta Camusa. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Przyjaźń w sytuacjach skrajnych nie tylko jest możliwa, ale są one często przyczyną jej rozkwitu. 
+
+**Dżuma**
+Przyjaźń doktora Rieuxa z Jeanem Tarrou nie jest długotrwała. Panowie poznali się w Oranie, do którego Tarrou przyjechał niedługo przed wybuchem epidemii. Ich przyjaźń skrystalizowała się jako odpowiedź na absurd choroby, trudne czasy umocniły ich bliskość. Podczas gdy relacja Wokulskiego i Rzeckiego trwała mimo różnic światopoglądowych, przyjaźń doktora z Tarrou wynikała przede wszystkim ze wspólnego sposobu postrzegania epidemii. Obydwaj uważali walkę z nią za swój obowiązek jako ludzi, epidemia była dla nich testem człowieczeństwa. 
+
+**Inny świat**
+Namiastką przyjaźni była relacja narratora z Kostylewem. Przyjaźń ta pokazała, że można osiągnąć chociaż trochę ludzkiego ciepła nawet w skrajnych warunkach. Narrator chciał nawet oddać się za Kostylewa na etap do Kołymy, co oznaczało pewną śmierć.
+## 1984
+### 58. Relacje międzyludzkie w rzeczywistości państwa totalitarnego
+Omów zagadnienie na podstawie utworu *Rok 1984* George’a Orwella. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Relacje międzyludzkie mogą być jedynym sposobem na przetrwanie w państwie totalitarnym. Ostatecznie jednak taka rzeczywistość je niszczy i wypacza.
+
+**1984**
+Miłość Julii i Winstona była jedyną namiastką wolności i normalności. Ich relacja była też wyrazem buntu przeciwko totalitarnemu systemowi. Wiedzieli jednak, że ich miłość nie może trwać wiecznie. Ostatecznie oboje zostają pojmani i zmuszeni do zdradzenia się nawzajem.
+
+**Inny świat**
+Namiastką przyjaźni była relacja narratora z Kostylewem. Przyjaźń ta pokazała, że można osiągnąć chociaż trochę ludzkiego ciepła nawet w skrajnych warunkach. Narrator chciał nawet oddać się za Kostylewa na etap do Kołymy, co oznaczało pewną śmierć. Kostylew umiera kilka dni później, popełnia samobójstwo, wylewając na siebie wrzątek. 
+### 59. Jak zachować wolność w państwie totalitarnym
+Omów zagadnienie na podstawie utworu *Rok 1984* George’a Orwella. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Jednym ze sposobów na zachowanie wolności w państwie totalitarnym są relacje międzyludzkie. Niestety nie umożliwiają one zachowania wolności na dłuższą metę.
+
+Reszta patrz jak wyżej
+### 60. Znaczenie propagandy w państwie totalitarnym
+Omów zagadnienie na podstawie utworu *Rok 1984* George’a Orwella. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
