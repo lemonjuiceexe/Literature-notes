@@ -795,3 +795,128 @@ Moc miłości okazuje się jednak zgubna - choć umożliwia osiąganie celów na
 
 **Zakończenie**
 Ludzkie zachowania determinowane są przez różne czynniki, w tym wewnętrzne i zewnętrzne. Literatura pokazuje jednak, że najsilniej wpływają na nas czynniki wewnętrzne - emocje.
+# Młoda Polska
+## Wesele
+### 38. Co utrudnia porozumienie między przedstawicielami różnych grup społecznych
+Omów zagadnienie na podstawie *Wesela* Stanisława Wyspiańskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Główne przyczyny nieporozumień między warstwami społecznymi to wzajemna nieufność i brak szacunku lub nawet pogarda. Warstwy elity - szlachta, arystokracja, inteligencja - nie potrafiły porozumieć się z chłopstwem czy mieszczaństwem, uważając się za lepszych i nie rozumiejąc, że porozumienie jest niezbędne do działania w interesie narodu.
+
+**Wesele**
+Wesele jest ostrą krytyką tego stanu rzeczy. Ślub między wykształconym mieszczaninem Lucjanem Rydlem a chłopką Jadwigą Mikołajczykówną stanowi prawie że mezalians, na który mało kto spogląda przychylnie.
+Inteligencja chciałaby postrzegać się jako grupę przywódców, brakuje im jednak siły. Są wykształceni, ale oderwani od rzeczywistości, pogrążeni w ideach. Zafascynowani kulturą ludową nie rozumieją realnych problemów wsi.
+Chłopi mają zapał i realną siłę, ale brak im przywództwa. W decydującym momencie nie potrafią podjąć skutecznych działań.
+Wesele inteligenta i chłopki jest metaforą próby zjednoczenia narodu, która pozostaje jednak skazana na porażkę. 
+Niemożność porozumienia się tych warstw Wyspiański ukazuje już od pierwszych słów dramatu, w których Czepiec próbuje rozmawiać z Dziennikarzem, który jednak zbywa go, traktując go z góry. 
+Wyspiański przypomina również o historycznych zatargach poprzez postać Upiora. Duch Jakuba Szeli, przywódcy rabacji galicyjskiej, ukazuje się Dziadowi i przypomina o nierozliczonych zatargach między warstwami społecznymi.
+
+**Lalka**
+Podobną sytuację widzimy w *Lalce*. Wokulski zdobywa duży majątek i zbliża się do arystokracji, ale nigdy nie jest traktowany jak równy im. Mimo tego, że jest w lepszej sytuacji materialnej od np. Łęckich, jako dorobkiewicz jest zawsze traktowany z pogardą. Jest to wina pewnych nieusuwalnych i nieprzekraczalnych barier, które od wieków dzielą polskie społeczeństwo.
+
+**Zakończenie**
+Głównym problemem w porozumieniu się warstw społecznych jest wzajemna niechęć i pogarda oraz nieumiejętność zrozumienia się nawzajem oraz przezwyciężenia historycznych konfliktów.
+### 39. Rola chłopów i inteligencji w sprawie niepodległościowej
+Omów zagadnienie na podstawie *Wesela* Stanisława Wyspiańskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Chłopi i inteligencja nie mogą porozumieć się w sprawie niepodległościowej, mimo że to porozumienie jest niezbędne dla jej powodzenia.
+
+**Wesele**
+Wesele jest ostrą krytyką tego stanu rzeczy. Ślub między wykształconym mieszczaninem Lucjanem Rydlem a chłopką Jadwigą Mikołajczykówną stanowi prawie że mezalians, na który mało kto spogląda przychylnie.
+Inteligencja chciałaby postrzegać się jako grupę przywódców, brakuje im jednak siły. Są wykształceni, ale oderwani od rzeczywistości, pogrążeni w ideach. Zafascynowani kulturą ludową nie rozumieją realnych problemów wsi.
+Chłopi mają zapał i realną siłę, ale brak im przywództwa. W decydującym momencie nie potrafią podjąć skutecznych działań.
+Wesele inteligenta i chłopki jest metaforą próby zjednoczenia narodu, która pozostaje jednak skazana na porażkę. 
+Niemożność porozumienia się tych warstw Wyspiański ukazuje już od pierwszych słów dramatu, w których Czepiec próbuje rozmawiać z Dziennikarzem, który jednak zbywa go, traktując go z góry. 
+Wyspiański przypomina również o historycznych zatargach poprzez postać Upiora. Duch Jakuba Szeli, przywódcy rabacji galicyjskiej, ukazuje się Dziadowi i przypomina o nierozliczonych zatargach między warstwami społecznymi.
+
+**Rozdzióbią nas kruki, wrony…**
+Żeromski krytykuje postawę chłopów w ramach powstania styczniowego, podkreśla brak solidarności między warstwami społecznymi. Chłop ograbia ciało Winrycha - jest skupiony na korzyściach materialnych, nie na walce narodowowyzwoleńczej. 
+
+**Historyczny - insurekcja kościuszkowska**
+
+**Zakończenie**
+Zarówno elita (szlachta, inteligencja) jak i niższe warstwy społeczne (chłopstwo, mieszczaństwo) mają swoje role do odegrania w sprawie niepodległościowej - elita ma być przywódcza, chłopstwo ma siłę. Brak porozumienia uniemożliwia powodzenie.
+### 40. Sen o Polsce czy sąd nad Polską
+Omów zagadnienie na podstawie *Wesela* Stanisława Wyspiańskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Literatura jest medium umożliwiającym krytykę społeczną. W czasach zaborów pozwalała na analizę przyczyn klęsk zrywów niepodległościowych.
+
+**Wesele**
+Wesele to polska szopa, Wyspiański stawia polskiemu społeczeństwu gorzką diagnozę. 
+Ślub między wykształconym mieszczaninem Lucjanem Rydlem a chłopką Jadwigą Mikołajczykówną stanowi prawie że mezalians, na który mało kto spogląda przychylnie.
+Inteligencja chciałaby postrzegać się jako grupę przywódców, brakuje im jednak siły. Są wykształceni, ale oderwani od rzeczywistości, pogrążeni w ideach. Zafascynowani kulturą ludową nie rozumieją realnych problemów wsi.
+Chłopi mają zapał i realną siłę, ale brak im przywództwa. W decydującym momencie nie potrafią podjąć skutecznych działań.
+Niemożność porozumienia się tych warstw Wyspiański ukazuje już od pierwszych słów dramatu, w których Czepiec próbuje rozmawiać z Dziennikarzem, który jednak zbywa go, traktując go z góry. 
+Wyspiański przypomina również o historycznych zatargach poprzez postać Upiora. Duch Jakuba Szeli, przywódcy rabacji galicyjskiej, ukazuje się Dziadowi i przypomina o nierozliczonych zatargach między warstwami społecznymi.
+Wesele inteligenta i chłopki jest metaforą próby zjednoczenia narodu, która pozostaje jednak skazana na porażkę. 
+Ostatnia scena chocholego tańca dobitnie podkreśla niezdolność Polaków do działania.
+
+**Lalka**
+Prus krytykuje polskie społeczeństwo. Ukazuje arystokracje jako warstwę gnuśną, niezdolną i niechętną do działania, oddającą się błahym i pustym rozrywkom. Z ich wystawnym stylem życia kontrastuje bieda Powiśla, którą widzi Wokulski. 
+Prus ukazuje, że dobre chęci Wokulskiego, gotowego do pracy na rzecz kraju, spotykają się z obojętnością lub niechęcią arystokracji. W Warszawie patrzy się na niego z góry ze względu na jego pochodzenie, nie daje mu się szans.
+
+**Zakończenie**
+Literatura czasów zaborów wielokrotnie była sądem nad Polską. Nie było to jednak postawą bezmyślnego krytykanctwa, a próbą skłonienia narodu do refleksji.
+### 41. Symboliczne znaczenie widm i zjaw
+Omów zagadnienie na podstawie *Wesela* Stanisława Wyspiańskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Widma i zjawy wykorzystywane są w sztuce aby przekazać żyjącym jakieś prawdy. Często są dla nich moralnymi przewodnikami, wskazującymi dobrą drogę i przestrzegającymi przed występkiem.
+
+**Wesele**
+Uczestnikom wesela ukazuje się wiele widm i zjaw, a każde z nich ma swoje konkretne przesłanie i znaczenie.
+- Marysia - Widmo, duch zmarłego ukochanego. Nawiązanie do *Romantyczności*. Marysia go odrzuca, podejmując odwrotną decyzję niż Karusia - odrzucenie ideałów romantycznych w erze dekadentyzmu.
+- Dziennikarz - Stańczyk, symbol mądrości politycznej, przypomina o odpowiedzialności elit, kontrastuje z Dziennikarzem, który powinien wieść naród a jest bierny, szerzy pesymizm i krytykanctwo
+- Poeta - Rycerz, przypomina o dawnej świetności Rzeczypospolitej i potencjale drzemiącym w narodzie. Kontrastuje z dekadencją Poety.
+- Pan Młody - Hetman, symbol zdrady narodowej i moralnego upadku szlachty. Twierdzi, że ślub to zdrada klasy społecznej Rydla, symbolizuje rozłam w narodzie.
+- Dziad - Upiór, duch Jakuba Szeli, przywódcy rabacji galicyjskiej. Przypomina o nierozliczonych waśniach między chłopstwem a inteligencją.
+- Gospodarz - Wernyhora, symbolizuje możliwość wzniecenia powstania i odpowiedzialność za nie.
+- Chochoł - niemoc i marazm polskiego społeczeństwa
+
+**Dziady cz. II**
+Każdy z duchów pojawiających się podczas obrzędu cierpiał za inne grzechy
+- Józio i Rózia - niezaznanie goryczy, uczą, że cierpienie jest nieodłączną częścią życia
+- Zły Pan - okrucieństwo i egoizm
+- Zosia - egoizm uczuciowy, oderwanie od rzeczywistości
+Duchy przestrzegają przed podzielaniem ich losu.
+
+**Zakończenie**
+Zjawy i widma pełnią rolę dydaktyczną i moralizatorską, przestrzegając żyjących przed błędami.
+### 42. Motyw tańca
+Omów zagadnienie na podstawie *Wesela* Stanisława Wyspiańskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Taniec kojarzy nam się raczej pozytywnie, z zabawą. W sztuce często wykorzystywany jest przewrotnie, służy do krytyki bierności lub jest, w groteskowy sposób, zestawiany z tragicznymi wydarzeniami.
+
+**Wesele**
+Finałowa scena dramatu w dobitny sposób puentuje diagnozę Wyspiańskiego postawioną polskiemu społeczeństwu. Po straconej szansie na zryw niepodległościowy, weselnicy pogrążają się w chocholim tańcu, tracąc jakikolwiek kontakt z rzeczywistością. Symbolizuje to kompletną bezsilność i marazm społeczeństwa, niezdolnego do wspólnego działania, wolącego oddać się zabawie i przyjemnościom niż wspólnej sprawie.
+
+**Tango**
+W analogiczny sposób, nawiązując do *Wesela*, użył motywu tańca Sławomir Mrożek. Finałowa scena *Tanga* ukazuje niechęć polskiej inteligencji do oporu wobec władz komunistycznych.  Po śmierci Artura Edek przejmuje władzę w domu i zmusza Eugeniusza do odtańczenia tanga, kończącego sztukę. Edek prowadzi, co symbolizuje dyktaturę siły - bierność Eugeniusza uasabia konformizm elit, niestawiających oporu władzy ludowej. 
+
+**Motyw danse macabre**
+Motyw tańca śmierci, danse macabre, wykształcił się w średniowieczu jako przypomnienie, że śmierć czeka wszystkich. W epoce, której mottem było memento mori, a która równocześnie była zdominowana przez system feudalny i pełna nierówności, potrzebne było przypomnienie, że chociaż wobec śmierci wszyscy są równi.
+Jest to motyw występujący głównie w malarstwie, przedstawiający taneczny korowód prowadzony przez śmierć. Jest on złożony z przedstawicieli wszystkich stanów i zawodów, co podkreśla równość wobec śmierci, bez względu na płeć, wiek, mądrość, stan, pochodzenie, majątek czy zawód.
+
+**Zakończenie**
+Motyw tańca zwykle stosowany jest w sztuce w sposób przewrotny i zamiast z zabawą kojarzy się z upadkiem moralnym, marazmem, dyktaturą siły lub śmiercią.
+## Chłopi
+### 43. Obyczaj i tradycja w życiu społeczeństwa
+Omów zagadnienie na podstawie znanych Ci fragmentów *Chłopów* Władysława Stanisława Reymonta. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Obyczaj i tradycja stanowią ważną część życia społeczeństwa. Są punktem zaczepienia, jednoczą społeczność i podtrzymują jej tożsamość. 
+**Chłopi**
+Życie chłopów jest podporządkowane nie tylko rytmowi natury, ale i powiązanemu z nim rytmowi obrzędów i rytuałów. Cztery tomy powieści odpowiadają czterem porom roku, a każda z nich niesie za sobą inne obowiązki (orka, siew, żniwa) i obrzędy (Jarmark, Boże Narodzenie, Wielkanoc, Odpust). 
+Obyczaj i tradycja ułatwiają życie w trudnych warunkach wsi. Istotne były więc wspólne prace gospodarskie, np. obieranie kapusty, przy którym można było bawić się i rozmawiać, umilając sobie pracę. 
+Również ślub był obwarowany rozmaitymi zasadami. Oświadczenie się musiało odbywać się poprzez swatów, którzy nieśli wódkę rodzinie panny młodej i negocjowali warunki ślubu. 
+Brak zgody Jagny na ścięcie jej panieńskich warkoczy jest uchybieniem obyczajowi i podkreśla jej indywidualizm, Jagna nie przystaje do wiejskiej społeczności. Jest to jeden z objawów niedostosowania się, za który ostatecznie zapłaci wygnaniem.
+
+**Tango**
+W *Tangu* widzimy obraz społeczeństwa pozbawionego obyczaju i tradycji, w świecie pozbawionym norm i zasad. 
+Eleonora i Stomil w imię wolności zrywają z tradycją. W praktyce prowadzi to do chaosu i moralnego rozprężenia. Widzimy, jak brak zasad, tradycji i obyczajów, które wyznaczałyby drogę, nieuchronnie prowadzi do dyktatury prymitywnej siły, reprezentowanej przez Edka. 
+
+**Zakończenie**
+Obyczaj i tradycja pełnią kluczową rolę w społeczeństwie, ułatwiają mu życie i wskazują drogę. Upadek tych wartości nieuchronnie prowadzi zaś do upadku całego społeczeństwa i dyktatury prymitywu.

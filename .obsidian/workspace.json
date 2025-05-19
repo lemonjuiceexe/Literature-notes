@@ -24,31 +24,45 @@
             }
           },
           {
-            "id": "c2ce4f9b61de10b0",
+            "id": "353ec2a14161c98e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 Pozytywizm/Zbrodnia i kara.md",
+                "file": "08 Młoda Polska/Wesele.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zbrodnia i kara"
+              "title": "Wesele"
             }
           },
           {
-            "id": "08bf3aa70959cc8d",
+            "id": "8276bc844d8f9dc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 Dwudziestolecie międzywojenne/Mistrz i Małgorzata.md",
+                "file": "08 Młoda Polska/Chłopi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mistrz i Małgorzata"
+              "title": "Chłopi"
+            }
+          },
+          {
+            "id": "996fc4eda49a7abf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11 Współczesność/Tango.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tango"
             }
           }
         ]
@@ -200,13 +214,18 @@
   },
   "active": "6979d24833da34bd",
   "lastOpenFiles": [
-    "07 Pozytywizm/Zbrodnia i kara.md",
-    "09 Dwudziestolecie międzywojenne/Mistrz i Małgorzata.md",
+    "11 Współczesność/Tango.md",
     "Pytania jawne 2025.md",
+    "08 Młoda Polska/Chłopi.md",
+    "08 Młoda Polska/Wesele.md",
+    "Untitled.md",
+    "08 Młoda Polska/Młoda Polska.md",
+    "07 Pozytywizm/Lalka.md",
+    "09 Dwudziestolecie międzywojenne/Mistrz i Małgorzata.md",
+    "07 Pozytywizm/Zbrodnia i kara.md",
     "07 Pozytywizm/Potop.md",
     "11 Współczesność/Profesor Andrews w Warszawie.md",
     "11 Współczesność/Dżuma.md",
-    "07 Pozytywizm/Lalka.md",
     "06 Romantyzm/Kordian.md",
     "06 Romantyzm/Cierpienia młodego Wertera.md",
     "06 Romantyzm/Dziady cz. III.md",
@@ -219,13 +238,8 @@
     "06 Romantyzm/Romantyzm.md",
     "06 Romantyzm/Ballada.md",
     "05 Oświecenie/Satyry.md",
-    "08 Młoda Polska/Chłopi.md",
-    "Untitled.md",
     "04 Barok/Skąpiec.md",
     "03 Renesans/Makbet.md",
-    "README.md",
-    "02 Średniowiecze/Rozmowa Mistrza Polikarpa ze Śmiercią.md",
-    "02 Średniowiecze/Filozofia średniowiecza.md",
     "Untitled",
     "11 Współczesność",
     "Sztuka/Barok/Jan Vermeer - Dziewczyna z perłą.png",
