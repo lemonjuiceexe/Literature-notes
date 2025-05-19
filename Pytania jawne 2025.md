@@ -920,3 +920,86 @@ Eleonora i Stomil w imię wolności zrywają z tradycją. W praktyce prowadzi to
 
 **Zakończenie**
 Obyczaj i tradycja pełnią kluczową rolę w społeczeństwie, ułatwiają mu życie i wskazują drogę. Upadek tych wartości nieuchronnie prowadzi zaś do upadku całego społeczeństwa i dyktatury prymitywu.
+# Dwudziestolecie międzywojenne
+## Przedwiośnie
+### 44. Jakie znaczenie ma tytuł dla odczytania sensu utworu
+Omów zagadnienie na podstawie *Przedwiośnia* Stefana Żeromskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Tytuł czasem nie wprowadza żadnej dodatkowej warstwy interpretacyjnej (*Kordian*, *Antygona*, *Skąpiec*, *Odprawa posłów greckich*, *Rok 1984*). Zdarza się jednak, że wieloznaczny tytuł otwiera przed czytelnikiem dodatkowe interpretacje i skłania do refleksji.
+
+**Przedwiośnie**
+Przedwiośnie to okres przejściowy między zimą i wiosną, kiedy mimo niskich temperatur i śniegu pojawiają się pierwsze oznaki powrotu do życia.
+- W odniesieniu do Cezarego, przedwiośnie oznacza okres dojrzewania i formowania bohatera. Jest to czas pierwszej miłości, kształtowania poglądów i definiowania swojej tożsamości.
+- W odniesieniu do sytuacji politycznej, przedwiośnie jest metaforą czasu po zaborach (zimie) ale przed uformowaniem się młodego państwa (wiosną). Jest to czas pełen nadziei na odrodzenie Polski ale i stojących przed nią wyzwań i zagrożeń - tak samo, jak na odradzającą się przyrodę czyhają przymrozki. 
+
+**Zdążyć przed Panem Bogiem**
+> Pan Bóg już chce zgasić świeczkę, a ja muszę szybko osłonić płomień, wykorzystując Jego chwilową nieuwagę. Niech się pali choć trochę dłużej, niż On by sobie życzył.
+
+Edelman postrzega pracę lekarza jako wyścig z Bogiem. Jest on równocześnie przedłużeniem roli, jaką Edelman pełnił na Umschlagplatzu, ratując pojedyncze osoby z masy ludzi skazanych na śmierć. 
+Jego celem, w gettcie i jako lekarza, było uratować chociaż kilka istnień.
+
+**Zakończenie**
+Tytuł dzieła literackiego może pomóc czytelnikowi lepiej zrozumieć sens utworu.
+### 45. Wojna i rewolucja jako źródła doświadczeń człowieka
+Omów zagadnienie na podstawie *Przedwiośnia* Stefana Żeromskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+**Przedwiośnie**
+Wojna i rewolucja były źródłem cennych doświadczeń dla Cezarego Baryki. Podczas młodości w Baku brakowało mu perspektywy i doświadczenia, aby odpowiednio ocenić swoją sytuację. Nie rozumiał, że rewolucja bolszewicka, z którą sympatyzował, doprowadza do upadku jego rodzinę i zabija jego matkę. 
+Ostatecznie jednak dramatyczne doświadczenia spowodowane przez rewolucję i wojnę - śmierć matki, bieda, grzebanie trupów po rzezi Ormian, uczestnictwo w walkach przeciwko bolszewikom w wojnie 1920 roku - stają się dla Baryki bardzo cenne. To dzięki nim umie sprzeciwić się komunistom, którzy, choć wierzą w lepszą Polskę, nie rozumieją praktycznych konsekwencji swoich poglądów. W tym sensie Baryka stanowi przeciwieństwo Lulka, który nigdy nie widział wojny ani rewolucji i całą swoją wiedzę czerpał z pism.
+To właśnie jego doświadczenia pozwalają mu zrozumieć ogrom kosztu przemian społecznych i politycznych, a także jak ważne jest poszukiwanie własnej drogi wśród ideologicznych haseł, co podkreśla jego samotny marsz, kończący powieść.
+
+**Nie-boska komedia**
+Dramat Krasińskiego przedstawia rewolucję jako destrukcyjną siłę, chaos, niszczący wszelki ład i nieoferujący niczego w zamian. Widać to w scenie, w której Pankracy oprowadza Henryka po obozie rewolucjonistów. Widzi degrengoladę, bezsensowną przemoc. Pankracy sam nie wierzy w możliwość stworzenia niczego nowego, jego pustka obnaża pustkę rewolucji. Podróż Henryka przez obóz staje się dla niego cennym doświadczeniem, uświadamiającym zgubność rewolucji.
+
+**Zdążyć przed Panem Bogiem**
+
+**Zakończenie**
+Literatura przestrzega przed wojną i rewolucją. Bezpośredni kontakt z tymi wydarzeniami zawsze otwiera bohaterom oczy na ich okrucieństwo i bezcelowość, co staje się cennym doświadczeniem.
+### 46. Różne wizje odbudowy Polski po odzyskaniu niepodległości
+Omów zagadnienie na podstawie *Przedwiośnia* Stefana Żeromskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Tak samo jak zmieniały się poglądy dotyczące sposobu walki o niepodległość (romantyczny - zbrojny, pozytywistyczny - praca organiczna), również wizje odbudowy Polski po odzyskaniu suwerenności różniły się między sobą.
+
+**Przedwiośnie**
+W Przedwiośniu ścierają się różne wizje odbudowy Polski:
+- **Ewolucja** Szymona Gajowca - stopniowe reformy, oparte na stabilizacji gospodarczej, wprowadzeniu polskiego złotego, rozwoju edukacji i budowie instytucji państwowych. Gajowiec wierzy w nowoczesną Polskę, opartą na sprawiedliwości społecznej, bez przemocy. Jego poglądy przypominają pozytywistyczne hasła pracy organicznej i u podstaw. 
+- **Rewolucja** Antoniego Lulka - komunistyczna rewolucja, obalenie porządku społecznego, zniesienie nierówności społecznych, nacjonalizacja przemysłu i ziemi, dyktatura proletariatu. Cezary pozostaje w sporze z tymi poglądami, sprzecznymi z jego tragicznymi doświadczeniami rewolucji bolszewickiej.
+- Utopijna wizja **szklanych domów**, o której Seweryn Baryka opowiada synowi. Jest to wyidealizowana opowieść o Polsce w której panują powszechna równość, sprawiedliwość i dobre warunki życiowe.
+
+**Kontekst historyczny**
+Również historycznie ścierały się różne wizje odbudowy Polski. Józef Piłsudski wierzył w wielonarodową federację, nawiązującą do tradycji Rzeczypospolitej Obojga Narodów. Za główne zagrożenie dla państwa polskiego postrzegał Rosję. Roman Dmowski miał kompletnie inną wizję, państwa jednolitego narodowo, o granicach ograniczonych do ziem z przewagą ludności polskiej i polonizującego mniejszości. Za główne zagrożenie uważał Niemcy.
+
+**Zakończenie**
+Choć wizje odbudowy Polski były różne, w każdej objawia się troska o dobro kraju. Przykład Baryki, który, skonfrontowany z różnymi poglądami, nie umie jednoznacznie określić swojej drogi, odzwierciedla problem, przed jakim stawali działacze niepodległościowi - odpowiedź o najlepszą drogę dla Polski nie była oczywista.
+### 47. Młodość jako czas kształtowania własnej tożsamości
+Omów zagadnienie na podstawie *Przedwiośnia* Stefana Żeromskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Młodość to szczególny czas w życiu człowieka, w którym człowiek kształtuje swoją tożsamość, charakter i poglądy. 
+
+**Przedwiośnie**
+Przedwiośnie jest powieścią inicjacyjną, czyli historią o formowaniu się głównego bohatera - Cezarego. Jego dojrzewanie można podzielić na kilka etapów 
+- **Dzieciństwo w Baku** - było szczęśliwe i beztroskie. Dorastał w dostatku. Powołanie ojca do wojska wywołuje kryzys wychowawczy, Cezary zaczyna się buntować i sprawiać problemy, ku bezradności samotnej matki.
+- **Rewolucja bolszewicka** - z początku Cezary odnajduje w komunizmie swoje poglądy, porzuca szkołę i entuzjastycznie uczestniczy w wiecach. Ślepy na cierpienie matki wyrządza krzywdę własnej rodzinie, wydając majątek. Dopiero śmierć matki oraz rzeź Ormian otwierają mu oczy na okropieństwa rewolucji.
+- **Podróż do Polski** - Cezary rozczarowuje się prawdziwym obrazem Polski, sprzecznym z opowieściami ojca o szklanych domach. Trafia do kraju wyniszczonego, pełnego nierówności. Zaciąga się do wojska - nie chce być biernym obserwatorem wydarzeń oraz fascynuje go entuzjazm Polaków w obronie ojczyzny.
+- **Nawłoć** - pierwsze doświadczenia miłosne obnażają niedojrzałość emocjonalną Cezarego, który instrumentalnie traktuje Karolinę oraz zachowuje się biernie wobec Wandy. Pobyt na wsi jest też dla niego okazją do obserwacji nierówności społecznych - kontrast warunków życia arystokracji i chłopów budzi w nim sprzeciw.
+- **Warszawa** - Cezary formuje swoje poglądy polityczne, nie odnajdując się w pełni ani w szkole reform Gajowca, ani w komunistycznej rewolucji Lulka. Finałowa scena - marsz na Belweder, w którym Cezary odłącza się od tłumu robotników - symbolizuje jego indywidualizm. Bohater pozostaje w fazie przejściowej, między rewolucją a reformą - metafora przedwiośnia.
+
+**Kordian**
+Młody Kordian jest człowiekiem zagubionym i bez celu. Przypuszczalne samobójstwo przyjaciela, jesień, nieszczęśliwa miłość i brak sensu życia przygnębiają go. Odczuwa Weltschmerz, **jaskółczy niepokój**. Prosi Boga o zesłanie mu jakiegoś celu.
+Po nieudanej próbie samobójczej podróżuje po świecie, weryfikując swoje pojęcie na jego temat
+1. Londyn - James Park
+	Dozorca uświadamia go, że na świecie liczą się przede wszystkim pieniądze
+2. Dover
+	Czytając „Króla Leara" Szekspira dochodzi do wniosku, że literatura nie odpowiada cynicznej rzeczywistości
+3. Włochy
+	Kolejne rozczarowanie miłosne, jego kochance zależało jedynie na bogactwie
+4. Państwo Kościelne
+	Rozczarowanie instytucją papieża, który, zamiast błogosławić naród polski, bierze stronę cara.
+Suma rozczarowań doprowadza do przełomu. Kordian wygłasza na górze Mont Blanc monolog, będący nawiązaniem do Wielkiej Improwizacji, w którym przyjmuje historiozoficzną ideę winkelriedyzmu. Wcześniej brakowało mu powołania, teraz odnajduje je w walce i poświęceniu się za ojczyznę.
+
+**Zakończenie**
+Przykłady Baryki i Kordiana jasno pokazują, że młodość to czas, w którym człowiek dopiero odnajduje swoje powołanie i wartości.
