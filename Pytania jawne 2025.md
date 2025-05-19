@@ -1003,3 +1003,48 @@ Suma rozczarowań doprowadza do przełomu. Kordian wygłasza na górze Mont Blan
 
 **Zakończenie**
 Przykłady Baryki i Kordiana jasno pokazują, że młodość to czas, w którym człowiek dopiero odnajduje swoje powołanie i wartości.
+## Ferdydurke
+### Groteskowy obraz świata
+Omów zagadnienie na podstawie znanych Ci fragmentów *Ferdydurke* Witolda Gombrowicza. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Groteskowy obraz świata jest zazwyczaj przedstawiony w krzywym zwierciadle. Służy to wyolbrzymieniu i napiętnowaniu absurdów rzeczywistości.
+
+**Ferdydurke**
+Groteska w *Ferdydurke* realizowana jest przede wszystkim poprzez 
+- deformację rzeczywistości - brakuje logiki i ciągów przyczynowo-skutkowych 
+- karykaturalne postacie
+- absurdalne wydarzenia (pojedynek na miny, szczekający chłopi)
+- język (szkolna łacina - *novus kolegus*)
+- połączenie komizmu i tragizmu (np. Syfon wieszający się na wieszaku)
+Zastosowanie groteski ma na celu ukazanie absurdalności społeczeństwa i zasad na jakich opiera się jego funkcjonowanie. Idealnym przykładem jest rodzina Młodziaków. Pozornie jest absurdalnie wręcz nowoczesna - rodzice zachęcają Zutę do rozwiązłości. Cała rzeczywistość załamuje się jednak w momencie, kiedy Józio zastawia na rodzinę Młodziaków pułapkę. Kiedy ci odkrywają w nocy w pokoju Zuty Kopyrdę i Pimkę, nie wytrzymują. Spada maska nowoczesności i dochodzi do bójki. 
+Kompletny absurd tej sytuacji jest narzędziem autora, demaskującym sztuczność ludzkich relacji i postaw.
+
+**Tango**
+Groteska realizowana jest w utworze poprzez odwrócenie ról pokoleniowych, które doprowadza do absurdalnych sytuacji (bunt wobec braku możliwości buntu). Postaci są przerysowane (Stomil w wiecznie rozpiętej piżamie). Scena śmierci Eugenii oraz tanga, tańczonego przez Edka i Eugeniusza, mieszają komizm z tragizmem.
+Groteska umożliwia autorowi krytykę społeczeństwa pozbawionego zasad i pokazuje, do czego prowadzi.
+
+**Zakończenie**
+Przedstawienie świata w sposób groteskowy jest celową jego deformacją w celu podkreślenia jego absurdów i sprzeczności. 
+### 49. Człowiek wobec presji otoczenia
+Omów zagadnienie na podstawie znanych Ci fragmentów *Ferdydurke* Witolda Gombrowicza. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Człowiek podlega nieustannej presji otoczenia, które wymaga od niego konkretnych zachowań, odgrywania określonych ról.
+
+**Ferdydurke**
+Gombrowiczowska Forma jest jednym z głównych zagadnień poruszanych w powieści. Autor ukazuje, że Forma otacza i ogranicza każdego człowieka. Społecznie narzucone normy i konwencje tłumią autentyczność jednostki i wymuszają pewne zachowania. Przed Formą nie da się uciec, gdyż brak Formy również byłby Formą. 
+> Nie ma ucieczki przed gębą, jak tylko w inną gębę
+
+Przykładem jest Miętus, który myślał, że propagując prostactwo buntuje się przeciwko upupiającemu schematowi narzuconemu przez Pimkę. W ten sposób stworzył jednak nowy schemat, czyli wpadł w nową Formę.
+W tym sensie utwór jest również satyrą na relacje międzyludzkie, z natury skrzywione przez narzucone Formy, a przez to sztuczne.
+
+**Proces**
+*Proces* można interpretować jako powieść o presji otoczenia. Interpretacja taka jest uzasadniona biograficzną genezą utworu - Kafka zaczął pisać *Proces* po kłótni z narzeczoną, w której uczestniczyła także jej koleżanka. Autor pisał w swoim dzienniku, że czuł się osaczony, nie dano mu możliwości bronienia się, oskarżono go i z góry uznano za winnego.
+Autor pokazuje, że człowiek nie ma żadnych szans w starciu z machiną społecznych wymagań i oczekiwań. Józef K musi w jakiś sposób podporządkować się sądowi - w przeciwnym wypadku czeka go śmierć. 
+
+**Przemiana**
+Historia Gregora Samsy, który zmienił się w robaka, pokazuję presję społecznych oczekiwań jakim podlega człowiek. Jego otoczenie mniej obchodzi fakt, że dosłownie zmienił się w robaka, a bardziej to, jak będzie teraz wypełniał swoje obowiązki. Szef przyjeżdża sprawdzić, co się z nim stało i postanawia go zwolnić. Rodzina trzyma go zamkniętego w pokoju, pilnując, by nikt nie dowiedział się o jego stanie. Zachowują się wobec niego z obrzydzeniem. Przemiana ostatecznie doprowadza do śmierci Gregora, ku uldze rodziny, która miała go już dosyć.
+
+**Zakończenie**
+Literatura przedstawia ogrom i nieuchronność oczekiwań stawianych ludziom przez społeczeństwo i fatalne konsekwencje ich niewypełniania.

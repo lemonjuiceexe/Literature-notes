@@ -24,45 +24,17 @@
             }
           },
           {
-            "id": "60b2e5f9d3a5fdc0",
+            "id": "76bc4a4597bdbcdb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 Dwudziestolecie międzywojenne/Przedwiośnie.md",
+                "file": "09 Dwudziestolecie międzywojenne/Ferdydurke.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Przedwiośnie"
-            }
-          },
-          {
-            "id": "5559dbe1a30b0671",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 II wojna światowa/Zdążyć przed Panem Bogiem.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zdążyć przed Panem Bogiem"
-            }
-          },
-          {
-            "id": "d83f4ac4491a71ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 Romantyzm/Kordian.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kordian"
+              "title": "Ferdydurke"
             }
           }
         ]
@@ -97,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wojn",
+                "query": "groteska",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,10 +186,11 @@
   },
   "active": "6979d24833da34bd",
   "lastOpenFiles": [
-    "06 Romantyzm/Kordian.md",
+    "09 Dwudziestolecie międzywojenne/Ferdydurke.md",
     "Pytania jawne 2025.md",
     "09 Dwudziestolecie międzywojenne/Przedwiośnie.md",
     "10 II wojna światowa/Zdążyć przed Panem Bogiem.md",
+    "06 Romantyzm/Kordian.md",
     "11 Współczesność/Tango.md",
     "08 Młoda Polska/Chłopi.md",
     "08 Młoda Polska/Wesele.md",
@@ -239,7 +212,6 @@
     "06 Romantyzm/Król olch.md",
     "06 Romantyzm/Romantyzm.md",
     "06 Romantyzm/Ballada.md",
-    "05 Oświecenie/Satyry.md",
     "Untitled",
     "11 Współczesność",
     "Sztuka/Barok/Jan Vermeer - Dziewczyna z perłą.png",
