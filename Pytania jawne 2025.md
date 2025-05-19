@@ -1048,3 +1048,86 @@ Historia Gregora Samsy, który zmienił się w robaka, pokazuję presję społec
 
 **Zakończenie**
 Literatura przedstawia ogrom i nieuchronność oczekiwań stawianych ludziom przez społeczeństwo i fatalne konsekwencje ich niewypełniania.
+# II wojna światowa
+## Proszę państwa do gazu
+### 50. „Człowiek zlagrowany" jako ofiara zbrodniczego systemu
+Omów zagadnienie na podstawie utworu *Proszę państwa do gazu* Tadeusza Borowskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Człowiek zlagrowany to ktoś, kto przystosował się do warunków obozu i chce przeżyć za wszelką cenę. Staje się obojętny wobec zasad moralnych, kradnie, oszukuje, traci empatię wobec innych ludzi - przyjmuje logikę oprawców.
+Proces tworzenia ludzi zlagrowanych był wynikiem systematycznego i celowego działania systemu. Fizyczna eksterminacja poprzedzona była duchowym wyniszczeniem, niszczono solidarność i dehumanizowano więźniów.
+
+**Proszę państwa do gazu**
+Narrator opowiadania jest człowiekiem zlagrowanym. Dehumanizacja i odwrócenie systemu wartości szczególnie widoczna jest u członków Kanady, czyli komanda więźniów odpowiedzialnych za wyładowywanie przybyłych do obozu transportów. Nie porusza ich już widok martwych ciał, nierzadko stratowanych i poskręcanych, ani widok błąkających się dzieci. Myślą raczej o jedzeniu i ubraniach, które mogą zdobyć dzięki przeszukaniu rzeczy przybyłych.
+Wynikiem działania systemu była utrata człowieczeństwa więźniów. Narrator nie współczuje już idącym na śmierć ludziom:
+> Widzisz, przyjacielu, wzbiera we mnie zupełnie niezrozumiała złość na tych ludzi, że przez nich muszę tu być. Nie współczuję im wcale, że idą do gazu. Żeby się ziemia pod nimi wszystkimi rozstąpiła. Rzuciłbym się na nich z pięściami. Przecież to jest patologiczne chyba, nie mogę zrozumieć.
+
+**Inny świat**
+Narrator opisuje m. in. urków, czyli kryminalistów, którzy doskonale przystosowali się do życia obozowego, przyjmując zdehumanizowane wzorce zachowań. Traktują innych więźniów jako potencjalne ofiary rabunku czy gwałtów, potrafią grać w karty o cudzą własność. 
+Przykładem okrucieństwa urków jest historia Kowala, ich przywódcy. Po zbiorowym gwałcie na Marusi, ona wchodzi z nim w relację, widząc w tym szansę na przetrwanie w obozie. Inni więźniowie nie akceptują jednak tego stanu rzeczy, dochodzi do bójki i kolejnego zbiorowego gwałtu. Kowal nie broni wybranki, bo nie może postawić się grupie.
+
+**Zakończenie**
+Zachowania człowieka zlagrowanego nie można i nie wolno postrzegać jako moralnego zepsucia. Taki człowiek jest ofiarą zbrodniczego systemu, który świadomie i metodycznie działał w celu pozbawienia więźniów obozów człowieczeństwa i resztek godności. Człowiek był sprowadzany do roli zasobu i żeby przetrwać musiał postępować wg tzw. odwróconego dekalogu.
+## Inny świat
+### 51. Jakie znaczenie ma tytuł dla odczytania sensu utworu
+Omów zagadnienie na podstawie znanych Ci fragmentów *Innego świata* Gustawa Herlinga-Grudzińskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Tytuł czasem nie wprowadza żadnej dodatkowej warstwy interpretacyjnej (*Kordian*, *Antygona*, *Skąpiec*, *Odprawa posłów greckich*, *Rok 1984*). Zdarza się jednak, że wieloznaczny tytuł otwiera przed czytelnikiem dodatkowe interpretacje i skłania do refleksji.
+
+**Inny świat**
+Tytuł utworu to nawiązanie do *Zapisków z martwego domu* Dostojewskiego. Podkreśla paralelę między okrucieństwem carskiego i bolszewickiego systemu, mimo pozornej kompletnej odmienności ideologicznej.
+Tytuł ma również istotne znaczenie moralne. Autor zaznacza, że łagry to *inny świat* - nie można zatem oceniać ich rzeczywistości według miar znanych z normalnego świata, nie wolno oceniać więźniów według normalnych zasad moralnych.
+
+**Przedwiośnie**
+Przedwiośnie to okres przejściowy między zimą i wiosną, kiedy mimo niskich temperatur i śniegu pojawiają się pierwsze oznaki powrotu do życia.
+- W odniesieniu do Cezarego, przedwiośnie oznacza okres dojrzewania i formowania bohatera. Jest to czas pierwszej miłości, kształtowania poglądów i definiowania swojej tożsamości.
+- W odniesieniu do sytuacji politycznej, przedwiośnie jest metaforą czasu po zaborach (zimie) ale przed uformowaniem się młodego państwa (wiosną). Jest to czas pełen nadziei na odrodzenie Polski ale i stojących przed nią wyzwań i zagrożeń - tak samo, jak na odradzającą się przyrodę czyhają przymrozki.
+
+**Zakończenie**
+Tytuł dzieła literackiego może pomóc czytelnikowi lepiej zrozumieć sens utworu.
+### 52. Konsekwencje zniewolenia człowieka
+Omów zagadnienie na podstawie znanych Ci fragmentów *Innego świata* Gustawa Herlinga-Grudzińskiego. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+patrz jak wyżej
+
+## Zdążyć przed Panem Bogiem
+### 53. Czy możliwe jest zachowanie godności w skrajnych sytuacjach
+**Teza**
+Nawet w najtrudniejszych, najbardziej dehumanizujących sytuacjach można próbować zachować godność.
+
+**Zdążyć przed Panem Bogiem**
+Edelman mówi o powstaniu jako o akcie desperacji, a nie jako o zrywie wolnościowym. Podkreśla, że powstańcy nie wierzyli w zwycięstwo - chodziło tylko o wybór sposobu umierania, z bronią w ręku, nie w obozach.
+Marek Edelman unika patosu, jego narracja jest pozbawiona emocji. Deheroizuje zarówno sam zryw, obdzierając go z romantyzmu, jak i uczestników powstania: Anielewicza ukazuje jako młodego i niedoświadczonego chłopaka, który przed wojną malował rybom skrzela, by wyglądały świeżo.
+Edelman podkreśla więc, że zryw był próbą zachowania godności, **wyborem sposobu umierania**. 
+
+**Proszę państwa do gazu**
+Skrajne, dehumanizujące warunki życia w obozie doprowadzały do zlagrowania więźniów. Aby przeżyć, należało się wyzbyć człowieczeństwa. W więźniach budziły się najgorsze instynkty, łamała się solidarność, zaczynali nienawidzić towarzyszy niedoli. W takich warunkach aby przeżyć trzeba było wyrzec się godności. 
+
+**Zakończenie**
+W skrajnych sytuacjach zawsze można próbować zachować godność, jednak może się okazać, że trzeba przypłacić ją życiem.
+
+### 54. Zagłada z perspektywy świadka i uczestnika wydarzeń w getcie
+
+Omów zagadnienie na podstawie *Zdążyć przed Panem Bogiem* Hanny Krall. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Ważne jest aby wsłuchiwać się w głosy bezpośrednich świadków wydarzeń drugiej wojny i Holokaustu. 
+
+**Zdążyć przed Panem Bogiem**
+Marek Edelman z pierwszej ręki opowiada o tym, jak wyglądała rzeczywistość getta. Było ono miejscem przeludnionym, panowały w nim choroby i głód. 
+Marek Edelman codziennie zmuszony był do podejmowania trudnych wyborów przez wzgląd na swoją rolę - to on był odpowiedzialny za wyprowadzanie z transportów ludzi jako *chorych*. 
+W pewnym momencie Niemcy przekazali gminie żydowskiej numerki życia - kartki umożliwiające uniknięcie deportacji (jak się później okazało - jedynie czasowo). Doprowadzało to do tragicznych wyborów - mieszkańcy getta musieli decydować o tym, kto ma przeżyć
+- **Frania**, która otrzymała numerek, odepchnęła od siebie matkę, która nie miała numerka, aby się ocalić. Potem w powstaniu warszawskim ocaliła kilkanaście osób.
+- **Tenebaumowa** otrzymała numerek, przekazała go córce i powiedziała, że zaraz wróci - następnie poszła na górę i się otruła.
+
+> Ludzie garnęli się wtedy do siebie jak nigdy przedtem, jak nigdy w normalnym życiu. Podczas ostatniej likwidacyjnej akcji biegli do gminy, szukając jakiegoś rabina czy kogokolwiek, kto im da ślub, i szli na Umschlagplatz już jako małżeństwo.
+
+Podkreśla, że powstanie nie było heroicznym zrywem, a jedynie wyborem sposobu umierania. Wiedzieli, że nie mają szans na zwycięstwo.
+
+**Campo di Fiori**
+Podmiot liryczny jest świadkiem powstania w getcie, widzi je ze strony aryjskiej. Przywołuje wspomnienie Campo di Fiori, włoskiego placu, gdzie Inkwizycja spaliła filozofa Giordana Bruna. 
+Podmiot liryczny myśli o tym, że każdy, kto umiera, ostatecznie jest zupełnie samotny. Wyraża nadzieję, że kiedyś wzbudzi to bunt społeczeństwa.
+
+**Zakończenie**
+Skala tragedii odbiera indywidualizm ofiarom, a historie świadkom pozwalają im odzyskać podmiotowość. 
