@@ -386,7 +386,6 @@ Nie bez przyczyny Reymont podzielił swoją powieść na części o nazwach odpo
 
 **Zakończenie**
 Przyroda pełni kluczową rolę w życiu człowieka. Literatura ukazuje jednak różne aspekty tej roli - od karmicielki, zapewniającej przeżycie i dobrobyt, po strażniczkę moralności i wykonawczynię boskich wyroków.
-
 ## Dziady cz. III
 ### 20. Losy młodzieży polskiej pod zaborami
 Omów zagadnienie na podstawie *Dziadów części III* Adama Mickiewicza. W swojej odpowiedzi uwzględnij również wybrany kontekst.
@@ -410,7 +409,6 @@ Maryś Tarłowski symbolizuje pokolenie, które, oprócz odważnego zaangażowan
 
 **Zakończenie**
 Postawa młodzieży podczas zaborów charakteryzowała się odwagą i niezłomnością, do dziś budzącą podziw i szacunek. Odegrali znaczącą rolę w procesie zachowania polskiej tożsamości w czasach zaborów i przyłożyli się do tego, że dziś możemy żyć w wolnej Polsce.
-
 ### 21. Mesjanizm jako romantyczna idea poświęcenia
 Omów zagadnienie na podstawie *Dziadów części III* Adama Mickiewicza. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 
@@ -437,7 +435,6 @@ To bezpośrednie nawiązanie uwydatnia uniwersalizm prawd - historia biblijna dz
 
 **Zakończenie**
 Historiozofia mesjanistyczna, poprzez nawiązanie do znanej wszystkim historii o męce Chrystusa, daje wytłumaczenie i uzasadnienie męczeństwa narodu polskiego. Daje nadzieję zbawienia, ułatwiając znoszenie represji.
-
 ### 22. Postawy społeczeństwa polskiego wobec zaborcy
 Omów zagadnienie na podstawie *Dziadów części III* Adama Mickiewicza. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 
@@ -463,7 +460,6 @@ Idealnym przykładem jest Stanisław Wokulski. W młodości powstaniec styczniow
 
 **Zakończenie**
 Choć możemy dojrzeć różnorodne postawy wobec zaborcy, w większości były one zorientowane na poprawę losu narodu polskiego. Występowały od tego niechlubne wyjątki, jak towarzystwo stolikowe, nie były one jednak reprezentatywne dla całego społeczeństwa. 
-
 ### 23. Różne postawy człowieka wobec Boga
 Omów zagadnienie na podstawie *Dziadów części III* Adama Mickiewicza. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 
@@ -477,7 +473,6 @@ Konrad jest rozdarty. Widzi ogromne cierpienie narodu polskiego, męczonego okru
 
 > Kłamca, kto Ciebie nazywał miłością, 
 > Ty jesteś tylko mądrością. 
-
 
 Odmienną postawę prezentuje ks. Piotr. Pokorny bernardyn błaga Boga o przebaczenie win Konradowi i przejmuje na siebie jego grzechy. Podkreśla swoją marność wobec Boga
 > Panie! czymże ja jestem przed Twoim obliczem -
@@ -498,7 +493,6 @@ Również Tarrou chce wiedzieć, czy można być *świętym bez Boga* - próbuje
 
 **Zakończenie**
 Na przestrzeni wieków człowiek przyjmował wobec Boga różne postawy. Często jest on dla ludzi opoką, ostoją w trudnych czasach, opiekunem, któremu można było zaufać (Sęp-Szarzyński, ks. Piotr). Kiedy jednak ogrom cierpienia staje się tak wielki, że problem teodycei staje się trudny do rozwiązania, ludzie często odwracają się od Boga, w najlepszym wypadku kwestionując jego istnienie (Dżuma), a w najgorszym zarzucając mu obojętność (Konrad).
-
 ### 24. Jakie prawdy o człowieku ujawniają jego sny albo widzenia
 Omów zagadnienie na podstawie *Dziadów części III* Adama Mickiewicza. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 
@@ -525,7 +519,6 @@ W analogiczny sposób buntuje się sumienie Swidrygajłowa:
 
 **Zakończenie**
 Sny i widzenia są narzędziami autora, umożliwiającymi odkrycie przed czytelnikiem ukrytych motywacji i lęków bohatera, często nieznanych jemu samemu. Może nam ukazać prawdziwą naturę bohatera (np. ks. Piotr i Konrad, którzy widzą się jako przewodnicy narodu). Są również narzędziem kary wobec zbrodniarzy - jeśli nie daje im rady ludzki system sprawiedliwości, są karani przez własne sumienie, m.in. przy pomocy snów (Nowosilcow, Raskolnikow, Swidrygajłow).
-
 ### 25. W jakim celu twórca nawiązuje do motywów biblijnych?
 Omów zagadnienie na podstawie *Dziadów części III* Adama Mickiewicza. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 
@@ -560,4 +553,148 @@ Mistrz jest podobno do Jeszui - broni prawdy, prostolinijny, dobry, szlachetny. 
 
 **Zakończenie**
 Podejmowanie motywów biblijnych umożliwia uwydatnienie uniwersalności i ponadczasowości pewnych prawd i pozwala dostrzec sens w trudnych momentach dziejowych.
+# Pozytywizm
+## Lalka
+### 26. Miłość - siła destrukcyjna czy motywująca do działania
+Omów zagadnienie na podstawie *Lalki* Bolesława Prusa. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Miłość to jedno z najsilniejszych uczuć, wywiera duży wpływ na ludzkie dzieje.
+
+**Lalka**
+Miłość Wokulskiego do Izabeli jest motorem napędowym wszystkich jego działań. Jego życie jest jej kompletnie podporządkowane. Zdobywa majątek po to, żeby się do niej zbliżyć, dlatego też kupuje kamienicę Łęckich i sprzedaje sklep galanteryjny. Są to ryzykowne decyzje (zarówno finansowo jak i życiowo - wyjazd na wojnę), ale to właśnie miłość motywuje go do ich podejmowania.
+Idealizacja Izabeli okazuje się zgubna - okazuje się ona zwykłą, egoistyczną, gardzącą niewysoko urodzonymi arystokratką, a Wokulski przez jej zdradę prawie popełnia samobójstwo. Mimo to jego uczucie popychało go do działania i zaowocowało w prowadzonej przez niego pracy organicznej (Marianna, Wysocki, Węgiełek) - nie zdobyłby majątku, gdyby nie ta miłość.
+
+**Potop**
+Miłość Andrzeja Kmicica do Oleńki Billewiczówny również jest dla niego siłą napędową. Początkowo jest on awanturnikiem, skłonnym do bijatyk i pijatyk. To właśnie odrzucenie przez Oleńkę staje się jednym z impulsów do jego wewnętrznej przemiany. Kiedy rozumie, że Radziwiłłowie go oszukali, to miłość do Oleńki stanowi dla niego motywację do poprawienia się - działa po to, aby odzyskać ukochaną. Dlatego oczyszcza swoje imię, walcząc w obronie Jasnej Góry i ratując życie Jana Kazimierza. 
+Ostatecznie jego starania okazują się skuteczne - doznaje rehabilitacji w oczach ojczyzny i ukochanej.
+
+**Cierpienia młodego Wertera**
+**Przedwiośnie** (Wanda Okszyńska)
+
+**Zakończenie**
+Miłość jest potężną siłą, która choć może zniszczyć człowieka, potrafi też motywować go do działania, popychając do czynów, na które inaczej nigdy by się nie zdobył. 
+### 27. Różne oblicza przyjaźni
+Omów zagadnienie na podstawie *Lalki* Bolesława Prusa. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Przyjaźń jest jednym z najważniejszych uczuć w życiu człowieka. Dobry przyjaciel to ktoś, komu możemy ufać i kto stanowi dla nas oparcie w trudnych czasach.
+
+**Lalka**
+Przyjaźń Wokulskiego i Rzeckiego opiera się na wzajemnym szacunku, lojalności i oddaniu, mimo różnic w podejściu do życia. Rzecki zawsze wierzy w intencje i sukces Wokulskiego, nawet gdy tamten jest krytykowany przez otoczenie. Przedkłada jego dobro nad własne - chce, by Stach poślubił Stawską, którą sam kochał, ponieważ wierzył, że będzie to dla niego dobre. Równocześnie, choć nie rozumie fascynacji Wokulskiego Łęcką, nie ocenia go z tego powodu, zawsze wspierając przyjaciela.
+Inny charakter ma relacja Wokulskiego z Szumanem. Doktor jest cynikiem, patrzy na życie z dystansem i ma gorzki stosunek do miłości, co wynika z nieszczęśliwej przeszłości i przedwczesnej śmierci ukochanej. Przestrzega Wokulskiego przed zbytnim zaangażowaniem, wiedząc, że arystokracja nigdy nie zaakceptuje obcego. Relacja obu panów nie ma charakteru bezwarunkowego wsparcia, Szuman pełni raczej rolę krytyka, umożliwiającego Wokulskiemu odmienne spojrzenie na sytuację. 
+
+**Dżuma**
+Przyjaźń doktora Rieuxa z Jeanem Tarrou, w przeciwieństwie do relacji Wokulskiego, nie jest długotrwała. Panowie poznali się w Oranie, do którego Tarrou przyjechał niedługo przed wybuchem epidemii. Ich przyjaźń skrystalizowała się jako odpowiedź na absurd choroby, trudne czasy umocniły ich bliskość. Podczas gdy relacja Wokulskiego i Rzeckiego trwała mimo różnic światopoglądowych, przyjaźń doktora z Tarrou wynikała przede wszystkim ze wspólnego sposobu postrzegania epidemii. Obydwaj uważali walkę z nią za swój obowiązek jako ludzi, epidemia była dla nich testem człowieczeństwa. 
+
+**Zakończenie**
+Przyjaźń jest bardzo ważna, ale przyjmuje różne formy. Może trwać mimo trudnych czasów (Rzecki) lub się w ich obliczu formować (Rieux i Tarrou). Przyjaciel nie musi też być bezwarunkowym wsparciem (Rzecki), a może odwodzić nas od złych wyborów i oferować inną perspektywę (Szuman). 
+### 28. Praca jako pasja człowieka
+Omów zagadnienie na podstawie *Lalki* Bolesława Prusa. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Praca, choć kojarzona przede wszystkim z przykrym obowiązkiem, może być dla człowieka pasją, dawać mu sens i godność.
+
+**Lalka**
+Jako powstała w epoce pozytywizmu, powieść gloryfikuje pracę i podkreśla jej znaczenie dla zapewnienia dobrobytu całego społeczeństwa. 
+Ignacy Rzecki jest postacią, dla której praca stanowi najwyższą wartość w życiu. Jego życie obraca się wokół obowiązków zawodowych, które wykonuje z pasją i zaangażowaniem. Praca stanowi główny sens jego życia - kiedy próbuje wyjechać na od dawna zaplanowany urlop w ostatnim momencie wysiada z pociągu, nie umiejąc zostawić sklepu i Warszawy. 
+Praca naukowa stanowi pasję Ochockiego, Geista i Wokulskiego. Wszyscy wierzą, że wynalazki przyczynią się do poprawy poziomu życia społeczeństw. Praca jest dla nich pasją - Ochocki odrzuca arystokratyczny styl życia, by się jej poświęcić. Geist jest pogardzany przez środowiska naukowe, jednak nie przejmuje się tym - uważa swoją pracę za wartość wyższą. Wokulski również jest zafascynowany nauką do tego stopnia, że rozważa porzucenie Łęckiej (najwyższej dla niego wartości) żeby oddać się pracy wynalazczej.
+
+**Dżuma**
+Praca w ramach walki przeciwko epidemii stanowi sens życia doktora Rieuxa i Jeana Tarrou. Rieux całkowicie poświęca się pracy, oddaje chorym cały swój czas, prawie nie śpiąc i nie jedząc. Tarrou z kolei, choć jest obcy w Oranie i choć grozi to śmiercią, tworzy formacje sanitarne i angażuje w ich działalność. 
+Dla bohaterów *Dżumy* poświęcenie się pracy, buntowi przeciw absurdowi stanowi sens i istotę człowieczeństwa. 
+
+**Zakończenie**
+Praca może być nie tylko pasją człowieka, ale jego powołaniem i sensem życia, jeśli wierzy, że ma ona wyższy cel i prowadzi do lepszej przyszłości.
+### 29. Jaką rolę w relacjach międzyludzkich odgrywają majątek i pochodzenie
+Omów zagadnienie na podstawie *Lalki* Bolesława Prusa. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Choć chcielibyśmy wierzyć, że każdy człowiek jest kowalem własnego losu, majątek i pochodzenie odgrywają kluczową rolę w relacjach międzyludzkich. Warunki, jakie każdy człowiek ma zapewnione po urodzeniu determinują jego przyszłość i możliwości.
+
+**Lalka**
+W swojej powieści Prus przedstawia ideę determinizmu społecznego. 
+ci. Wokulski wierzy, że ciężką pracą będzie mógł spełnić cel, jakim jest zbliżenie się do Izabeli. Mimo sukcesu biznesowego nie jest jednak w stanie przezwyciężyć dzielących go od arystokracji różnic klasowych. **Determinizm społeczny** sprawia, że dorobkiewicz nigdy nie będzie traktowany jak równy elitom, choćby i zbankrutowały. Ten sam mechanizm pokazany jest w stosunku do ludzi biednych - np. Węgiełek jest zdolny i chętny do pracy, ale brakuje mu środków - bez zewnętrznej pomocy nie byłby w stanie poprawić swojego losu. Prus nawiązuje także do determinizmu poprzez wprowadzenie toposu **theatrum mundi** - łac. teatru świata. Scena, w której Rzecki ustawia figurki na wystawie sklepowej i śmieje się z nich sugeruje, że ludzkie decyzje, namiętności i starania są ostatecznie bez znaczenia wobec większych od nich sił - każdy z nas jest tylko figurką na wystawie Boga.
+
+**Skąpiec**
+W *Skąpcu* widzimy obraz patologicznej rodziny, ekonomicznie uzależnionej od ojca. Kleant i Eliza utrzymują kontakt z Harpagonem tylko dlatego, że potrzebują jego pieniędzy i nie są w stanie się uniezależnić. Harpagona zaś nie kompletnie nie interesuje dobro dzieci - dla niego ważne są tylko i wyłącznie pieniądze. Nie słucha dzieci, ciągle je krytykuje, wymusza na nich małżeństwa zgodne z jego interesem finansowym. 
+Brak jakiegokolwiek dialogu i zainteresowania dziećmi ze strony Harpagona doprowadza do stałego rozpadu więzi rodzinnych. Dzieci przy pierwszej możliwej okazji opuszczają ojca, którego nawet to nie martwi - liczy się dla niego tylko odnaleziona szkatułka. 
+
+**Zakończenie**
+Literatura potwierdza niestety przykrą hipotezę o tym, że każdy z nas ma jedynie ograniczony wpływ na swój los, a majątek i pochodzenie pozostają kluczowymi czynnikami kształtującymi nasze relacje.
+### 30. Konfrontacja marzeń z rzeczywistością
+Omów zagadnienie na podstawie *Lalki* Bolesława Prusa. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Marzenia niestety często nie wytrzymują próby konfrontacji z rzeczywistością, okazując się złudne. Może to być dla człowieka destrukcyjne lub wręcz przeciwnie, popychać go do działania.
+
+**Lalka**
+*Lalka* jest, wg samego Prusa, powieścią o *trzech pokoleniach idealistów na tle społecznego rozkładu*. Każdy z nich ostatecznie zderza się z niemożliwymi do pokonania barierami:
+- **Ignacy Rzecki** jest idealistą politycznym. Walczył w Wiośnie Ludów i wierzył, że nowy Napoleon pomoże Polsce odzyskać niepodległość.
+  Ideały Rzeckiego okazują się anachroniczne. Ideały rewolucji i bonapartyzmu nie znajdują poparcia w epoce pozytywizmu. Szuman nazywa go ostatnim romantykiem. Umiera w samotności, a jego śmierć symbolizuje ostateczny koniec romantycznych ideałów.
+- **Stanisław Wokulski** jest idealistą miłości. Wynosi ją do najważniejszej w życiu wartości, uważa Łęcką za anioła. Wierzy, że ciężką pracą będzie mógł spełnić cel, jakim jest zbliżenie się do Izabeli.
+  Wokulski, mimo sukcesu biznesowego, nie jest w stanie przezwyciężyć dzielących go od arystokracji różnic klasowych. **Determinizm społeczny** sprawia, że dorobkiewicz nigdy nie będzie traktowany jak równy elitom, choćby i zbankrutowały.
+  Ten sam mechanizm pokazany jest w stosunku do ludzi biednych - np. Węgiełek jest zdolny i chętny do pracy, ale brakuje mu środków - bez zewnętrznej pomocy nie byłby w stanie poprawić swojego losu.
+  Scena w Paryżu ujawnia, że romantyczna literatura była jednym ze źródeł idealizmu Wokulskiego i inspirowała go w młodości:
+>Wzrok jego machinalnie padł na stół, gdzie leżał niedawno kupiony Mickiewicz.
+  > (…)
+  > „Teraz już wiem, przez kogo jestem tak zaczarowany…”
+Uczuł łzę pod powieką, lecz pohamował się i nie splamiła mu twarzy.
+„Zmarnowaliście życie moje… Zatruliście dwa pokolenia!… — szepnął. — Oto skutki waszych sentymentalnych poglądów na miłość.”
+Złożył książkę i cisnął nią w kąt pokoju, aż rozleciały się kartki.
+- **Julian Ochocki** jest idealistą nauki. Porzucił on wygodne życie arystokraty aby poświęcić się nauce. Wierzył, że wynalazki mogą pomóc w budowie lepszego świata.
+  Ochocki nie jest w stanie prowadzić swoich badań w Polsce, gdzie brakuje mu środków, wsparcia i poważnego traktowania - wyjeżdża on za granicę aby kontynuować swoją pracę.
+
+**Kordian**
+Młody Kordian jest człowiekiem zagubionym i bez celu. Przypuszczalne samobójstwo przyjaciela, jesień, nieszczęśliwa miłość i brak sensu życia przygnębiają go. Odczuwa Weltschmerz, **jaskółczy niepokój**. Po nieudanej próbie samobójczej podróżuje po świecie, weryfikując swoje pojęcie na jego temat
+1. Londyn - James Park
+	Dozorca uświadamia go, że na świecie liczą się przede wszystkim pieniądze
+2. Dover
+	Czytając „Króla Leara" Szekspira dochodzi do wniosku, że literatura nie odpowiada cynicznej rzeczywistości 
+3. Włochy
+	Kolejne rozczarowanie miłosne, jego kochance zależało jedynie na bogactwie
+4. Państwo Kościelne
+	Rozczarowanie instytucją papieża, który, zamiast błogosławić naród polski, bierze stronę cara.
+Jego marzenia o idealnym świecie nie wytrzymują konfrontacji z cyniczną rzeczywistością. 
+Suma rozczarowań doprowadza do przełomu. Kordian wygłasza na górze Mont Blanc monolog, będący nawiązaniem do Wielkiej Improwizacji, w którym przyjmuje historiozoficzną ideę winkelriedyzmu. Jednak nawet przemiana Konrada nie zmnienia tego, że pozostaje marzycielem, niewytrzymującym konfrontacji z rzeczywistością - choć pragnie zabić cara, ponosi klęskę.
+
+**Przedwiośnie**
+
+**Zakończenie**
+Marzenia, choć pełnią ważną rolę w życiu człowieka, często nadając mu sens życia, mogą prowadzić do załamania, gdy są zbyt oderwane od rzeczywistości.
+### 31. Jakie cechy charakteru ułatwiają człowiekowi osiągnięcie celu
+Omów zagadnienie na podstawie *Lalki* Bolesława Prusa. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Pewne cechy charakteru ułatwiają człowiekowi osiąganie celów, nie gwarantują jednak sukcesu, szczególnie, jeśli cele są zbyt ambitne i niemożliwe do osiągnięcia.
+
+**Lalka**
+Taką sytuację prezentuje Prus. Wokulski jest człowiekiem ambitnym i zdeterminowanym. Jest zdolny do ciężkiej pracy, która przybliża go do jego celów. Jasno pokazuje to scena z jego młodości: koledzy dla żartu zabrali mu drabinę kiedy był w piwnicy, on zaś o sile własnych ramion wydobył się z niej. Rzecki zauważa, że on dotychczas się tak wydobywa: zdeterminowany i ambitny, daje sobie radę w sytuacjach bez wyjścia.
+Jego wytrwałość i nauka po nocach umożliwiła podjęcie studiów. Następnie gotowość do poświęceń w ramach realizacji planów (ożenek z wdową po Minclu, wyjazd na wojnę) pozwalają mu zdobyć ogromny majątek i pozycję społeczną.
+Mimo tego, nie wszystkie cele okazały się być w zasięgu Wokulskiego. Był on powstrzymywany przez determinizm. Mimo ogromnego wysiłku, choć udało mu się zbliżyć do Łęckich, jako dorobkiewicz nigdy nie mógł być zaakceptowany przez arystokrację jako im równy.
+
+**Odyseja**
+Cechą, która oprócz wytrwałości, konieczna jest do osiągnięcia sukcesu, jest spryt. Umożliwia on przezwyciężanie trudności, które stoją na naszej drodze. Wykazywał się nim Odyseusz: cyklop Polifem uwięził w swojej jaskini Odyseusza i jego towarzyszy, zamykając wejście wielkim głazem. Odyseusz jednak zdołał upić go winem, a kiedy Polifem zasnął, wypalił mu rozżarzonym drągiem jedyne oko. Ponieważ Odyseusz wcześniej przedstawił mu się jako *Nikt*, krzyki Polifema: "Nikt mnie oślepił" zostały zignorowane przez innych cyklopów. Oślepiony Polifem odsunął następnie głaz u wejścia do pieczary i czekał tam na uchodzących Greków. Odyseusz przywiązał wówczas siebie i towarzyszy do podbrzuszy baranów. Polifem gładził wychodzące barany jedynie po grzbietach, i w ten sposób Grecy razem ze stadem wyszli na wolność.
+
+**Zakończenie**
+W osiąganiu celów pomagają różne cechy charakteru. Kluczowa jest wytrwałość, pomaga również spryt. Nie wszystkie cele jednak da się osiągnąć, nawet posiadając te cechy.
+### 32. Miasto – przestrzeń przyjazna czy wroga człowiekowi
+Omów zagadnienie na podstawie *Lalki* Bolesława Prusa. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Miasto może stanowić dla człowieka przyjazną przestrzeń, sprzyjającą jego rozwojowi. Często jednak objawia się jako siedlisko zła, środowisko prowadzące ludzi do upadku i odbierająca im możliwości. W każdym wypadku ma silny wpływ na psychikę bohatera. 
+
+**Lalka**
+Warszawa kojarzy się Wokulskiemu z **leżącą drabiną**. To ironiczny symbol, sugerujący brak możliwości rozwoju. Uważa, że jest ona źle i chaotycznie zagospodarowana. Jest miastem stagnacji, każdy jest zdeterminowany przez swoje pochodzenie i odgrywa swoje role, których nie można zmienić. Razi go kontrast między próżniactwem arystokracji a biedą Powiśla.
+Paryż stanowi antytezę Warszawy. Podziwia logikę, według której zaplanowano całe miasto, które kojarzy mu się z gąsienicą - leży wzdłuż jednej osi. W Paryżu nie liczy się pochodzenie, a umiejętności, Wokulski uważa, że gdyby to tu się urodził, to mógłby osiągnąć wielkie rzeczy. 
+
+**Zbrodnia i kara**
+W lipcu w Petersburgu panuje zaduch, gorąc, brzydota i smród. Miasto przedstawione jest jako siedlisko zła i upadku moralnego, zapełnione jest przez nędzarzy, pijaków i prostytutki. Petersburg jest przede wszystkim środowiskiem nieprzyjemnym, uwięziony w nim bohater jest powoli doprowadzany do szaleństwa oraz zmuszony do walki o byt w ciężkich warunkach materialnych. Miasto niszczy ludzi, rujnuje ich psychikę. Nie oszczędza ludzi dobrych, Sonię doprowadzając do prostytucji. 
+
+**Profesor Andrews w Warszawie**
+Warszawa wita Andrewsa ciepło - miła kolacja z Gosią i jej narzeczonym. Zimowe miasto jest pogrążone w szarości i brzydocie. Poza powierzchowną brzydotą, stanowi pułapkę bez wyjścia. Dla nieznającego języka profesora stanowi labirynt - gubi się pomiędzy szarymi blokami nie umiejąc wrócić do domu. W pewnym momencie zdaje się na przeczucie i wsiada do autobusu, ale to od razu go zawodzi - pojazd skręca w niespodziewaną stronę, Andrewsa ogarnia panika (przecież nie kupił biletu). 
+Miasto jest przestrzenią wrogą bohaterowi, symbolizuje rzeczywistość PRL, której Andrews nie rozumie i w której zawodzi go całe doświadczenie życiowe.
+
+**Zakończenie**
+Miasto jest zjawiskiem wielowymiarowym i może mieć rozmaity wpływ na psychikę bohaterów. Daje szanse, ale i stawia wyzwania - z reguły jednak bohaterowie nie radzą sobie z nimi i upadają.
 
