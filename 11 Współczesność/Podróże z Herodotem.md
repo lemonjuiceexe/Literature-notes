@@ -8,7 +8,7 @@ finished: true
 - **Data**: 2004
 
 ## Problematyka
-Autor opisuje swoje podróże po Azji i Afryce z przygodami starożytnego kronikarza Herodota. 
+Autor opisuje swoje podróże po Azji i Afryce, zestawiając je z przygodami starożytnego kronikarza Herodota. 
 Kapuściński podróżując doznaje szoków kulturowych, co jest okazją do przemyśleń i weryfikacji dotychczasowego postrzegania świata - podróż ubogaca go wewnętrznie. 
 Opisuje Delhi jako pełne kontrastów, fascynowało różnorodnością doświadczeń, lecz szokowało widokiem biedy:
 > po przeciwnej stronie ulicy, na ciasnym placyku, już od świtu zaczęli gromadzić się rikszarze – chudzi, przygarbieni ludzie o kościstych, żylastych nogach. Musieli dowiedzieć się, że w hoteliku zatrzymał się sahib – a sahib z definicji musi mieć pieniądze – więc cierpliwie czekali gotowi do usług. Mnie natomiast myśl, że będę siedział wygodnie rozparty w rikszy, którą ciągnie głodny, słaby, ledwie dyszący chudzielec, napawała najwyższym wstrętem, oburzeniem, horrorem. Być wyzyskiwaczem? Krwiopijcą? Uciskać drugiego człowieka? Przecież wychowywali mnie w duchu dokładnie przeciwnym! W tym mianowicie, że te żywe szkielety to moi bracia, druhowie, bliźni, kość z kości. Więc kiedy rikszarze rzucili się na mnie wśród zachęcających i błagalnych gestów, napierając i walcząc między sobą, zacząłem stanowczo odsuwać ich, ganić i protestować. Zdumieni nie mogli pojąć, o co mi chodzi, nie mogli mnie zrozumieć. Przecież liczyli na mnie, byłem ich jedyną szansą, jedyną nadzieją bodaj na miskę ryżu. Szedłem, nie odwracając głowy, nieczuły, nieustępliwy, dumny, że nie dałem się wmanewrować w rolę pijawki żerującej na ludzkim pocie. #cytat 

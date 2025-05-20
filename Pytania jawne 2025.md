@@ -1198,3 +1198,122 @@ Reszta patrz jak wyżej
 ### 60. Znaczenie propagandy w państwie totalitarnym
 Omów zagadnienie na podstawie utworu *Rok 1984* George’a Orwella. W swojej odpowiedzi uwzględnij również wybrany kontekst.
 
+**Teza**
+Propaganda jest jednym z filarów państwa totalitarnego, umożliwiającym utrzymanie kontroli nad jego obywatelami.
+
+**1984**
+Teleekrany, wymyślanie informacji gospodarczych, praca Winstona - usuwanie z historii osób nieprawomyślnych, ciągła wojna, prawdopodobnie pozorowana - bombardowanie Londynu przez Partię w celu utrzymania atmosfery strachu. 
+
+**Kontekst historyczny**
+Zapluty karzeł reakcji - deprecjonowanie przeciwników politycznych i ideowych. 
+Cenzura - urząd kontroli prasy, publikacji i widowisk. 
+Ważna, szczególnie za Gierka, była propaganda sukcesu - Pomożecie?, pojęcia *dynamicznego rozwoju*, *cudu gospodarczego*, *budowania drugiej Polski*. 
+Mutowanie gazet - do mieszkańców miast, w których odbywały się zamieszki, trafiały gazety z szerokim opisem wydarzeń, inne mutacje, trafiające zazwyczaj na prowincję, były pozbawione informacji
+### 61. Nowomowa jako sposób na ograniczanie wolności człowieka
+Omów zagadnienie na podstawie utworu *Rok 1984* George’a Orwella. W swojej odpowiedzi uwzględnij również wybrany kontekst.
+
+**Teza**
+Nowomowa była sztucznym językiem projektowanym przez Partię. Jej głównym założeniem było minimalizowanie ilości słów, co służyło ograniczaniu horyzontów myślowych. Nie da się myśleć nieprawomyślnie, jeśli brak środków językowych, by to wyrazić.
+
+**1984**
+**Moja wierna mowo - Czesław Miłosz**
+## Tango
+### 62. Bunt przeciwko porządkowi społecznemu
+**Teza**
+Bunt przeciwko porządkowi społecznemu prowadzi tylko do chaosu.
+
+**Tango**
+Artur chce przywrócenia tradycyjnych wartości (szacunku, hierarchii, konwenansów) w domu pozbawionym jakichkolwiek norm. Próbuje to osiągnąć poprzez organizację ślubu z Alą, ale uświadamia sobie, że jest on tylko pustą formą bez idei (miłości), zatem nie ma sensu. 
+Reprezentuje młode pokolenie poszukujące sensu, w świecie, w którym pokolenie jego rodziców zniszczyło wszelkie normy i zasady. Jego bunt staje się więc absurdalny - nie ma przeciwko czemu się buntować, więc buntuje się właśnie przeciwko temu.
+  
+**Nie-boska komedia**
+Dramat Krasińskiego przedstawia rewolucję jako destrukcyjną siłę, chaos, niszczący wszelki ład i nieoferujący niczego w zamian. Widać to w scenie, w której Pankracy oprowadza Henryka po obozie rewolucjonistów. Widzi degrengoladę, bezsensowną przemoc. Pankracy sam nie wierzy w możliwość stworzenia niczego nowego, jego pustka obnaża pustkę rewolucji. Podróż Henryka przez obóz staje się dla niego cennym doświadczeniem, uświadamiającym zgubność rewolucji.
+### 63. Problem upadku wartości
+
+**Teza**
+Upadek wartości prowadzi do upadku człowieka.
+
+**Tango**
+Artur chce przywrócenia tradycyjnych wartości (szacunku, hierarchii, konwenansów) w domu pozbawionym jakichkolwiek norm. Próbuje to osiągnąć poprzez organizację ślubu z Alą, ale uświadamia sobie, że jest on tylko pustą formą bez idei (miłości), zatem nie ma sensu. 
+Reprezentuje młode pokolenie poszukujące sensu, w świecie, w którym pokolenie jego rodziców zniszczyło wszelkie normy i zasady. Jego bunt staje się więc absurdalny - nie ma przeciwko czemu się buntować, więc buntuje się właśnie przeciwko temu.
+Przejęcie władzy przez Edka pokazuje, że wobec upadku wartości władzę przejmuje chamstwo i bezmyślna siła.
+
+**Zbrodnia i kara**
+Ideologia Raskolnikowa jest wynikiem skrajnego utylitaryzmu, przedłożenia racjonalizmu nad moralność. Z tego punktu widzenia morderstwo lichwiarki jest słuszne. Dostojewski ukazuje jego sprzeczność z ludzką naturą, która się buntuje.
+### 64. Normy społeczne - ograniczają człowieka czy porządkują życie
+
+**Teza**
+Normy społeczne, choć zdecydowanie nas ograniczają, stanowią wyznacznik i drogowskaz. Ich odrzucenie prowadzi jedynie do jeszcze większego absurdu. 
+
+**Tango**
+Artur chce przywrócenia tradycyjnych wartości (szacunku, hierarchii, konwenansów) w domu pozbawionym jakichkolwiek norm. Próbuje to osiągnąć poprzez organizację ślubu z Alą, ale uświadamia sobie, że jest on tylko pustą formą bez idei (miłości), zatem nie ma sensu. 
+Reprezentuje młode pokolenie poszukujące sensu, w świecie, w którym pokolenie jego rodziców zniszczyło wszelkie normy i zasady. Jego bunt staje się więc absurdalny - nie ma przeciwko czemu się buntować, więc buntuje się właśnie przeciwko temu.
+Przejęcie władzy przez Edka pokazuje, że wobec upadku wartości władzę przejmuje chamstwo i bezmyślna siła.
+
+**Ferdydurke**
+Gombrowiczowska Forma jest jednym z głównych zagadnień poruszanych w powieści. Autor ukazuje, że Forma otacza i ogranicza każdego człowieka. Społecznie narzucone normy i konwencje tłumią autentyczność jednostki i wymuszają pewne zachowania. Przed Formą nie da się uciec, gdyż brak Formy również byłby Formą. 
+> Nie ma ucieczki przed gębą, jak tylko w inną gębę
+
+Przykładem jest Miętus, który myślał, że propagując prostactwo buntuje się przeciwko upupiającemu schematowi narzuconemu przez Pimkę. W ten sposób stworzył jednak nowy schemat, czyli wpadł w nową Formę.
+W tym sensie utwór jest również satyrą na relacje międzyludzkie, z natury skrzywione przez narzucone Formy, a przez to sztuczne. Nie zmienia to jednak faktu, że brak tych norm jest jeszcze gorszy - patrz absurd Młodziaków.
+## Górą "Edek"
+### 65. W jakim celu autor nawiązuje w swoim tekście do innego tekstu.
+
+**Teza**
+Nawiązuje do innego tekstu, aby podkreślić uniwersalność i ponadczasowość pewnych prawd. 
+
+**Górą "Edek"**
+Marek Nowakowski pokazuje, że choć zakończył się PRL, to postawa Edka - chamstwo, prostactwo i tryumf brutalnej siły wciąż pozostają aktualne, nawet bardziej niż wcześniej w Polce ery transformacji ustrojowej.
+
+**Mistrz i Małgorzata**
+Bułhakow nawiązuje do motywów biblijnych poprzez umieszczenie, w ramach kompozycji szkatułkowej, w swojej powieści następnej powieści, której akcja dzieje się w Jerozolimie podczas skazania, męki i śmierci Chrystusa: 
+Jeszua Ha-Nocri to człowiek dobry i szlachetny, którego świat zniszczy. Jeszua jest zupełnie ludzki, nie zawsze radzi sobie z życiem. Piłat odbiera go jako człowieka naiwnego - Jeszua uważa, że wszyscy ludzi są dobrzy, nawet nazywa prokuratora dobrym człowiekiem. 
+Piłat nie chce skazywać Jeszui, ale jest konformistą - działa w ramach systemu i nie uważa, że nie może sobie pozwolić na darowanie mu życia, boi się. Popełnia **grzech zaniechania** - nie ratuje Jeszui chociaż mógłby, nie reaguje na zło. 
+Mistrz jest podobno do Jeszui - broni prawdy, prostolinijny, dobry, szlachetny. Piłat z kolei symbolicznie reprezentuje *homo sovieticus* - boi się przeciwstawić niesprawiedliwości ze względu na potencjalne konsekwencje.
+**Kompozycja szkatułkowa uwydatnia uniwersalność praw moralnych** - w sensie etycznym następuje analogia między Piłatem a mieszkańcami ZSRR, między Jeszuą a Mistrzem. 
+*Homo sovieticus* - wprowadzone przez Aleksandra Zinowjewa. Termin opisujący członka zdemoralizowanego społeczeństwa komunistycznego:
+- oportunista
+- wyzbywa się dążeń i pragnień, podporządkowuje życie kolektywowi
+- uniżoność wobec silniejszych, odreagowuje na słabszych
+## Miejsce
+### 66. Jaką wartość dla człowieka ma pamięć o przeszłości?
+
+**Teza**
+Pamięć ma kluczową wartość dla społeczności, umożliwiając im zachowanie swojej tożsamości.
+
+**Miejsce**
+Utwór jest refleksją nad pamięcią i przemijaniem. Autor rozważa nad rolą cerkwi jako osi społeczności łemkowskiej, później wysiedlonej. Jej budowniczowie to dla niego strażnicy tradycji, tworzący miejsce łączące pokolenia.
+Narrator nie jest przychylny planom odbudowy świątyni. Jej istota tkwiła w społeczności i jej historii. Bez kontekstu cerkiew staje się jedynie pozbawionym sensu obiektem muzealnym - istotne jest nieuchwytne, niedefiniowalne *miejsce*, nie jego otoczka w postaci budynku. 
+
+**Konrad Wallenrod**
+> Pieni gminna, ty stoisz na straży
+> Narodowego pamiątek kościoła
+
+Pieśń Wajdeloty mówi o tym, że rolą poezji jest strzec tradycji narodowej. Ma za zadanie przekazywanie kolejnym pokoleniom dokonania wielkich rodaków. Ma przechowywać pamięć o wielkich czynach i wydarzeniach.
+Między innymi po to pisał Mickiewicz - aby zachować pamięć o polskości w czasie braku państwowości. Tak samo Sienkiewicz przypominał o czasach świetności Rzeczypospolitej *dla pokrzepienia serc*.
+## Profesor Andrews w Warszawie
+### 67. Stan wojenny z perspektywy obcokrajowca
+
+**Teza**
+Perspektywa obcokrajowca, przyzwyczajonego do normalności, pozwala zdemaskować absurd stanu wojennego.
+
+**Profesor Andrews w Warszawie**
+Brak kontaktu z Gosią, milczące telefony, na ulicy widzi czołg. Nie rozumie rzeczywistości.
+Andrews ufa instynktowi i intuicji, ale zawodzą go one w zderzeniu z absurdem stanu wojennego. Zachodnia logika zawodzi go w brutalnej rzeczywistości PRL, gdzie nagle z powrotem musi przejmować się np. tym, czy będzie miał co jeść lub w co się ubrać.
+
+**Czas apokalipsy**
+Zdjęcie Chrisa Niedenthala to niemal groteskowy obraz stanu wojennego. Opancerzony transporter stoi przed kinem Moskwa, w którym wyświetlany jest film Czas Apokalipsy. Ironia uwydatnia absurd sytuacji. 
+Historia ukazuje mechanizmy cenzury, zdjęcie przekazane nieznanemu niemieckiemu studentowi na dworcu w Warszawie, zaraz przed godziną policyjną, ten wywiózł je do Berlina. 
+## Podróże z Herodotem
+### 68. Czym dla człowieka może być podróżowanie?
+
+**Teza**
+*Podróże kształcą*. 
+
+**Podróże z Herodotem**
+Autor opisuje swoje podróże po Azji i Afryce, zestawiając je z przygodami starożytnego kronikarza Herodota. 
+Kapuściński podróżując doznaje szoków kulturowych, co jest okazją do przemyśleń i weryfikacji dotychczasowego postrzegania świata - podróż ubogaca go wewnętrznie. 
+Opisuje Delhi jako pełne kontrastów, fascynowało różnorodnością doświadczeń, lecz szokowało widokiem biedy. Widać konfrontację europejskiego i hinduskiego systemu wartości - to, co w Kapuścińskim budziło odrazę, dla rikszarzy było czymś naturalnym oraz jedyną szansą na zarobek.
+
+**Kordian**
+Podczas swojego Grand Tour Kordian weryfikuje swoje poglądy na temat świata. Jego nawine poglądy padają w gruzach, kiedy dowiaduje się, że światem rządzą pieniądze i układy, a literatura nie odpowiada rzeczywistości. Kulminacja zawodów pozwala mu wykuć własny światopogląd i odnaleźć cel życia.

@@ -32,4 +32,4 @@ Po śmierci Artura Edek przejmuje władzę w domu i zmusza Eugeniusza do odtańc
 Poprzez zakończenie dramatu sceną tańca, Mrożek nawiązuje do [zakończenia Wesela](../08%20Młoda%20Polska/Wesele#^chocholitaniec). 
 ### Groteska
  #motyw/groteska 
- Groteska realizowana jest w utworze poprzez odwrócenie ról pokoleniowych, które doprowadza do absurdalnych sytuacji (bunt wobec braku możliwości buntu). Postaci są przerysowane (Stomil w wiecznie rozpiętej piżamie). Scena śmierci Eugenii oraz tanga, tańczonego przez Edka i Eugeniusza, mieszają komizm z tragizmem.
+Groteska realizowana jest w utworze poprzez odwrócenie ról pokoleniowych, które doprowadza do absurdalnych sytuacji (bunt wobec braku możliwości buntu). Postaci są przerysowane (Stomil w wiecznie rozpiętej piżamie). Scena śmierci Eugenii oraz tanga, tańczonego przez Edka i Eugeniusza, mieszają komizm z tragizmem.
